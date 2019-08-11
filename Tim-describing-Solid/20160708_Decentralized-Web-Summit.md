@@ -1495,82 +1495,19 @@ now people move from one to another okay
 # 20160708_Decentralized Web Summit_32:22
 
 Question from audience = "Hi, first I first want to say thanks for your vague but interesting idea. I've
-got maybe a vague question of my own. Aactually really what you're just saying, so the web as it is now is designed for document the move them and we still talk about web documents. But so much of you
-know applications and things like that it's really data being delivered over the web but there's no interoperable you know Facebook has its standard for their
-data Yelp all these companies have different ways of representing their data. Are you aware of any standards that kind of hope to kind of unify this kind of data layer and how would you go about kind of promoting that you know given these ideas are really hard there's there's a million different ideas for doing this how do you standardize people on one?"
+got maybe a vague question of my own. Aactually really what you're just saying, so the web as it is now is designed for document the move them and we still talk about web documents. But so much of you know applications and things like that it's really data being delivered over the web but there's no interoperable you know Facebook has its standard for their data help all these companies have different ways of representing their data. Are you aware of any standards that kind of hope to kind of unify this kind of data layer and how would you go about kind of promoting that you know given these ideas are really hard there's there's a million different ideas for doing this how do you standardize people on one?"
 
-Tim's answer = "Well the Solid project is exactly that. So github.com/solid. It's early days. So as a developer you do things link using turtle and drinking the linked data kool-aid because it's cool. And look at the Solid stuff, because the whole idea of that, there are two levels. The goal is that the data stores have generic APIs so that's one layer of standardisation. 
+Tim's answer = 
 
-33:44
-link data kool aid because it's cool
-33:46
-then and when you and and then look at
-33:52
-the solid stuff because the solid the
-33:54
-hope idea that is I suppose there's two
-33:57
-levels one is the goal and now I'm
-34:00
-talking to decay about this particular
-34:01
-project that the goal is that the data
-34:05
-stores are at have generic ap is so that
-34:10
-is one level standardization you can
-34:12
-tweak files you can add data at you can
-34:15
-just add facts to a file edge by by
-34:22
-poking them this so the that level or
-34:26
-that you're reading and writing files
-34:27
-and you're also editing files you can
-34:29
-treat any file as a database basically
-34:32
-that level the server just implements a
-34:35
-certain functionality no more so that we
-34:37
-need a certain on a standardized ation
-34:39
-to be a solid server we know when we've
-34:41
-got one in going we've got one in a node
-34:43
-and to be a server you just need that
-34:46
-level of standardization but to make it
-34:47
-all work the apps can write stuff in the
-34:51
-storage they can't just write anything
-34:52
-so then we have to standardize how you
-34:54
-store your contacts how you steal your
-34:56
-friends how you store your and how you
-34:58
-how you build the interactions because
-35:00
-these aren't just doing a pieces of data
-35:02
-their invitations and acceptances and
-35:05
-things like that so we're working
-35:06
-through that to join us your how I Inca
-35:09
-I hereby encourage you how do you
-35:13
-encourage like this this is the best I
-35:15
-can do
+"Well the Solid project is exactly that. So github.com/solid. It's early days. So as a developer you do things link using turtle and drinking the linked data kool-aid because it's cool. 
+
+And look at the Solid stuff, because the whole idea of that, there are two levels. 
+
+One is that that data stores have generic APIs. That is one layer of standardisation. You can tweak files you can add data, you can add facts to a file, you're reading and writing files, you're also editing files. That you can treat any file as a database basically. To be a Solid server you just need that level of standardisation. 
+
+But to make it all work the apps can write stuff in the storage. But they can't just write anything. You have to standardise how you store your contacts, how you store your friends, how you build the interactions. These aren't just pieces of data they are invitations and acceptances and things like that so we're working through that. 
+
+Do join us. I hereby encourage you, this is the best I can do."
 
 # 35:18
 hello thank you so much for attending
