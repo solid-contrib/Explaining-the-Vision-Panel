@@ -5,7 +5,7 @@
 
 ### Where you store your data is called a Pod
 * [20190306_Washington Post Live_01:15](https://github.com/solid/Explaining-the-Vision-Panel/blob/master/Tim-describing-Solid/20190306_Washington-Post-Live.md#20190306_washington-post-live_0115) 
-* [# 20191027_MozFest_03:11](https://github.com/solid/Explaining-the-Vision-Panel/blob/master/Tim-describing-Solid/20191027_MozFest.md#20191027_mozfest_0311)
+* [20191027_MozFest_03:11](https://github.com/solid/Explaining-the-Vision-Panel/blob/master/Tim-describing-Solid/20191027_MozFest.md#20191027_mozfest_0311)
 
 ### Apps are separate from the Pod
 * [20190306_Washington Post Live_ 00:44](https://github.com/solid/Explaining-the-Vision-Panel/blob/master/Tim-describing-Solid/20190306_Washington-Post-Live.md#20190306_washington-post-live_-0044)
