@@ -1492,16 +1492,17 @@ now people move from one to another okay
 
 
 
-# 20160708_Decentralized Web Summit_32:22
+# [20160708_Decentralized Web Summit_32:22](https://www.youtube.com/watch?v=CbGWoMkNLjs&t=17s)
 
-Question from audience = "Hi, first I first want to say thanks for your vague but interesting idea. I've
-got maybe a vague question of my own. Aactually really what you're just saying, so the web as it is now is designed for document the move them and we still talk about web documents. But so much of you know applications and things like that it's really data being delivered over the web but there's no interoperable you know Facebook has its standard for their data help all these companies have different ways of representing their data. Are you aware of any standards that kind of hope to kind of unify this kind of data layer and how would you go about kind of promoting that you know given these ideas are really hard there's there's a million different ideas for doing this how do you standardize people on one?"
+Question from audience = 
+
+"Hi, first I first want to say thanks for your vague but interesting idea. I've got maybe a vague question of my own. Aactually really what you're just saying, so the web as it is now is designed for document the move them and we still talk about web documents. But so much of you know applications and things like that it's really data being delivered over the web but there's no interoperable you know Facebook has its standard for their data help all these companies have different ways of representing their data. 
+
+Are you aware of any standards that kind of hope to kind of unify this kind of data layer and how would you go about kind of promoting that you know given these ideas are really hard there's there's a million different ideas for doing this how do you standardize people on one?"
 
 Tim's answer = 
 
-"Well the Solid project is exactly that. So github.com/solid. It's early days. So as a developer you do things link using turtle and drinking the linked data kool-aid because it's cool. 
-
-And look at the Solid stuff, because the whole idea of that, there are two levels. 
+"Well the Solid project is exactly that. So github.com/solid. It's early days. So as a developer you do things link using turtle and drinking the linked data kool-aid because it's cool. And look at the Solid stuff, because the whole idea of that, there are two levels. 
 
 One is that that data stores have generic APIs. That is one layer of standardisation. You can tweak files you can add data, you can add facts to a file, you're reading and writing files, you're also editing files. That you can treat any file as a database basically. To be a Solid server you just need that level of standardisation. 
 
