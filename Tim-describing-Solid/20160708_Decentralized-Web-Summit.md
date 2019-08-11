@@ -1492,7 +1492,7 @@ now people move from one to another okay
 
 
 
-# 20160708_Decentralized Web Summit_32:2
+# 20160708_Decentralized Web Summit_32:22
 
 Question from audience = "Hi, first I first want to say thanks for your vague but interesting idea. I've
 got maybe a vague question of my own. Aactually really what you're just saying, so the web as it is now is designed for document the move them and we still talk about web documents. But so much of you
