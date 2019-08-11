@@ -1,6 +1,6 @@
 # Explaining-the-Vision-Panel
 
-### Solid is a standard 
+### Solid is a standard (for a generic data store API & data storage)
 * [20191027_MozFest_07:55](https://github.com/solid/Explaining-the-Vision-Panel/blob/master/Tim-describing-Solid/20191027_MozFest.md#20191027_mozfest_0755)
 * [20160708_Decentralized Web Summit_32:22](https://github.com/solid/Explaining-the-Vision-Panel/blob/master/Tim-describing-Solid/20160708_Decentralized-Web-Summit.md#20160708_decentralized-web-summit_3222) 
 
