@@ -1492,7 +1492,7 @@ now people move from one to another okay
 
 
 
-20160708_Decentralized Web Summit_32:2
+# 20160708_Decentralized Web Summit_32:2
 
 Question from audience = "Hi, first I first want to say thanks for your vague but interesting idea. I've
 got maybe a vague question of my own. Aactually really what you're just saying, so the web as it is now is designed for document the move them and we still talk about web documents. But so much of you
@@ -1500,6 +1500,7 @@ know applications and things like that it's really data being delivered over the
 data Yelp all these companies have different ways of representing their data. Are you aware of any standards that kind of hope to kind of unify this kind of data layer and how would you go about kind of promoting that you know given these ideas are really hard there's there's a million different ideas for doing this how do you standardize people on one?"
 
 Tim's answer = "Well the Solid project is exactly that. So github.com/solid. It's early days. So as a developer you do things link using turtle and drinking the linked data kool-aid because it's cool. And look at the Solid stuff, because the whole idea of that, there are two levels. The goal is that the data stores have generic APIs so that's one layer of standardisation. 
+
 33:44
 link data kool aid because it's cool
 33:46
@@ -1570,7 +1571,8 @@ I hereby encourage you how do you
 encourage like this this is the best I
 35:15
 can do
-35:18
+
+# 35:18
 hello thank you so much for attending
 35:21
 and for your work I'm wondering how you
