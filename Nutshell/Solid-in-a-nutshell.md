@@ -12,9 +12,9 @@ Users can have more than one identity which can either be from an identity provi
 
 Why Solid is useful depends on the audience. Audiences include: 
 
-* [Developers](https://github.com/solid/Explaining-the-Vision-Panel/blob/master/Nutshell/Developers.md) 
-* Businesses
-* [Individuals](https://github.com/solid/Explaining-the-Vision-Panel/blob/master/Nutshell/individuals.md)
-* [Governments](https://github.com/solid/Explaining-the-Vision-Panel/blob/master/Nutshell/governments.md)
+* [Developers](https://github.com/solid/Explaining-the-Vision-Panel/blob/master/Nutshell/for-developers.md) 
+* [Businesses](https://github.com/solid/Explaining-the-Vision-Panel/blob/master/Nutshell/for-businesses.md)
+* [Individuals](https://github.com/solid/Explaining-the-Vision-Panel/blob/master/Nutshell/for-individuals.md)
+* [Governments](https://github.com/solid/Explaining-the-Vision-Panel/blob/master/Nutshell/for-governments.md)
 
 Click on each of the audiences above to see a draft of their perspectives. 
