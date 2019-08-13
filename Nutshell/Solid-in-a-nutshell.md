@@ -13,11 +13,11 @@ Some Solid apps and Pods will be branded as 'beneficent' which will use data in 
 
 # Tailored to a specific audience
 
-Why Solid is useful depends on the audience. Audiences include: 
+Why you'll love Solid depends on your perspective. 
+
+Click on the audiences below to see a draft of and contribute to each of the perspectives.  
 
 * [Developers](https://github.com/solid/Explaining-the-Vision-Panel/blob/master/Nutshell/for-developers.md) 
 * [Businesses](https://github.com/solid/Explaining-the-Vision-Panel/blob/master/Nutshell/for-businesses.md)
 * [Individuals](https://github.com/solid/Explaining-the-Vision-Panel/blob/master/Nutshell/for-individuals.md)
 * [Governments](https://github.com/solid/Explaining-the-Vision-Panel/blob/master/Nutshell/for-governments.md)
-
-Click on each of the audiences above to see a draft of their perspectives. 
