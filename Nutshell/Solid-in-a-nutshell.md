@@ -7,3 +7,14 @@ Solid is a standard that describes how to build data storage and applications in
 Where a user stores their data is called a Pod. Pods are always separate from apps. Pods can either be provided or users can self-host their own Pod(s). One user can have multiple Pods. Multiple apps can use the same data.
 
 Users can have more than one identity which can either be from an identity provider or from a domain that the user owns. Regardless of the identity provider, users can share data with each other. 
+
+# Tailored to a specific audience
+
+Why Solid is useful depends on the audience. Audiences include: 
+
+* Developers 
+* Businesses
+* Individuals
+* Governments
+
+Click on each of the audiences above to see a draft of their perspectives. 
