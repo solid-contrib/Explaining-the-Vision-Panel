@@ -15,6 +15,6 @@ Why Solid is useful depends on the audience. Audiences include:
 * [Developers](https://github.com/solid/Explaining-the-Vision-Panel/blob/master/Nutshell/Developers.md) 
 * Businesses
 * [Individuals](https://github.com/solid/Explaining-the-Vision-Panel/blob/master/Nutshell/individuals.md)
-* Governments
+* [Governments](https://github.com/solid/Explaining-the-Vision-Panel/blob/master/Nutshell/governments.md)
 
 Click on each of the audiences above to see a draft of their perspectives. 
