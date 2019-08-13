@@ -4,6 +4,8 @@ These messages are unofficial drafts and should be treated as such.
 
 You can find the [transcripts of Tim's talks about Solid](https://github.com/solid/Explaining-the-Vision-Panel/tree/master/Tim-describing-Solid) which are the basis of the key messages below. Under each key message are links to Tim's talks where he talks about that key message. 
 
+The key messages below are the raw material used to develop [Solid in a Nutshell](https://github.com/solid/Explaining-the-Vision-Panel/blob/master/Nutshell/Solid-in-a-nutshell.md).
+
 ### Solid is a standard (for a generic data store API & data storage)
 * [20191027_MozFest_07:55](https://github.com/solid/Explaining-the-Vision-Panel/blob/master/Tim-describing-Solid/20191027_MozFest.md#20191027_mozfest_0755)
 * [20160708_Decentralized Web Summit_32:22](https://github.com/solid/Explaining-the-Vision-Panel/blob/master/Tim-describing-Solid/20160708_Decentralized-Web-Summit.md#20160708_decentralized-web-summit_3222) 
