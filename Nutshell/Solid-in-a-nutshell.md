@@ -8,6 +8,9 @@ Where a user stores their data is called a Pod. Pods are always separate from ap
 
 Users can have more than one identity which can either be from an identity provider or from a domain that the user owns. Regardless of the identity provider, users can share data with each other. 
 
+## Beneficent Apps and Pods 
+Some Solid apps and Pods will be branded as 'beneficent' which will use data in the interest of the user (without advertising). Users will pay for beneficent apps and Pods. 
+
 # Tailored to a specific audience
 
 Why Solid is useful depends on the audience. Audiences include: 
