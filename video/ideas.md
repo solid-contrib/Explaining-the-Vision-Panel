@@ -23,7 +23,7 @@ Another idea...
 Get across the unease and irritation of terms and conditions. Switch to a world where you hear a story about a data scandal and can switch Pod, app, or identity provider. 
 
 Need a graphic explaining the idea of the standard: 
-* sepearte the data from the app while having agreement on how the data should be structured so it can slot in and out of a variety of solutions. 
+* separate the data from the app while having agreement on how the data should be structured so it can slot in and out of a variety of solutions. 
 
 * Pod: description of 'in Solid where you store your data is called a Pod'. Although data seems like magical fairy dust floating through the ether it's actually attached to hard wires, databases and physical machinery. In Solid, where you store your data is called a Pod.  You can have multiple Pods, but all your apps are able to connect to all your Pods. 
 * Like peas in a Pod. 
