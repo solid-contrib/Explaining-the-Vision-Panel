@@ -51,12 +51,12 @@ The key messages below are the raw material used to develop [Solid in a Nutshell
 ### Users can share data with other users even if they have different identity providers
 * [20191027_MozFest_06:14](https://github.com/solid/Explaining-the-Vision-Panel/blob/master/Tim-describing-Solid/20191027_MozFest.md#20191027_mozfest_0614)
 
-### Some Solid apps will be branded as 'beneficent apps' which will use data in the interest of the user (without advertising) 
+### Some Solid apps will be branded as 'beneficent apps' which will use data in the interest of the user 
 * [20190306_Washington Post Live_02:02](https://github.com/solid/Explaining-the-Vision-Panel/blob/master/Tim-describing-Solid/20190306_Washington-Post-Live.md#20190306_washington-post-live_0202)
 * [20190306_Washington Post Live_03:55](https://github.com/solid/Explaining-the-Vision-Panel/blob/master/Tim-describing-Solid/20190306_Washington-Post-Live.md#20190306_washington-post-live_0355)
 * [20191027_MozFest_11:15](https://github.com/solid/Explaining-the-Vision-Panel/blob/master/Tim-describing-Solid/20191027_MozFest.md#20191027_mozfest_1115)
 
-### Users will pay for beneficent apps and Pods
+### Users could pay for apps, Pods, and identity providers and are more likely to do so for the beneficent variety
 * [20190306_Washington Post Live_02:17](https://github.com/solid/Explaining-the-Vision-Panel/blob/master/Tim-describing-Solid/20190306_Washington-Post-Live.md#20190306_washington-post-live_0217)
 * [20191027_MozFest_03:03](https://github.com/solid/Explaining-the-Vision-Panel/blob/master/Tim-describing-Solid/20191027_MozFest.md#20191027_mozfest_0303)
 * [20191027_MozFest_11:56](https://github.com/solid/Explaining-the-Vision-Panel/blob/master/Tim-describing-Solid/20191027_MozFest.md#20191027_mozfest_1156)
