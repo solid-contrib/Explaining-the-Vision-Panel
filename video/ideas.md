@@ -1,3 +1,9 @@
+This is a brain dump of idea for a video to tell the [Solid in a Nutshell](https://github.com/solid/Explaining-the-Vision-Panel/blob/master/Nutshell/Solid-in-a-nutshell.md) story. 
+
+
+
+
+
 Tell the story from the perspective of a relatable human day-to-day experience. 
 
 Make sure to include the key points of [Solid in a Nutshell](https://github.com/solid/Explaining-the-Vision-Panel/blob/master/Nutshell/Solid-in-a-nutshell.md)
