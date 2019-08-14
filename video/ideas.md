@@ -30,3 +30,5 @@ Need a graphic explaining the idea of the standard:
 * Open the Pod bay door, hal https://www.youtube.com/watch?v=dSIKBliboIo 
 * https://en.wikipedia.org/wiki/POD 
 * granny pod: "A small house on one's property, separate from the main house, that serves as a permanent home for one's aging parents. Also called a "granny pad." With this granny pod, I get to see my family all the time, while still having a place of my own that is easy to maintain. Just don't call me "Granny"!"
+
+Tell the story from the perspective of data as if it were alive? 
