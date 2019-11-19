@@ -11,10 +11,12 @@ The key messages below are the raw material used to develop [Solid in a Nutshell
 * [20160708_Decentralized Web Summit_32:22](https://github.com/solid/Explaining-the-Vision-Panel/blob/master/Tim-describing-Solid/20160708_Decentralized-Web-Summit.md#20160708_decentralized-web-summit_3222) 
 
 ### Where you store your data is called a Pod
+* [20191118_The-Richard-Dimbleby-Lecture.md 32:48](https://github.com/solid/Explaining-the-Vision-Panel/blob/master/Tim-describing-Solid/20191118_The-Richard-Dimbleby-Lecture.md)
 * [20190306_Washington Post Live_01:15](https://github.com/solid/Explaining-the-Vision-Panel/blob/master/Tim-describing-Solid/20190306_Washington-Post-Live.md#20190306_washington-post-live_0115) 
 * [20191027_MozFest_03:11](https://github.com/solid/Explaining-the-Vision-Panel/blob/master/Tim-describing-Solid/20191027_MozFest.md#20191027_mozfest_0311)
 
 ### Apps are separate from Pods
+* [20191118_The-Richard-Dimbleby-Lecture.md 33:20](https://github.com/solid/Explaining-the-Vision-Panel/blob/master/Tim-describing-Solid/20191118_The-Richard-Dimbleby-Lecture.md)
 * [20190306_Washington Post Live_ 00:44](https://github.com/solid/Explaining-the-Vision-Panel/blob/master/Tim-describing-Solid/20190306_Washington-Post-Live.md#20190306_washington-post-live_-0044)
 * [20191027_MozFest_04:48](https://github.com/solid/Explaining-the-Vision-Panel/blob/master/Tim-describing-Solid/20191027_MozFest.md#20191027_mozfest_0448)
 
@@ -45,11 +47,16 @@ The key messages below are the raw material used to develop [Solid in a Nutshell
 * [solid.mit.edu](https://github.com/solid/Explaining-the-Vision-Panel/blob/master/Solid-website-copy.md#reusing-existing-data---solidmitedu)
 * [solid.mit.edu](https://github.com/solid/Explaining-the-Vision-Panel/blob/master/Solid-website-copy.md#developers-will-be-able-to-easily-innovate-by-creating-new-apps-or-improving-current-apps-all-while-reusing-existing-data-that-was-created-by-other-apps---solidmitedu)
 
+## Users have an identity which doesn't track them 
+* [20191118_The-Richard-Dimbleby-Lecture.md 33:36](https://github.com/solid/Explaining-the-Vision-Panel/blob/master/Tim-describing-Solid/20191118_The-Richard-Dimbleby-Lecture.md)
+
 ### Users can have more than one identity
 * [20191027_MozFest_06:12](https://github.com/solid/Explaining-the-Vision-Panel/blob/master/Tim-describing-Solid/20191027_MozFest.md#20191027_mozfest_0612)
 
 ### Users can share data with other users even if they have different identity providers
+* [20191118_The-Richard-Dimbleby-Lecture.md 33:45](https://github.com/solid/Explaining-the-Vision-Panel/blob/master/Tim-describing-Solid/20191118_The-Richard-Dimbleby-Lecture.md)
 * [20191027_MozFest_06:14](https://github.com/solid/Explaining-the-Vision-Panel/blob/master/Tim-describing-Solid/20191027_MozFest.md#20191027_mozfest_0614)
+
 
 ### Some Solid apps will be branded as 'beneficent apps' which will use data in the interest of the user 
 * [20190306_Washington Post Live_02:02](https://github.com/solid/Explaining-the-Vision-Panel/blob/master/Tim-describing-Solid/20190306_Washington-Post-Live.md#20190306_washington-post-live_0202)
