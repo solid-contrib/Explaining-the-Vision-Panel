@@ -216,8 +216,6 @@ Apple joins Google, Facebook, and Twitter in data-sharing project](https://myjoy
 
 2019-03-23 [Forbes: Sir Tim Berners-Lee At Forefront Of New Movement To Takeback Ownership Of Our Data](https://www.forbes.com/sites/maciejduraj/2019/03/23/sir-tim-berners-lee-at-forefront-of-new-movement-to-takeback-ownership-of-our-data/#4b5cc72434e1)
 
-https://www.corriere.it/economia/leconomia/economia-circolare-mobilita-sostenibile-smart-city/notizie/inrupt-seconda-vita-dell-uomo-che-ha-inventato-web-che-ora-vuole-salvarci-4e599c60-4e18-11e9-8f3f-b71cad3f7934.shtml
-
 2019-03-22 [Medium: The Academics of Investing in AI ](https://medium.com/glasswingvc/the-academics-of-investing-in-ai-8259c62a370b)
 
 2019-03-22 [Little Black Book: Gain Back Your Privacy with a Decentralised Internet](https://lbbonline.com/news/gain-back-your-privacy-with-a-decentralised-internet/)
@@ -249,6 +247,8 @@ https://www.corriere.it/economia/leconomia/economia-circolare-mobilita-sostenibi
 2019-03-12 [Inverse: World Wide Web: 3 Other Acts by Tim Berners-Lee That Shaped the Internet](https://www.inverse.com/article/54000-world-wide-web-google-doodle-tim-berners-lee)
 
 2019-03-12 [CERN: Web@30: reliving history and rethinking the future](https://home.cern/news/news/computing/web30-reliving-history-and-rethinking-future)
+* metions Tim Berners-Lee 
+* *He then presented his plans to re-decentralise the Web with the Solid project for improved privacy and **full data ownership**, and also the Contract for the Web, targeted at governments, companies and citizens to ensure that the Web will serve humanity.*
 
 2019-03-12 [The Sun: WORLD WIDE WOW Who is Sir Tim Berners-Lee and when did he invent the World Wide Web?](https://www.thesun.co.uk/news/8612472/sir-tim-berners-lee-world-wide-web/)
 
@@ -291,6 +291,8 @@ https://www.corriere.it/economia/leconomia/economia-circolare-mobilita-sostenibi
 2019-02-05 [Financial Express: Open up to open-source](https://www.financialexpress.com/opinion/open-up-to-open-source/1476602/)
 
 2019-02-14 [Washington Post: Washington Post Live hosts exclusive interview with Tim Berners-Lee](https://www.washingtonpost.com/pr/2019/02/14/washington-post-live-hosts-exclusive-interview-with-tim-berners-lee/)
+* metions Tim Berners-Lee 
+* "Berners-Lee will share his views on the rise of disinformation and censorship, threats to digital privacy, and his efforts through his company inrupt — and technology Solid — which empowers people to take back **ownership of their data**."
 
 2019-02-15 [Mac Observer: Sir Tim Berners-Lee Wants to Fix the Web with New Startup](https://www.macobserver.com/link/tim-berners-lee-inrupt/)
 
@@ -305,6 +307,10 @@ https://www.corriere.it/economia/leconomia/economia-circolare-mobilita-sostenibi
 2019-02-21 [LearninPub: Highlights & transcript from Zuckerberg’s 20K-word ethics talk – TechCrunch](http://learninpub.blogspot.com/2019/02/highlights-transcript-from-zuckerbergs.html)
 
 2019-02-22 [Forbes: Becoming The Masters Of Our Own Digital Destinies](https://www.forbes.com/sites/jessicabaron/2019/02/22/becoming-the-masters-of-our-own-digital-destinies/#434b73c96f18)
+* metions Tim Berners-Lee 
+* mentions Facebook/ Google/ Microsoft/ big tech
+* "In Facebook CEO Mark Zuckerberg’s recent conversation with Harvard Law School's Jonathan Zittrain, the two briefly touched on a fascinating idea by Tim Berners-Lee, inventor of the World Wide Web, to build **a protocol called Solid**.Solid would act as a kind of data locker that would allow web users complete control over their data and what websites, companies, and apps they shared it with. In a September 2018 Medium post, Berners-Lee explained:It gives every user a choice about where data is stored, which specific people and groups can access select elements, and which apps you use. It allows you, your family and colleagues, to link and share data with anyone. It allows people to look at the same data with different apps at the same time. Solid would allow users constant access to the data they share as well as the ability to pick and choose what which apps can access certain information."
+* "If Solid could find a way to keep data secure from hackers and ensure that no one would ever be forced to hand over their data, we’d would likely have a good start to a new era of keeping our data safe on the Internet."
 
 2019-02-22 [Cryptoglobe: Mark Zuckerberg Considering Using Blockchain to Make Facebook More Decentralized](https://www.cryptoglobe.com/latest/2019/02/mark-zuckerberg-considering-using-blockchain-to-make-facebook-more-decentralized/)
 
@@ -313,8 +319,12 @@ https://www.corriere.it/economia/leconomia/economia-circolare-mobilita-sostenibi
 2019-02-28 [Cryptoglobe: Facebook Reportedly Talking to Exchanges About Listing Its New Cryptocurrency](https://www.cryptoglobe.com/latest/2019/02/facebook-reportedly-talking-to-exchanges-about-listing-its-new-cryptocurrency/)
 
 2019-01-29 [The Next Web: Digital trends 2019: Every single stat you need to know about the internet](https://thenextweb.com/contributors/2019/01/30/digital-trends-2019-every-single-stat-you-need-to-know-about-the-internet/)
+* Rather, my sense is that privacy concerns, changes in people’s social media preferences and behaviors, and broader fatigue with existing platforms will all combine to inspire a series of new social platforms in 2019, perhaps making use of new innovations like Tim Berners-Lee’s SOLID. 
 
 2019-01-29 [BBC: Meet the data guardians taking on the tech giants](https://www.bbc.com/news/business-47027072)
+* metions Tim Berners-Lee 
+* mentions Facebook/ Google/ Microsoft/ big tech
+* "Web creator Tim Berners-Lee has set up a project called Solid in partnership with the Massachusetts Institute of Technology, which is **a way of giving users "the freedom to choose where their data resides and who is allowed to access it".**"
 
 2019-01-29 [Techristic: Digital Trends 2019: Every Single Stat You Need To Know About The Internet](https://www.techristic.com/digital-trends-2019-every-single-stat-you-need-to-know-about-the-internet/)
 
@@ -337,6 +347,7 @@ https://www.corriere.it/economia/leconomia/economia-circolare-mobilita-sostenibi
 2019-01-08 [Ask Bob Rankin: Can You Sell Your Digital Soul for Cash?](https://askbobrankin.com/can_you_sell_your_digital_soul_for_cash.html)
 
 2019-01-06 [The Guardian: Together we can thwart the big-tech data grab. Here’s how](https://www.theguardian.com/commentisfree/2019/jan/07/big-tech-data-internet)
+* "Called Solid, it is **based around personal online data stores, or Pods, that contain the wealth of information people generate, and are their exclusive property**. This means they can allow access to particular elements of their data from particular services as they see fit, and move their data from app to app instead of surrendering it (imagine, for example, being able to move between social networks, taking your lists of friends and followers with you). Berners-Lee and his people are also working on a new kind of digital assistant they have named Charlie, the raison d’être of which is the careful use of personal information, to make individual lives easier and better, rather than the idea of using it to sell us things (“Charlie works for you; Charlie doesn’t work for Google or Amazon”)."
 
 2019-01-04 [The Telegraph: Microsoft tests project to hand people control over their online data](https://www.telegraph.co.uk/technology/2019/01/04/microsoft-tests-project-hand-people-control-online-data/)
 
