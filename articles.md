@@ -16,8 +16,18 @@ How do articles explain Solid?
 * "Their vision for Inrupt is to decentralize the web through the company's **proprietary open-source platform** 'Solid', which allows users to store their own data - photos, comments, contacts, calendar events etc. - in their own personal Solid POD. Individuals can then give people and their apps permission to read or write to parts of their Solid POD, so that they never have to fill out their details again."
 
 2019-11-12 [CIO: 'Tech for humanity' - Richard Corbridge digests Professor Sir Tim Berners-Lee's Gartner Symposium CIO call to arms](https://www.cio.co.uk/cio-career/richard-corbridge-digests-tim-berners-lees-gartner-symposium-keynote-3777696/)
+* metions Tim Berners-Lee 
+* mentions Facebook/ Google/ Microsoft/ big tech
+* "His current work on project Solid is to create **a word wide identity that is agnostic to provider**. Professor Berners-Lee explained that with no working global access control, the web created silos. The Solid web decentralisation project will give everybody one or more IDs, and you as the user will always own your IDs and your data."
 
 2019-11-08 [New American: Web 2.0 Was Hijacked and Broken by Big Tech. Privacy Pioneers Are Building a Better Web 3.0](https://www.thenewamerican.com/tech/computers/item/33988-web-2-0-was-hijacked-and-broken-by-big-tech-privacy-pioneers-are-building-a-better-web-3-0)
+* metions Tim Berners-Lee 
+* mentions Facebook/ Google/ Microsoft/ big tech
+* "In fact, Berners-Lee is fighting the battle for online privacy and liberty in at least two important ways. Besides leading the nonprofit World Wide Web Foundation which has launched a “Contract for the Web” initiative to put forth a Bill of Rights for the Web to clearly define users’ rights, he has also privately helped launch a company called **Inrupt which is developing a protocol** called Solid that would allow users to **protect their POD (personal online data)** by placing those data in a secure container (a POD) that users can access by **verifying their identities.**"
+* "We can still unlock the true promise of the web by decentralizing the power that’s currently centralized in the hands of a few. How? By using the power of Solid. Solid is the technically potent **open-source platform** built to decentralize the Web. Inrupt is the company that’s helping to fuel Solid’s success.”" 
+* "The revolution to shape Web 3.0 has begun and there appears to be a good chance that while it will be built on newer and better tech than Web 2.0, it may well have the privacy-oriented and freedom-oriented values of Web 1.0 — especially if platforms such as Inrupt’s Solid and Chaum’s Elixxir help shape it."
+* "The real value of Solid and Elixxer cannot be understood without understanding the value of **protocols**."
+* "As a result of the nature of **the Solid protocol**, applications written using it would all allow users to maintain control of their data even while posting pictures and other content to social media sites, so long as those sites adhered to the protocol."
 
 2019-11-4 [The Inquirer: Sir Tim Berners-Lee's Inrupt startup receives £5m investment](https://www.theinquirer.net/inquirer/news/3083354/tim-berners-lee-inrupt-gdp5m-investment) 
 
@@ -69,6 +79,10 @@ Apple joins Google, Facebook, and Twitter in data-sharing project](https://myjoy
 2019-07-26 [Civil Service World: Opinion: Think Britain beats the world on digital services? Think again. China rules the digital waves](https://civilserviceworld.com/articles/opinion/opinion-think-britain-beats-world-digital-services-think-again-china-rules-digital)
 
 2019-07-24 [La Vanguardia: ¿Internet está averiado? Tim Berners-Lee y otros están intentando repararlo](https://www.lavanguardia.com/tecnologia/20190724/463676999523/internet-averiado-tim-berners-lee-reparar-dweb-web-descentralizada-internet-descentralizado-p2p-blockchain.html)
+* metions Tim Berners-Lee 
+* mentions Facebook/ Google/ Microsoft/ big tech
+* "Para ello ha pedido un **año sabático en el MIT** y se ha embarcado en la empresa Inrupt, desde la que se quiere desarrollar el proyecto Solid." 
+* "Solid es **una especie de cajón personal en Internet**, piensen en una **caja de seguridad**, en la que podríamos guardar toda clase de datos personales."
 
 2019-07-22 [Medium: How to Ensure Your Privacy in a Data-Driven Future](https://medium.com/@markvanrijmenam/how-to-ensure-your-privacy-in-a-data-driven-future-9feab000c61d)
 
