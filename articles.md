@@ -30,16 +30,30 @@ How do articles explain Solid?
 * "As a result of the nature of **the Solid protocol**, applications written using it would all allow users to maintain control of their data even while posting pictures and other content to social media sites, so long as those sites adhered to the protocol."
 
 2019-11-4 [The Inquirer: Sir Tim Berners-Lee's Inrupt startup receives £5m investment](https://www.theinquirer.net/inquirer/news/3083354/tim-berners-lee-inrupt-gdp5m-investment) 
+* metions Tim Berners-Lee 
+* mentions Facebook/ Google/ Microsoft/ big tech
+* "The web pioneer says has been working on an **open-source platform**, called Solid, **at the Massachusetts Institute of Technology.**"
 
 2019-10-29 [Decrypt: Tim Berners-Lee marks Internet’s 50th with Contract for the Web](https://decrypt.co/10857/tim-berners-lee-internet-50th-anniversary-contract-for-the-web)
+* metions Tim Berners-Lee 
+* mentions Facebook/ Google/ Microsoft/ big tech
+* "Berners-Lee isn’t limiting himself to proclamations; since 2015, he’s been working on an **open-source decentralized web platform** called Solid, which has the lofty mission “to reshape the web as we know it.” The Solid model sees users storing their personal data in a “personal online data store” (POD) on a Solid server, providing permissioned access to companies and services, with the aim of “ **[restoring] rightful ownership of data** back to every web user.” Together with cybersecurity entrepreneur John Bruce, Berners-Lee has founded Inrupt, a start-up to foster development on the Solid platform, initially by hosting PODs."
 
 2019-10-28 [Bostino: Meet Janeiro Digital CTO Justin Bingham](https://www.americaninno.com/boston/boston-speaks-up/meet-janeiro-digital-cto-justin-bingham/)
+* metions Tim Berners-Lee 
+* "He is also an editor of the **Solid specification**. Bingham oversees both the technology and creative divisions at Janeiro Digital, which he co-founded with his brother Jonathan Bingham (CEO). The Binghams are working with inventor of the World Wide Web Sir Tim Berners-Lee and his startup Inrupt to define the commercial market, ecosystem, and **enterprise platforms for Solid**, which aims to decentralize the business model of the Web. "
 
 2019-10-26 [Wall Street Journal: Tech Giants Have Hijacked the Web. It’s Time for a Reboot.](https://www.wsj.com/articles/tech-giants-have-hijacked-the-web-its-time-for-a-reboot-11572062420) 
 
 2019-10-23 [PC Magazine: Tim Berners-Lee: IT Leaders Must Build Values into Their Companies and Systems](https://www.pcmag.com/article/371488/tim-berners-lee-it-leaders-must-build-values-into-their-com) 
+* metions Tim Berners-Lee 
+* mentions Facebook/ Google/ Microsoft/ big tech
+* "Interviewed by Gartner's Chris Howard, Berners-Lee said he has lately been most inspired by the amount of international collaboration around the Solid project, his attempt to build **a new version of the Web.**"
 
 2019-10-11 [Computing: Solid's Ruben Verborgh: 'We need competition based on quality of service not on data harvesting'](https://www.computing.co.uk/ctg/analysis/3082496/solids-ruben-verborgh-we-need-competition-based-on-quality-of-service-not-on-data-harvesting)
+* "The big data revolution has given immense value to data once thought to be worthless, but this has not always been for the better, according to Solid contributor and professor of decentralised web technology at Ghent University, Ruben Verborgh."
+* "The idea behind Solid (for Social Linked Data), the project started by Tim Berners-Lee, is to **decouple data from applications and allow individuals and companies to store data such as blogs, posts, contact details, emails, likes, comments and whatever else in their own encrypted ‘pods' (personal online data stores) hosted wherever they see fit**. They can then **grant or deny access to that data to applications that want to use it**. Solid is a big part of Berners-Lee's efforts to 'redecentralise the web'."
+* "With the **Solid model**, applications become views over data rather than ingesters of it, the idea being that software companies will then compete on services provided rather than on data accrued. This depends on opening up the data silos and proprietary formats and making data interoperable."
 
 2019-09-16 [Computing: Blockchain latest news: ICOs are not dead, but they're certainly changing says Diacle](https://www.computing.co.uk/ctg/news/3033006/blockchain-ico-not-dead-changing-diacle/page/2)
 
