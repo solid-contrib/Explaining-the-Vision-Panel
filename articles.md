@@ -3,9 +3,17 @@ How do articles explain Solid?
 2019-11-20 [LSE Business Review: How to turn trust into a competitive advantage](https://blogs.lse.ac.uk/businessreview/2019/11/20/how-to-turn-trust-into-a-competitive-advantage/) 
 * metions Tim Berners-Lee 
 * mentions Facebook/ Google/ Microsoft/ big tech
-"Another prominent architectural effort called Solid is a platform championed by Tim Berners-Lee, one of the inventors of the world wide web. Solid specifically seeks to resolve trust deficits with regards to data ownership. Applications built on top of the open source architecture will give individuals, rather than corporations, full control of their data. Similar to blockchain initiatives, Solid is treating trust as a systems property, rather than an asset of individual organisations. According to John Bruce, the CEO of Inrupt, a software firm that is driving the development of Solid, pilots with large for- and non-profit organisations are on their way. As an open-source architecture, Solid could both help big businesses strengthen stakeholder trust and serve as launch pad for start-up business and operating models that advance a more inclusive digital economy. While technologies such as blockchain or Solid are powerful devices in the toolbox of leaders, they are not sufficient for building new architectures of trust."
+* "Another prominent **architectural effort** called Solid is a **platform** championed by Tim Berners-Lee, one of the inventors of the world wide web." 
+* "Solid specifically seeks to resolve trust deficits with regards to **data ownership**."
+* "Applications built on top of the **open source** architecture will give individuals, rather than corporations, full control of their data."
+* "Similar to **blockchain** initiatives, Solid is treating trust as a systems property, rather than an asset of individual organisations."
+* "As an **open-source** architecture, Solid could both help big businesses strengthen stakeholder trust and serve as launch pad for start-up business and operating models that advance a more inclusive digital economy."
+* "While technologies such as blockchain or Solid are powerful devices in the toolbox of leaders, they are not sufficient for building new architectures of trust."
 
 2019-11-13 [MRWeb: Berners-Lee Raises Funds to 'Reimagine the Web'](http://www.mrweb.com/drno/news28902.htm)
+* metions Tim Berners-Lee 
+* mentions Facebook/ Google/ Microsoft/ big tech
+* "Their vision for Inrupt is to decentralize the web through the company's **proprietary open-source platform** 'Solid', which allows users to store their own data - photos, comments, contacts, calendar events etc. - in their own personal Solid POD. Individuals can then give people and their apps permission to read or write to parts of their Solid POD, so that they never have to fill out their details again."
 
 2019-11-12 [CIO: 'Tech for humanity' - Richard Corbridge digests Professor Sir Tim Berners-Lee's Gartner Symposium CIO call to arms](https://www.cio.co.uk/cio-career/richard-corbridge-digests-tim-berners-lees-gartner-symposium-keynote-3777696/)
 
