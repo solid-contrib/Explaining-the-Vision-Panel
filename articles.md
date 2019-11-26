@@ -84,14 +84,31 @@ SoLiD utilizes Linked Data, a way of connecting resources throughout the web by 
 * "MeWe is advised by the inventor of the web, **Sir Tim Berners-Lee**, and we are closely following Tim’s current work on the Solid project. Solid **decentralizes the web** by giving web users the **freedom to choose** where their **data resides** and **who is allowed to access it**."
 
 2019-08-08 [Innovation Excellence: Inventor of the Web, Tim Berners-Lee, Has Launched a New Startup](https://www.innovationexcellence.com/blog/2019/08/08/inventor-of-the-web-tim-berners-lee-has-launched-a-new-startup/)
+* "The foundation of Inrupt’s solution is an **open source platform** called Solid, which can be used by web developers to create applications that use data which is stored in PODs. Simply put, Inrupt describes a Solid POD as being “like a secure USB stick for the Web, that you can access from anywhere."
+* "Reading through Inrupt’s literature it’s not entirely clear how all of this will be managed; partly because the info available on Solid is clearly intended for developers. Unless you know what Turtle, RDFLIB, Triples and Quads are, you’re not likely to get too far. That’s not a surprise since Solid is ultimately open source software to be used by engineers.
+However, even some of the more pedestrian marketing descriptions can get a bit obtuse. For example, here’s how Inrupt explains a Solid POD:
+Think of your Solid POD as your own private website, except that your data interoperates with all your apps, which means you have your own personal API to go along with it. When you post comments or videos online, your friends can view them with whatever app they like, such as an album viewer or a social feed. It’s your data, that can be shaped in any way or form.
+You can have as many PODs as you like, and they live on Solid enabled Web servers. Install the Solid Server on your own server at your home or workplace, or Get a Solid POD from a listed provider."
 
 2019-08-02 [CMS wire:Gartner Describes CDO v4.0, Microsoft Axes Skype for Business Online and Other News](https://www.cmswire.com/digital-workplace/gartner-describes-cdo-v40-microsoft-axes-skype-for-business-online-and-other-news/)
+* metions Tim Berners-Lee 
+* mentions Facebook/ Google/ Microsoft/ big tech
+* "A number of alternative social networks have also joined the project, with **Tim Berners-Lee’s** Solid project **enabling the import and export of contacts**, and Mastodon allowing for the import and export of posts.:
 
 2019-08-01 [Gadgetbridge: Apple signs up for the Data Transfer Project: Find out more](https://www.gadgetbridge.com/news/apple-signs-up-for-the-data-transfer-project-find-out-more/)
+* metions Tim Berners-Lee 
+* mentions Facebook/ Google/ Microsoft/ big tech
+* "It is also worth mentioning that a number of alternative social media networks will also be joining the project. While Tim Berners-Lee’s project, Solid, **will enable the import and export of contacts**; the transfer of posts will be managed by Mastodon."
 
 2019-08-01 [TechDirt: Don't Let This Get Lost In The Shuffle: The Data Transfer Project Is Expanding, And Could Help Create Real Competition Online](https://www.techdirt.com/articles/20190731/17390142693/dont-let-this-get-lost-shuffle-data-transfer-project-is-expanding-could-help-create-real-competition-online.shtml)
+* metions Tim Berners-Lee 
+* mentions Facebook/ Google/ Microsoft/ big tech
+* "While the headlines are that Apple has joined the program (to round out the biggest internet companies) it's also notable that two other very interesting, but much smaller, players are joining as well: the federated Mastodon project and Tim Berners-Lee's Solid, which is an attempt to build the kind of **"protocols, not platforms"** approach that we keep advocating for."
 
 2019-07-31 [The Verge: Brain-computer interfaces are developing faster than the policy debate around them](https://www.theverge.com/interface/2019/7/31/20747916/facebook-brain-computer-interface-policy-neuralink)
+* metions Tim Berners-Lee 
+* mentions Facebook/ Google/ Microsoft/ big tech
+* "A number of alternative social networks have also joined the project, with Tim Berners-Lee’s Solid project **enabling the import and export of contacts**, and Mastodon allowing for the import and export of posts."
 
 2019-07-31 [Joy Online: 
 Apple joins Google, Facebook, and Twitter in data-sharing project](https://myjoyonline.com/technology/2019/july-31st/apple-joins-google-facebook-and-twitter-in-data-sharing-project.php)
@@ -115,8 +132,14 @@ Apple joins Google, Facebook, and Twitter in data-sharing project](https://myjoy
 * "Solid es **una especie de cajón personal en Internet**, piensen en una **caja de seguridad**, en la que podríamos guardar toda clase de datos personales."
 
 2019-07-22 [Medium: How to Ensure Your Privacy in a Data-Driven Future](https://medium.com/@markvanrijmenam/how-to-ensure-your-privacy-in-a-data-driven-future-9feab000c61d)
+* "His technology is **called Solid POD (personal online data store)**, which is **developed by his company Inrupt**. Solid PODs will allow every internet user to **store their data**, be it video, articles, wearable tracking data or comments, and **share that with anyone or any website** that has connected to the **Solid ecosystem**. Using the Solid POD, the user will remain in **full control over their data** and **who has access to it and who not.**"
+* "Especially, if they use solutions such as Solid POD, where they can **easily take their data to a new service.** "
 
 2019-07-21 [NBC News: These technologists think the internet is broken. So they're building another one.](https://www.nbcnews.com/tech/tech-news/these-technologists-think-internet-broken-so-they-re-building-another-n1030136)
+* metions Tim Berners-Lee 
+* mentions Facebook/ Google/ Microsoft/ big tech
+* "In 2018, Berners-Lee announced Solid, a decentralized platform that is meant to **give users more power over how their data is collected and used**.
+* "“Solid changes the current model where users have to hand over personal data to digital giants in exchange for perceived value,” Berners-Lee wrote in a Medium post last year. “As we’ve all discovered, this hasn’t been in our best interests.”"
 
 2019-07-18 [BAI: Getting real with digital innovation](https://www.bai.org/banking-strategies/article-detail/getting-real-with-digital-innovation)
 
