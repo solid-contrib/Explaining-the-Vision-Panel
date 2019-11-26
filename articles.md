@@ -250,6 +250,9 @@ Apple joins Google, Facebook, and Twitter in data-sharing project](https://myjoy
 2019-03-26 [Computer Weekly: Web inventor wants a web built on solid data principles](https://www.computerweekly.com/news/252460250/Web-inventor-wants-to-build-a-web-built-on-solid-data-principals)
 
 201903-26 [The Register: FAANGs for the memories: Breaking up big tech's biggest isn't a matter of if, but of when](https://www.theregister.co.uk/2019/03/26/facebook_apple_amazon_netflix_google/)
+* Mentions Tim BL
+* Mentions tech giants
+* That wave of innovation – away from the centre, into a new generation of secure, distributed and federated **systems**, such as Tim Berners-Lee's Solid – could propel us into the next decade. Out of the rubble of these colossi, may a thousand flowers bloom. ®
 
 2019-03-25 [Tech Cabal: At 30, the Web is Attempting to Find its Way Back Home  ](https://techcabal.com/2019/03/25/at-30-the-web-is-attempting-to-find-its-way-back-home/)
 
