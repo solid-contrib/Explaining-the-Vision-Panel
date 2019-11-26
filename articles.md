@@ -56,16 +56,32 @@ How do articles explain Solid?
 * "With the **Solid model**, applications become views over data rather than ingesters of it, the idea being that software companies will then compete on services provided rather than on data accrued. This depends on opening up the data silos and proprietary formats and making data interoperable."
 
 2019-09-16 [Computing: Blockchain latest news: ICOs are not dead, but they're certainly changing says Diacle](https://www.computing.co.uk/ctg/news/3033006/blockchain-ico-not-dead-changing-diacle/page/2)
-
-2019-09-13 [Computing: Blockchain latest news: Santander unveils $20 million bond that lives on the Ethereum blockchain](https://www.computing.co.uk/ctg/news/3033006/blockchain-ico-not-dead-changing-diacle)
+* metions Tim Berners-Lee 
+* mentions blockchain 
+* "By ignoring crypto Berners-Lee's Solid is missing a trick, says Web 3 investor"
+* "**Tim Berners-Lee** has long railed against the fencing off of the web by corporations and their government sponsors. Indeed, he is working on Solid, **a project designed to allow individuals to manage their personal data** and that resulting from their online interactions in their own stores, outside of the corporate walled gardens. Solid was launched with some fanfare last year by Berners-Lee and Inrupt, a startup created to commercialise the project." 
 
 2019-09-06 [Medium: My Data! My Rules!](https://medium.com/the-backers/my-data-my-rules-60890ffa0e56)
+* metions Tim Berners-Lee 
+* mentions Facebook/ Google/ Microsoft/ big tech
+* " SoLiD is an **open source project**, developed by Sir Tim Berners Lee at Massachusetts Institute of Technology (MIT) that **extends the current functionality of the web (W3C standards and protocols) by applying “Linked Data principles.”³⁵^⁴¹^⁴²**
+SoLiD seeks to simplify **data ownership** concerns for consumers and businesses by 1) giving users the **freedom to take their data anywhere** and **avoid vendor lock-in**, and 2) for developers, the ability to **reuse data** in existing apps for new apps so consumer data does not need to be shared with a new service.³⁵^⁴¹^⁴²
+In SoLiD, **PDSs are called pods, and pods are stored on SoLiD servers.** ⁴³
+SoLiD utilizes Linked Data, a way of connecting resources throughout the web by having a uniform resource location (URL) for each piece of data, and explicitly stating how each piece of data is related to each other.⁴¹^⁴²"
+* "Specifically, this **new data governance framework** and outlook has led to the rise of data cooperatives such as Savvy Coop and Driver’s Seat, distributed data storage providers such as AXEL Network, and personal data storage technologies such as SoLiD.²⁵^²⁹^³⁵^⁴¹^⁴²"
+* "AXEL Network and SoLiD are giving consumers **new-found control** over how they share their personal data with third parties"
 
 2019-09-02 [El Pais: Privacidad: La ‘startup’ asturiana que ayuda al inventor de internet a crear la nueva web](https://retina.elpais.com/retina/2019/09/02/innovacion/1567416042_149910.html)
+* "Cuando **Tim Berners-Lee** anunció su proyecto Solid, de **descentralización de Internet**, suscitó una respetuosa incredulidad."
+* "La 'startup' gijonesa Empathy.co y la Universidad de Oviedo colaboran para sacar adelante Solid, un entorno web más respetuoso con la privacidad, impulsado por Tim Berners-Lee."
+* "Después de esta primera piedra han llegado universidades y startups interesadas en poner los ladrillos y el cemento. Empathy.co, con sede en Gijón, es una de las startups que ha empezado a trabajar en el marco de Solid. "
+* "En este espacio los procesos funcionan de forma diferente. “En vez de tener un cliente, ordenador o móvil, y un servidor, las piezas del puzle son un cliente, que se llama POD, y un servidor, que se llama solid”, explica Ángel Maldonado, fundador de Empathy.co."
 
 2019-08-29 [Scotsman: Accelerating the pace of change for data ownership](https://www.scotsman.com/business/accelerating-the-pace-of-change-for-data-ownership-1-4993209)
+* "Solid, a project involving **Sir Tim Berners-Lee**, is working to help users and organisations **separate their data from applications** that use it – “to allow people to look at the same data with different apps at the same time [and] open brand new avenues for creativity, problem-solving, and commerce.”"
 
 2019-08-18 [Coin Telegraph: Would Blockchain Better Protect User Data Than FaceApp? Experts Answer](https://cointelegraph.com/news/would-blockchain-better-protect-user-data-than-faceapp-experts-answer)
+* "MeWe is advised by the inventor of the web, **Sir Tim Berners-Lee**, and we are closely following Tim’s current work on the Solid project. Solid **decentralizes the web** by giving web users the **freedom to choose** where their **data resides** and **who is allowed to access it**."
 
 2019-08-08 [Innovation Excellence: Inventor of the Web, Tim Berners-Lee, Has Launched a New Startup](https://www.innovationexcellence.com/blog/2019/08/08/inventor-of-the-web-tim-berners-lee-has-launched-a-new-startup/)
 
