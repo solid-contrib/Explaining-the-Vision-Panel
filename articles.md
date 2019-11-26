@@ -380,18 +380,36 @@ Apple joins Google, Facebook, and Twitter in data-sharing project](https://myjoy
 2019-01-10 [Medium: Building The SAFE Network in 2018](https://medium.com/safenetwork/building-the-safe-network-in-2018-598d7fa1c16f)
 
 2019-01-09 [Ignitiate: A Historical Design Point - Off The Shelf Quantum Computers & Full Brain Access & Just Like Netscape in 1994](https://ignitiate.blogspot.com/2019/01/a-historical-design-turning-point-off.html)
+* With a Radical New Neural Network Design That Overcomes AI Brain Interfaces and an **operating system** like Solid, made by Interupt at MIT by Sir Tim Berners Lee @ MIT & Interupt who is going to up-end the internet as we know it and who created most of the internet & the web browser we know today, a fully connected, brain interface for designers, engineers and finance innovators is just about is real.
 
 2019-01-19 [SD Times: Solid’s data decentralization vision will change the way we interact with applications](https://sdtimes.com/webdev/solids-data-decentralization-vision-will-change-the-way-we-interact-with-applications/)
+* Mentions Tim BL
+* His new project, Solid, aims to put **control over data back into the hands of users**.
+* The **ecosystem** of Solid is based on the concept of PODs, which are spaces where an individual can keep all of their data, explained Jonathan Bingham, President and CEO of Janeiro Digital, a company that is working on the Solid **technology**. 
+* According to Solid’s website, PODs are like “secure USB sticks for the Web, that you can access from anywhere.
 
 2019-01-08 [Ask Bob Rankin: Can You Sell Your Digital Soul for Cash?](https://askbobrankin.com/can_you_sell_your_digital_soul_for_cash.html)
+* Mentions Tim BL
+* "When I first read about the Solid project, and its promise to put control of data back in the hands of individuals, I was skeptical of the notion that one could sell personal data for more than pennies. "
+* "The Web’s inventor, Sir Tim Berners-Lee (or “TBL”), is working on a thing he calls Solid, which I recently described. It will give each user a secure, portable “POD” that holds all of his digital data. The owner of that data can selectively share it with apps and companies, and revoke access at any time. "
+* "t’s a **software platform** called Solid."
 
 2019-01-06 [The Guardian: Together we can thwart the big-tech data grab. Here’s how](https://www.theguardian.com/commentisfree/2019/jan/07/big-tech-data-internet)
 * "Called Solid, it is **based around personal online data stores, or Pods, that contain the wealth of information people generate, and are their exclusive property**. This means they can allow access to particular elements of their data from particular services as they see fit, and move their data from app to app instead of surrendering it (imagine, for example, being able to move between social networks, taking your lists of friends and followers with you). Berners-Lee and his people are also working on a new kind of digital assistant they have named Charlie, the raison d’être of which is the careful use of personal information, to make individual lives easier and better, rather than the idea of using it to sell us things (“Charlie works for you; Charlie doesn’t work for Google or Amazon”)."
 
 2019-01-04 [The Telegraph: Microsoft tests project to hand people control over their online data](https://www.telegraph.co.uk/technology/2019/01/04/microsoft-tests-project-hand-people-control-online-data/)
+* Mentions Tim BL
+* Mentions tech giants
+* Tim Berners-Lee, the inventor of the world wide web, is working on a new project named Solid which will **let people store their personal information in “pods.”** Users could then allow authorised applications to access their data, but remain in control of it.
 
 2019-01-03 [Stuff.co: The web is broken. We need to fix it](https://www.stuff.co.nz/opinion/109464200/the-web-is-broken-we-need-to-fix-it)
+* Mentions Tim BL
+* Mentions tech giants
+* "And Berners-Lee and his team have developed SOLID, a **software freely available** to everyone to start moving from centralised to **decentralised** web applications, from giving personal data to monopolies towards taking back control of it. Web developers now have to join and build the applications end-users can use with SOLID that have the same user experience as the social media applications currently in use."
 
 2019-01-03 [AEI Ideas: The future of privacy policy: A Q&A with author David Brin](https://www.aei.org/technology-and-innovation/the-future-of-privacy-policy-a-qa-with-author-david-brin/)
+* Mentions Tim BL 
+* Mentions tech giants
+* "Tim Berners-Lee is working on something called Solid which would **let people keep their data cached in more secure capsules.** "
 
 2018-12-31 [NRC - Herstelwerk aan het kapotte internet](https://www.nrc.nl/nieuws/2018/12/31/herstelwerk-aan-het-kapotte-internet-a3127480)
