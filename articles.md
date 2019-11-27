@@ -461,6 +461,8 @@ Jonathan Zittrain: We’ll get there. But Solid says if you did that, people wou
 * "Web creator Tim Berners-Lee has set up a project called Solid in partnership with the Massachusetts Institute of Technology, which is **a way of giving users "the freedom to choose where their data resides and who is allowed to access it".**"
 
 2019-01-29 [Techristic: Digital Trends 2019: Every Single Stat You Need To Know About The Internet](https://www.techristic.com/digital-trends-2019-every-single-stat-you-need-to-know-about-the-internet/)
+* TimBL mentioned
+* SOLID. This would fundamentally change the very fabric of business on the internet though, so expect to see plenty of resistance from the ‘Four Horsemen’.
 
 2019-01-29 [Dundee Messenger: Facebook and Google: The data guardians fight back](https://dundeemessenger.co.uk/technology/facebook-and-google-the-data-guardians-fight-back/)
 * Mentions Tim
