@@ -200,8 +200,20 @@ Apple joins Google, Facebook, and Twitter in data-sharing project](https://myjoy
 2019-05-19 [ZDNet: Breaking up Facebook? Try data literacy, social engineering, personal knowledge graphs, and developer advocacy](https://www.zdnet.com/article/breaking-up-facebook-try-data-literacy-social-engineering-personal-knowledge-graphs-and-developer-advocacy/)
 
 2019-05-16 [Know Stuff: Breaking up Facebook? Try data literacy, social engineering, personal knowledge graphs, and developer advocacy]( https://www.knowstuff.org/2019/05/breaking-up-facebook-try-data-literacy-social-engineering-personal-knowledge-graphs-and-developer-advocacy/)
+* Data sovereignty is precisely the vision behind Solid, the application development framework championed by Tim Berners Lee. Berners Lee, credited as the inventor of the web, is working on Solid with the help of startup Inrupt, and contributors from the open source and research community.
+* Solid is working on developing so-called pods. You can think of pods as personal data vaults, keeping all your data in one place. From there, you can authorize applications to use the data, giving read or write access to your pod. And pods could be hosted on your own machine, or in the cloud.
+* It sounds great, but it’s tricky. Besides all the non-technical reasons, there are technical obstacles, too. If this caught up, it would mean applications would have to fetch data from pods all over the web and the cloud to work. Querying in distributed environments is notoriously hard. But Solid has an ace up its sleeve there: knowledge graphs. 
+* Solid is based on this technology, effectively aiming to build a personal knowledge graph for each of its users. Needless to say, this is quite ambitious, which may help explain why there is still no production-ready software for Solid.
+* It looks like the Solid team has the mindset and the people to make it work, while the tech is work in progress. 
+* Their tools are based on JavaScript and frameworks such as React, and aim to make programming Solid a seamless experience
+* Rather than expecting developers to switch to the Linked Data stack, they are giving them tools to build applications on Solid.
+* Getting to the hearts and minds of developers is key to the success of Solid, as much as it is for any other software project today. Getting Solid in production-ready shape, and building applications on top of it, largely depends on it. Attracting developers is a fine art. Deep pockets, which we don’t know whether Solid has, is a good starting point, but it does not necessarily guarantee success.
+* But just think of the possibilities that open up by putting the Fediverse and Solid together. This could be the key to social networking minus the dictator in the middle, data sovereignty, and a whole new ecosystem of innovation. Let’s hope Solid really gets solid soon.
 
 2019-05-11 [Financial Mirror: Inventor of the internet looking to build safer new web](http://www.financialmirror.com/news-details.php?nid=36942)
+* Mentions Tim BL
+* Berners-Lee is also working on a project called SOLID (an acronym for Social Linked Data). The project aims to radically change the way Web applications work today, resulting in true data ownership as well as improved privacy.
+* Imagine having the right to control your data. Social media giants will not get to run algorithms on it,” explained the scientist, adding that in principle this is what the GDPR is all about, but SOLID offers the technology to do this.
 
 2019-05-11 [De Tijd](https://www.tijd.be/dossiers/nieuwe-inzichten/we-moeten-weer-baas-worden-over-onze-data/10125717.html)
 
