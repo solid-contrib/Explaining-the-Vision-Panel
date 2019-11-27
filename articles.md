@@ -378,7 +378,8 @@ Apple joins Google, Facebook, and Twitter in data-sharing project](https://myjoy
 * mentions Charlie, an 'alternative Alexa' from **Solid**
 The Article emphasizes the future of A.I. should be in the hands of democratic organized structures. Amounts of money invested are evaluated (although that might be an estimated variable) and Tims **Vision** is explained in a paragraph. The introduction is made by the example of http://www.elementsofai.com, which is a Finnish iniative to bring the understanding of A.I. into the common ground. Further details of Solid or Inrupt are not provided.
 
-2019-02-26 [Communications of ACM:cience in Europe: Beyond Boundaries]](https://cacm.acm.org/magazines/2019/4/235597-web-science-in-europe/fulltext)
+2019-02-26 [Communications of ACM:Science in Europe: Beyond Boundaries]](https://cacm.acm.org/magazines/2019/4/235597-web-science-in-europe/fulltext)
+* **Engineering** solutions, as developed in the SoLiD project, may be part of the response, but how can we be sure that people even want let alone will have the capacity to use these solutions? What new challenges might these solutions pose? How would this impact on the underlying business model for the Web?
 
 2019-03-30 [How a chess app interacts with Solid](https://pieterheyvaert.com/blog/2019/03/30/solid-chess-interaction)
 * mentions Tim BL 
