@@ -475,6 +475,7 @@ Jonathan Zittrain: We’ll get there. But Solid says if you did that, people wou
 * The father of the Internet, Tim Berners-Lee, has been trying to do the same with his Solid project
 
 2019-01-21 [MIT Technology Review](http://www.mittrchina.com/news/3453)
+* article couldn' t be reviewed because in chinese language
 
 2019-01-19 [Security Boulevard: Client Applications: A Hacker’s Easiest Target?](https://securityboulevard.com/2019/01/client-applications-a-hackers-easiest-target/)
 * "The Solid project backed by Sir Tim Berners-Lee is another promising **technology** in this area." 
