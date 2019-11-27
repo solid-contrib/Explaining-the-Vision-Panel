@@ -22,7 +22,12 @@ How do articles explain Solid in 2019?
 | ownership of personal data  | ~   |  ~   |
 | splitting apps from storage  | ~   |  ~   |
 
-
+| Way to Describe Personal Storage  | Number of Articles | Percentage of Articles |
+| ------------- | ------------- | ------------- |
+| Mentions 'Pod'  | ~   |  ~   |
+| Locker  | ~   |  ~   |
+| Wallet  | ~   |  ~   |
+| Container | ~   |  ~   |
 
 2019-11-20 [LSE Business Review: How to turn trust into a competitive advantage](https://blogs.lse.ac.uk/businessreview/2019/11/20/how-to-turn-trust-into-a-competitive-advantage/) 
 * metions Tim Berners-Lee 
