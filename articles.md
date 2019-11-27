@@ -425,6 +425,8 @@ Mark Zuckerberg: We’ll get there.
 Jonathan Zittrain: We’ll get there. But Solid says if you did that, people would then– or their helpful proxies– be able to say, “All right, Facebook is coming along.
 
 2019-02-20 [Online Tech Tips: Highlights & transcript from Zuckerberg’s 20K-word ethics talk](https://online-techtips.blogspot.com/2019/02/highlights-transcript-from-zuckerbergs.html)
+* mentioned TimBL
+* But Solid says if you did that, people would then– or their helpful **proxies**– be able to say, “All right, Facebook is coming along. It wants the following data from me and including that data that it has generated about me as I use it, but stored back in my locker and it kind of has to come back to my well to draw water each time.
 
 2019-02-21 [LearninPub: Highlights & transcript from Zuckerberg’s 20K-word ethics talk – TechCrunch](http://learninpub.blogspot.com/2019/02/highlights-transcript-from-zuckerbergs.html)
 * mentions Tim BL 
