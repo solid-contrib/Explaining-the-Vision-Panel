@@ -373,6 +373,10 @@ Apple joins Google, Facebook, and Twitter in data-sharing project](https://myjoy
 2019-03-05 [Yahoo News: 30 years later, Berners-Lee sees mission to fix internet's ills](https://news.yahoo.com/30-years-later-berners-lee-sees-mission-fix-171158879.html)
 
 2019-03-01 [Medium: What Would More Democratic A.I. Look Like?](https://onezero.medium.com/what-would-more-democratic-a-i-look-like-ea729f5f7b0a) 
+* mentions TimBL
+* mentions Tech Giants as e.g. Amazon
+* mentions Charlie, an 'alternative Alexa' from **Solid**
+The Article emphasizes the future of A.I. should be in the hands of democratic organized structures. Amounts of money invested are evaluated (although that might be an estimated variable) and Tims **Vision** is explained in a paragraph. The introduction is made by the example of http://www.elementsofai.com, which is a Finnish iniative to bring the understanding of A.I. into the common ground. Further details of Solid or Inrupt are not provided.
 
 2019-02-26 [Communications of ACM:cience in Europe: Beyond Boundaries]](https://cacm.acm.org/magazines/2019/4/235597-web-science-in-europe/fulltext)
 
