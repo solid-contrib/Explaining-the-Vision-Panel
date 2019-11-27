@@ -226,6 +226,13 @@ Apple joins Google, Facebook, and Twitter in data-sharing project](https://myjoy
 2019-04-05 [Bitcoin News: What Article 13 Means for the Cryptocurrency Industry](https://news.bitcoin.com/what-article-13-means-for-the-cryptocurrency-industry/)
 
 2019-04-05 [MSN: Tim Berners-Lee Says We've Messed Up The Internet But It Can Be Fixed](https://www.msn.com/en-au/news/techandscience/tim-berners-lee-says-weve-messed-up-the-internet-but-it-can-be-fixed/ar-BBVCXbX)
+* Mentions Tim BL
+* Mentions tech giants
+* Today, Berners-Lee champions a new platform called Solid (which we've written about before) which aims to give us back control of our personal data.
+* "The Solid program at MIT is about turning the way the web works upside-down," said Berners-Lee. "It's about **separating the apps from the data**. So, when you go to an app the app says to you 'Where do you want to save your data?'".
+* Extrapolate that to the web, where the data and apps could be run anywhere and you have an approximation of how Solid works.
+* At its heart, Solid is a way of managing federated identity. Everyone with Solid has their own identifier, which looks like a URL, that makes it easy to share information.
+* But imagine if those apps kept their data in repositories - Pods in Solid-speak - that you control. That's what Solid promises.
 
 2019-04-05 [LifeHacker AU: Tim Berners-Lee Says We've Messed Up The Internet But It Can Be Fixed](https://www.lifehacker.com.au/2019/04/berners-lee-says-weve-messed-up-the-internet-but-it-can-be-fixed/)
 
