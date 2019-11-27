@@ -1,4 +1,28 @@
-How do articles explain Solid? 
+# Articles Mentioning Solid in 2019 
+
+How do articles explain Solid in 2019? 
+
+| Description  | Amount |
+| ------------- | ------------- |
+| Number of Articles mentioning Solid in 2019  | ~ 200  |
+| Percentage mentioning Tim & tech giants  | ~ 90%  |
+
+| Way to Describe Solid  | Number of Articles | Percentage of Articles |
+| ------------- | ------------- | ------------- |
+| Operating System  | ~   |  ~   |
+| Software  | ~   |  ~   |
+| Standard  | ~   |  ~   |
+| Open Source  | ~   |  ~   |
+| Platform  | ~   |  ~   |
+| Protocol  | ~   |  ~   |
+
+| Mission Description  | Number of Articles | Percentage of Articles |
+| ------------- | ------------- | ------------- |
+| control of personal data  | ~   |  ~   |
+| ownership of personal data  | ~   |  ~   |
+| splitting apps from storage  | ~   |  ~   |
+
+
 
 2019-11-20 [LSE Business Review: How to turn trust into a competitive advantage](https://blogs.lse.ac.uk/businessreview/2019/11/20/how-to-turn-trust-into-a-competitive-advantage/) 
 * metions Tim Berners-Lee 
