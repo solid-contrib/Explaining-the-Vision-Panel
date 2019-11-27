@@ -516,3 +516,4 @@ Jonathan Zittrain: We’ll get there. But Solid says if you did that, people wou
 * "Tim Berners-Lee is working on something called Solid which would **let people keep their data cached in more secure capsules.** "
 
 2018-12-31 [NRC - Herstelwerk aan het kapotte internet](https://www.nrc.nl/nieuws/2018/12/31/herstelwerk-aan-het-kapotte-internet-a3127480)
+* article couldn' t be reviewed because it' s behind a paywall (only for subscribers)
