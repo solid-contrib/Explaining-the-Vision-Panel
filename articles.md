@@ -141,18 +141,44 @@ You can have as many PODs as you like, and they live on Solid enabled Web server
 
 2019-07-31 [Joy Online: 
 Apple joins Google, Facebook, and Twitter in data-sharing project](https://myjoyonline.com/technology/2019/july-31st/apple-joins-google-facebook-and-twitter-in-data-sharing-project.php)
+* Mentions Tim BL 
+* Mentions tech giants
+* A number of alternative social networks have also joined the project, with Tim Berners-Lee’s Solid project enabling the import and export of contacts, and Mastodon allowing for the import and export of posts.
 
 2019-07-31 [Medium: The future of the decentralized web](https://medium.com/berkman-klein-center/the-future-of-the-decentralized-web-707915f12360)
+* Mentions TBL 
+* Now Sir Tim proposes a new protocol — Solid — whose goal is to reinvent the technological ecosystem to return information to the hands of users.
+* Sir Tim pushes up the blackboard featuring the web as a meteor crashing back to earth. On the board below it, he starts drawing a set of cylinders. Solid is based around the idea of pods, personal data stores that could live in the cloud or which you could control directly. “Solid is web technology reapplied,” Sir Tim explains. “You use apps and web apps, but they don’t store your data at all….”
+Sir Tim imagines uploading photos taken from a digital camera. The camera asks where you want to store the data. “You have a Solid pod at home, and one at work — you decide where to put them based on what context you want to use them in. Solid is a protocol, like the web. Pods are Solid-compatible personal clouds. Apps can talk to your pod.” So sharing photos is no longer about making LinkedIn and Flickr talk to each other — it’s simply about both of them talking to your pod, which you control.
+* Solid, Inrupt, and “Pods”
+* Storing data, saving data, isn’t rocket science. We can build a Solid compatible storage device and the apps can write any data they want onto it.
+* But in a Solid world you can just put it out there. As a developer you don’t don’t have to worry about scaling the back end.
+*  They will in future hopefully be doing things, in a Solid-compatible way, so that we’ll end up with a world of tremendous enablement of user choice, where you store the data, a market for apps for the data, which will become a commodity market but also a choice of high quality storage or local storage depending on what is you’re storing, and who you are, and what you can afford, and what your priorities are.
 
 2019-07-30 [Medium: 9 Components of the Decentralised Ecosystem that we Need to Build a Decentralised Society](https://medium.com/swlh/9-components-of-the-decentralised-ecosystem-that-we-need-to-build-a-decentralised-society-f07834d2d2c9)
+* Mentions TBL 
+* Last year, Sir Tim Berners-Lee revealed his new vision, one where the internet becomes decentralised again as he originally had envisioned it. His technology is called Solid POD. It will allow every internet user to store their own data, be it video; articles; wearable tracking data or comments, and share that with anyone or any website that has connected to the Solid ecosystem.
+Using the Solid POD, the user will remain in full control over their data and who has access to it and who not. 
 
 2019-07-30 [Apple Insider: Apple joins Data Transfer Project with other cloud service giants](https://appleinsider.com/articles/19/07/30/apple-joins-data-transfer-project-with-other-cloud-service-giants)
+* Mentions TBL 
+* Mentions tech giants 
+*  Since the launch, the project has added framework features such as cloud logging ad monitoring, as well as adding updated integrations for new APIs from Google Photos and Smugmug, and new integrations for Deezer, Mastodon, and Tim Berners-Lee's Solid.
 
 2019-07-30 [PYMNTS: Apple Is Joining The Data Transfer Project](https://www.pymnts.com/data/2019/apple-joining-data-transfer-project/)
+* Mentions TBL 
+* Mentions tech giants 
+* Apple will develop interoperable systems for transporting data out and into the cloud. There are also a few alt social networks working on the endeavor, such as Tim Berners-Lee’s Solid project, 
 
 2019-07-30 [The Verge: Apple joins Google, Facebook, and Twitter in data-sharing project](https://www.theverge.com/2019/7/30/20746868/apple-data-transfer-project-google-microsoft-twitter)
+* Mentions TBL 
+* Mentions tech giants 
+* A number of alternative social networks have also joined the project, with Tim Berners-Lee’s Solid project enabling the import and export of contacts, and Mastodon allowing for the import and export of posts.
 
 2019-07-26 [Civil Service World: Opinion: Think Britain beats the world on digital services? Think again. China rules the digital waves](https://civilserviceworld.com/articles/opinion/opinion-think-britain-beats-world-digital-services-think-again-china-rules-digital)
+* Mentions TBL 
+* Mentions tech giants 
+* Called Solid, it is a radical digital identity model that would be universally recognised and free for everyone. This tool gives people a single container for their online digital identity data, and will interact with all major platforms to ensure that they can control how much personal information they are giving away.
 
 2019-07-24 [La Vanguardia: ¿Internet está averiado? Tim Berners-Lee y otros están intentando repararlo](https://www.lavanguardia.com/tecnologia/20190724/463676999523/internet-averiado-tim-berners-lee-reparar-dweb-web-descentralizada-internet-descentralizado-p2p-blockchain.html)
 * metions Tim Berners-Lee 
