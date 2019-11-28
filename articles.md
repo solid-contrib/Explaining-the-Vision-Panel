@@ -30,33 +30,30 @@ How do articles explain Solid in 2019?
 | Container | ~   |  ~   |
 
 2019-11-20 [LSE Business Review: How to turn trust into a competitive advantage](https://blogs.lse.ac.uk/businessreview/2019/11/20/how-to-turn-trust-into-a-competitive-advantage/) 
-* metions Tim Berners-Lee 
-* mentions Facebook/ Google/ Microsoft/ big tech
-* "Another prominent **architectural effort** called Solid is a **platform** championed by Tim Berners-Lee, one of the inventors of the world wide web." 
+* mentions big tech
+* "Another prominent **architectural effort** called Solid is a **platform** championed by **Tim Berners-Lee**, one of the inventors of the world wide web." 
 * "Solid specifically seeks to resolve trust deficits with regards to **data ownership**."
-* "Applications built on top of the **open source** architecture will give individuals, rather than corporations, full control of their data."
+* "Applications built on top of the **open source architecture** will **give individuals, rather than corporations, full control of their data**."
 * "Similar to **blockchain** initiatives, Solid is treating trust as a systems property, rather than an asset of individual organisations."
-* "As an **open-source** architecture, Solid could both help big businesses strengthen stakeholder trust and serve as launch pad for start-up business and operating models that advance a more inclusive digital economy."
+* "As an **open-source architecture**, Solid could both help big businesses strengthen stakeholder trust and serve as launch pad for start-up business and operating models that advance a more inclusive digital economy."
 * "While technologies such as blockchain or Solid are powerful devices in the toolbox of leaders, they are not sufficient for building new architectures of trust."
 
 2019-11-13 [MRWeb: Berners-Lee Raises Funds to 'Reimagine the Web'](http://www.mrweb.com/drno/news28902.htm)
-* metions Tim Berners-Lee 
-* mentions Facebook/ Google/ Microsoft/ big tech
-* "Their vision for Inrupt is to decentralize the web through the company's **proprietary open-source platform** 'Solid', which allows users to store their own data - photos, comments, contacts, calendar events etc. - in their own personal Solid POD. Individuals can then give people and their apps permission to read or write to parts of their Solid POD, so that they never have to fill out their details again."
+* mentions big tech
+* **Tim Berners-Lee** 
+* Their vision for Inrupt is to **decentralize the web** through the company's **proprietary open-source platform** 'Solid', which **allows users to store their own data** - photos, comments, contacts, calendar events etc. - in their own personal Solid **POD**. Individuals can then give people and their apps permission to read or write to parts of their Solid POD, so that they **never have to fill out their details again**."
 
 2019-11-12 [CIO: 'Tech for humanity' - Richard Corbridge digests Professor Sir Tim Berners-Lee's Gartner Symposium CIO call to arms](https://www.cio.co.uk/cio-career/richard-corbridge-digests-tim-berners-lees-gartner-symposium-keynote-3777696/)
-* metions Tim Berners-Lee 
-* mentions Facebook/ Google/ Microsoft/ big tech
-* "His current work on project Solid is to create **a word wide identity that is agnostic to provider**. Professor Berners-Lee explained that with no working global access control, the web created silos. The Solid web decentralisation project will give everybody one or more IDs, and you as the user will always own your IDs and your data."
+* mentions big tech
+* "His current work on project Solid is to create **a word wide identity that is agnostic to provider**. Professor **Berners-Lee** explained that with no working global access control, the web created silos. The Solid **web decentralisation project** will **give everybody one or more IDs**, and you as the **user will always own your IDs and your data**."
 
 2019-11-08 [New American: Web 2.0 Was Hijacked and Broken by Big Tech. Privacy Pioneers Are Building a Better Web 3.0](https://www.thenewamerican.com/tech/computers/item/33988-web-2-0-was-hijacked-and-broken-by-big-tech-privacy-pioneers-are-building-a-better-web-3-0)
-* metions Tim Berners-Lee 
-* mentions Facebook/ Google/ Microsoft/ big tech
-* "In fact, Berners-Lee is fighting the battle for online privacy and liberty in at least two important ways. Besides leading the nonprofit World Wide Web Foundation which has launched a “Contract for the Web” initiative to put forth a Bill of Rights for the Web to clearly define users’ rights, he has also privately helped launch a company called **Inrupt which is developing a protocol** called Solid that would allow users to **protect their POD (personal online data)** by placing those data in a secure container (a POD) that users can access by **verifying their identities.**"
-* "We can still unlock the true promise of the web by decentralizing the power that’s currently centralized in the hands of a few. How? By using the power of Solid. Solid is the technically potent **open-source platform** built to decentralize the Web. Inrupt is the company that’s helping to fuel Solid’s success.”" 
+* mentions big tech
+* "In fact, **Berners-Lee** is fighting the battle for online privacy and liberty in at least two important ways. Besides leading the nonprofit World Wide Web Foundation which has launched a “Contract for the Web” initiative to put forth a Bill of Rights for the Web to clearly define users’ rights, he has also privately helped launch a company called **Inrupt which is developing a protocol** called Solid that would allow users to **protect their POD (personal online data)** by placing those data in a secure container (a POD) that users can access by **verifying their identities.**"
+* "We can still unlock the true promise of the web by decentralizing the power that’s currently centralized in the hands of a few. How? By using the power of Solid. Solid is the technically potent **open-source platform** built to **decentralize the Web**. Inrupt is the company that’s helping to fuel Solid’s success.”" 
 * "The revolution to shape Web 3.0 has begun and there appears to be a good chance that while it will be built on newer and better tech than Web 2.0, it may well have the privacy-oriented and freedom-oriented values of Web 1.0 — especially if platforms such as Inrupt’s Solid and Chaum’s Elixxir help shape it."
 * "The real value of Solid and Elixxer cannot be understood without understanding the value of **protocols**."
-* "As a result of the nature of **the Solid protocol**, applications written using it would all allow users to maintain control of their data even while posting pictures and other content to social media sites, so long as those sites adhered to the protocol."
+* "As a result of the nature of **the Solid protocol**, applications written using it would all allow users to maintain **control of their data** even while posting pictures and other content to social media sites, so long as those sites adhered to the protocol."
 
 2019-11-4 [The Inquirer: Sir Tim Berners-Lee's Inrupt startup receives £5m investment](https://www.theinquirer.net/inquirer/news/3083354/tim-berners-lee-inrupt-gdp5m-investment) 
 * metions Tim Berners-Lee 
@@ -64,36 +61,31 @@ How do articles explain Solid in 2019?
 * "The web pioneer says has been working on an **open-source platform**, called Solid, **at the Massachusetts Institute of Technology.**"
 
 2019-10-29 [Decrypt: Tim Berners-Lee marks Internet’s 50th with Contract for the Web](https://decrypt.co/10857/tim-berners-lee-internet-50th-anniversary-contract-for-the-web)
-* metions Tim Berners-Lee 
-* mentions Facebook/ Google/ Microsoft/ big tech
-* "Berners-Lee isn’t limiting himself to proclamations; since 2015, he’s been working on an **open-source decentralized web platform** called Solid, which has the lofty mission “to reshape the web as we know it.” The Solid model sees users storing their personal data in a “personal online data store” (POD) on a Solid server, providing permissioned access to companies and services, with the aim of “ **[restoring] rightful ownership of data** back to every web user.” Together with cybersecurity entrepreneur John Bruce, Berners-Lee has founded Inrupt, a start-up to foster development on the Solid platform, initially by hosting PODs."
+* mentions Fbig tech
+* "**Berners-Lee** isn’t limiting himself to proclamations; since 2015, he’s been working on an **open-source decentralized web platform** called Solid, which has the **lofty mission “to reshape the web as we know it.”** The Solid model sees users storing their personal data in a “personal online data store” (POD) on a Solid server, providing **permissioned access** to companies and services, with the aim of “ **[restoring] rightful ownership of data back to every web user**.” Together with cybersecurity entrepreneur John Bruce, Berners-Lee has founded Inrupt, a start-up to foster development on the Solid platform, initially by hosting PODs."
 
 2019-10-28 [Bostino: Meet Janeiro Digital CTO Justin Bingham](https://www.americaninno.com/boston/boston-speaks-up/meet-janeiro-digital-cto-justin-bingham/)
-* metions Tim Berners-Lee 
-* "He is also an editor of the **Solid specification**. Bingham oversees both the technology and creative divisions at Janeiro Digital, which he co-founded with his brother Jonathan Bingham (CEO). The Binghams are working with inventor of the World Wide Web Sir Tim Berners-Lee and his startup Inrupt to define the commercial market, ecosystem, and **enterprise platforms for Solid**, which aims to decentralize the business model of the Web. "
+* "He is also an editor of the **Solid specification**. Bingham oversees both the technology and creative divisions at Janeiro Digital, which he co-founded with his brother Jonathan Bingham (CEO). The Binghams are working with inventor of the World Wide Web **Sir Tim Berners-Lee** and his startup Inrupt to define the commercial market, ecosystem, and **enterprise platforms for Solid**, which aims to **decentralize the business model of the Web**. "
 
 2019-10-26 [Wall Street Journal: Tech Giants Have Hijacked the Web. It’s Time for a Reboot.](https://www.wsj.com/articles/tech-giants-have-hijacked-the-web-its-time-for-a-reboot-11572062420) 
 
 2019-10-23 [PC Magazine: Tim Berners-Lee: IT Leaders Must Build Values into Their Companies and Systems](https://www.pcmag.com/article/371488/tim-berners-lee-it-leaders-must-build-values-into-their-com) 
-* metions Tim Berners-Lee 
-* mentions Facebook/ Google/ Microsoft/ big tech
-* "Interviewed by Gartner's Chris Howard, Berners-Lee said he has lately been most inspired by the amount of international collaboration around the Solid project, his attempt to build **a new version of the Web.**"
+* mentions big tech
+* "Interviewed by Gartner's Chris Howard, **Berners-Lee** said he has lately been most inspired by the amount of international collaboration around the Solid project, his attempt to build **a new version of the Web.**"
 
 2019-10-11 [Computing: Solid's Ruben Verborgh: 'We need competition based on quality of service not on data harvesting'](https://www.computing.co.uk/ctg/analysis/3082496/solids-ruben-verborgh-we-need-competition-based-on-quality-of-service-not-on-data-harvesting)
 * "The big data revolution has given immense value to data once thought to be worthless, but this has not always been for the better, according to Solid contributor and professor of decentralised web technology at Ghent University, Ruben Verborgh."
-* "The idea behind Solid (for Social Linked Data), the project started by Tim Berners-Lee, is to **decouple data from applications and allow individuals and companies to store data such as blogs, posts, contact details, emails, likes, comments and whatever else in their own encrypted ‘pods' (personal online data stores) hosted wherever they see fit**. They can then **grant or deny access to that data to applications that want to use it**. Solid is a big part of Berners-Lee's efforts to 'redecentralise the web'."
+* "The idea behind Solid (for Social Linked Data), the project started by **Tim Berners-Lee**, is to **decouple data from applications** and allow individuals and companies to store data such as blogs, posts, contact details, emails, likes, comments and whatever else in their **own encrypted ‘pods' (personal online data stores) hosted wherever they see fit****. They can then **grant or deny access to that data to applications that want to use it**. Solid is a big part of Berners-Lee's efforts to **'redecentralise the web'**."
 * "With the **Solid model**, applications become views over data rather than ingesters of it, the idea being that software companies will then compete on services provided rather than on data accrued. This depends on opening up the data silos and proprietary formats and making data interoperable."
 
 2019-09-16 [Computing: Blockchain latest news: ICOs are not dead, but they're certainly changing says Diacle](https://www.computing.co.uk/ctg/news/3033006/blockchain-ico-not-dead-changing-diacle/page/2)
-* metions Tim Berners-Lee 
 * mentions blockchain 
 * "By ignoring crypto Berners-Lee's Solid is missing a trick, says Web 3 investor"
 * "**Tim Berners-Lee** has long railed against the fencing off of the web by corporations and their government sponsors. Indeed, he is working on Solid, **a project designed to allow individuals to manage their personal data** and that resulting from their online interactions in their own stores, outside of the corporate walled gardens. Solid was launched with some fanfare last year by Berners-Lee and Inrupt, a startup created to commercialise the project." 
 
 2019-09-06 [Medium: My Data! My Rules!](https://medium.com/the-backers/my-data-my-rules-60890ffa0e56)
-* metions Tim Berners-Lee 
-* mentions Facebook/ Google/ Microsoft/ big tech
-* " SoLiD is an **open source project**, developed by Sir Tim Berners Lee at Massachusetts Institute of Technology (MIT) that **extends the current functionality of the web (W3C standards and protocols) by applying “Linked Data principles.”³⁵^⁴¹^⁴²**
+* mentions big tech
+* SoLiD is an **open source project**, developed by **Sir Tim Berners** Lee at Massachusetts Institute of Technology (MIT) that **extends the current functionality of the web (W3C standards and protocols) by applying “Linked Data principles.**
 SoLiD seeks to simplify **data ownership** concerns for consumers and businesses by 1) giving users the **freedom to take their data anywhere** and **avoid vendor lock-in**, and 2) for developers, the ability to **reuse data** in existing apps for new apps so consumer data does not need to be shared with a new service.³⁵^⁴¹^⁴²
 In SoLiD, **PDSs are called pods, and pods are stored on SoLiD servers.** ⁴³
 SoLiD utilizes Linked Data, a way of connecting resources throughout the web by having a uniform resource location (URL) for each piece of data, and explicitly stating how each piece of data is related to each other.⁴¹^⁴²"
