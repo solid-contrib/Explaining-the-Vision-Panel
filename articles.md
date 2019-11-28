@@ -371,6 +371,9 @@ Apple joins Google, Facebook, and Twitter in data-sharing project](https://myjoy
 2019-03-05 [Inquirer: 30 years later, Berners-Lee sees mission to fix internet's ills](https://usa.inquirer.net/23492/worldwide-web-inventor-seeks-to-fix-online-problems?utm_expid=.XqNwTug2W6nwDVUSgFJXed.1)
 
 2019-03-05 [Yahoo News: 30 years later, Berners-Lee sees mission to fix internet's ills](https://news.yahoo.com/30-years-later-berners-lee-sees-mission-fix-171158879.html)
+* TimBL mentioned
+* Tech Giants mentioned
+* Berners-Lee said he launched the Solid project in response to concerns about **personal data** being bought and sold without the consent of users. He said the platform aims "to separate the apps from the data storage" so users can decide where and how they would share their personal information. "Solid is going to be a ubiquitous **data storage** system that will give people **control of their data**," he said.
 
 2019-03-01 [Medium: What Would More Democratic A.I. Look Like?](https://onezero.medium.com/what-would-more-democratic-a-i-look-like-ea729f5f7b0a) 
 * mentions TimBL
