@@ -405,34 +405,52 @@ But to understand Solid you have to go back to the original prototype for the we
 2019-03-23 [Forbes: Sir Tim Berners-Lee At Forefront Of New Movement To Takeback Ownership Of Our Data](https://www.forbes.com/sites/maciejduraj/2019/03/23/sir-tim-berners-lee-at-forefront-of-new-movement-to-takeback-ownership-of-our-data/#4b5cc72434e1)
 
 2019-03-22 [Medium: The Academics of Investing in AI ](https://medium.com/glasswingvc/the-academics-of-investing-in-ai-8259c62a370b)
+* Berners- Lee’s vision for his open infrastructure platform, Solid, is massively bold, proposing no less than to decentralize the web and to give users and businesses the power to control their own data. 
 
 2019-03-22 [Little Black Book: Gain Back Your Privacy with a Decentralised Internet](https://lbbonline.com/news/gain-back-your-privacy-with-a-decentralised-internet/)
-
-2019-03-21 [GDN Online: Internet died in 2014...](http://www.gdnonline.com/Details/510604/Internet-died-in-2014)
+* That’s why Berners-Lee started the Solid project, which re-introduces his original idea of a decentralised approach to the internet. 
+* The Solid network is fully conceptualised around these Pods that contain all the data of one person, whether it be your bank-account or latest social posts. 
+* And similarly, revoking access to the data is just as easy to accomplish. Solid might, therefore, be a possible answer to the growing need for privacy regulations within the internet. 
+* With Solid and Pods, all services, from your favourite taxi company to your insurance company, would communicate through one API with your personal data. Each having separate read and write access to different parts of that data whilst reading and writing simultaneously. 
 
 2019-03-19 [BostInno: The Beat, Tuesday, March 19, 2019](https://www.americaninno.com/boston/newsletters/exclusive-flybridge-launches-second-graduate-syndicate-fund-swedish-cybersec-startup-heads-to-boston/)
 
 2019-03-29 [DZone: The Year of the Graph Newsletter: March 2019](https://dzone.com/articles/a-gravitational-wave-moment-for-graph-the-year-of)
+* More Linked Data: Ruben Verborgh from Ghent University/MIT/Inrupt talks about Solid at FOSDEM. Solid is the technology Sir Tim Berners-Lee is pioneering to re-orient the Web to its original vision. Linked Data is a key element of Solid, and Verborgh is a key contributor to Linked Data research and implementation. At the Web's 30th anniversary, this is more relevant than ever.
+* Solid is a new ecosystem for the Web, in which people store their own data instead of having to upload it to applications. This changes how we will build apps: we no longer have to harvest people's data, but ask permission to access people's data space.
 
 2019-03-18 [MIT News: Tim Berners-Lee named FT “Boldness in Business” Person of the Year](http://news.mit.edu/2019/tim-berners-lee-named-ft-boldness-in-business-person-of-the-year-0318)
+* Berners-Lee was honored for his new startup inrupt, which emerged out of work at the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) developing the open-data platform Solid.
+Solid aims to give users ownership over their data by building decentralized social applications.
+"Right now we really have the worst of all worlds, in which people not only cannot control their data, but also can’t really use it, because it’s spread across a number of different silo-ed websites,” says Berners-Lee. “Our goal is to ‘re-decentralize the web’ and develop a web architecture that gives users more control over the information they provide to applications.”
+Solid has produced some 50,000 so-called personal online data stores (PODs) that are being experimented on by thousands of developers across more than 25 countries. His company is also collaborating with partners like UK’s National Health Service to explore growing the scale of Solid, and intends to launch a user product by the end of the year.
 
 2019-03-17 [The Times: Tim Berners-Lee calls for a fight for ‘the kind of web we want’](https://www.thetimes.co.uk/edition/news-review/tim-berners-lee-calls-for-a-fight-for-the-kind-of-web-we-want-wk95rjxls)
 
 2019-03-15 [API Best in Class: What is Solid? Decentralized Web? Tim Berners-Lee is up to something again.](https://apibestinclass.com/what-is-solid-decentralized-web-tim-berners-lee-is-up-to-something-again/)
+* What is Solid? Decentralized Web? Tim Berners-Lee is up to something again.
 
 2019-03-14 [Fast Company: T Bone Burnett rips Big Tech “surveillance capitalists” in blistering SXSW keynote](https://www.fastcompany.com/90320480/full-text-t-bone-burnett-rips-big-tech-surveillance-capitalists-in-blistering-sxsw-keynote)
+* Berners-Lee has said he is “devastated” by what his creation has become, and he is working to “re-decentralize” the web with a new project he calls Solid. 
 
 2019-03-14 [Financial Times: Sustainable businesses should be ‘long-term greedy’](https://www.ft.com/content/bd30c5ec-20a9-11e9-a46f-08f9738d6b2b)
 
 2019-03-14 [Financial Times: Boldness in Business person of the year: Sir Tim Berners-Lee](https://www.ft.com/content/9d3205a8-15af-11e9-a168-d45595ad076d)
+*  " By designing the world wide web three decades ago, Sir Tim cemented himself as one of the most influential people of the modern era: his creation has had an incalculable impact on our everyday lives. But having grown increasingly concerned at how large interests were exploiting the web’s openness — including for electoral manipulation and cyber crime — the British computer scientist designed a data platform called Solid aimed at returning ownership of data to the users who generate it. In 2018, Sir Tim launched Inrupt, a for-profit company intended to put Solid into operation, maximising the upsides of the web while minimising its downsides. The goal, in Sir Tim’s words, is to “give people complete control of their data”."
 
 2019-03-14 [Hiltop Monitor: World Wide Web Celebrates 30th Anniversary](http://hilltopmonitor.com/2019/03/world-wide-web-celebrates-30th-anniversary/)
+* Driven by the same spark that led him to create the world wide web, Berners-Lee launched a platform called Solid in 2015, which he says will allow users to maintain full control of their data.
 
 2019-03-14 [DisrupTec: Privacy – remember John Lennon?](https://disruptec.co/2019/03/14/privacy-remember-john-lennon/)
 
 2019-03-13 [PYMNTS: The World Wide Web Turns 30](https://www.pymnts.com/innovation/2019/world-wide-web-anniversary/)
+* Next worth to watch is SOLID and its POD concept, initiated by Sir Tim Berners-Lee himself, the famous WWW creator. POD stands for Personal Online Data Store, promising users to be and stay the masters of their data, enabling them to share through apps, but never losing control.
 
 2019-03-12 [Inverse: World Wide Web: 3 Other Acts by Tim Berners-Lee That Shaped the Internet](https://www.inverse.com/article/54000-world-wide-web-google-doodle-tim-berners-lee)
+* The computer scientist went on to help built one of the first decentralized web platforms, called Solid, in collaboration with researchers at the Massachusetts Institute of Technology.
+* “The project aims to radically change the way Web applications work today, resulting in true data ownership as well as improved privacy,” explains Solid’s web page.
+
+Berners-Lee also launched Inrupt a commercial ecosystem for applications that allows other developers to build upon Solid. 
 
 2019-03-12 [CERN: Web@30: reliving history and rethinking the future](https://home.cern/news/news/computing/web30-reliving-history-and-rethinking-future)
 * metions Tim Berners-Lee 
