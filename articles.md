@@ -197,36 +197,91 @@ Using the Solid POD, the user will remain in full control over their data and wh
 * "“Solid changes the current model where users have to hand over personal data to digital giants in exchange for perceived value,” Berners-Lee wrote in a Medium post last year. “As we’ve all discovered, this hasn’t been in our best interests.”"
 
 2019-07-18 [BAI: Getting real with digital innovation](https://www.bai.org/banking-strategies/article-detail/getting-real-with-digital-innovation)
+* metions Tim Berners-Lee 
+* mentions Facebook/ Google/ Microsoft/ big tech
+* Solid, the brainchild of World Wide Web inventor Tim Berners-Lee, may represent the most significant innovation in digital banking at present. Solid knocks down data silos in two ways: First, customers store data from each service line onto a personal online data store (POD) and share access, as needed, reducing institutional liability. Then, Solid’s “instant data integration” allows banks to easily create applications that span service line data, generating new value possibilities.
+
 
 2019-07-17 [Vator TV: MeWe CEO Mark Weinstein on how his company is positioning itself as the anti-Facebook](https://vator.tv/news/2019-07-17-mewe-ceo-mark-weinstein-on-how-his-company-is-positioning-itself-as-the-anti-facebook)
+* metions Tim Berners-Lee 
+* mentions Facebook/ Google/ Microsoft/ big tech
+* Tim gives us great advice about doing the right thing for people worldwide. It’s an honor to have him as an adviser; he’s an incredible man, a rightful world hero. Importantly, Tim is deeply focused on fixing the issues of the Web. One of his fixes is his new protocol, Solid, which decentralizes data ownership for people all over the world and restores private data ownership. MeWe plans to be the first social media company to implement Solid.
 
 2019-07-16 [B2B NN: Tim Berners-Lee's Memories of Creating the Web Involve at Least 3 Classic B2B Scenarios](https://www.b2bnn.com/2019/07/tim-berners-lee-inrupt/)
+* metions Tim Berners-Lee 
+* mentions Facebook/ Google/ Microsoft/ big tech
+* In his current role as CTO of Inrupt, Berners-Lee is continuing to try breaking new ground with Solid, a platform for creating applications that will give Web users more control over how their data is stored and used by third parties. 
+
 
 2019-07-16 [AmericanInno: ‘One Giant Leap for Mankind’: These Eight Boston Companies Are Working on Moonshots of Their Own](https://www.americaninno.com/roundups/one-giant-leap-for-mankind-these-eight-boston-companies-are-working-on-moonshots-of-their-own/)
+* metions Tim Berners-Lee 
+* mentions Facebook/ Google/ Microsoft/ big tech
+*  Its main product is Solid, an open-source platform designed to decentralize the Internet. 
 
 2019-07-16 [CMO Australia: Online consumer tracking and the challenges for marketing](https://www.cmo.com.au/article/663801/online-consumer-tracking-challenges-marketing/)
+* metions Tim Berners-Lee 
+* mentions Facebook/ Google/ Microsoft/ big tech
+* Dubbed the ‘father of the Web’, Sir Tim Berners-Lee has for some years been working on a new project called Solid. 
+* The Solid project aims to define true data ownership as well as improved privacy, giving users the freedom to choose where their data is stored and who can access it.
+* Solid might just be somewhat of a niche project when compared to the scale of personal data, but when taken with stricter rules on privacy such as GDPR and tighter controls from tech vendors themselves, it signals the collection of user data will increasingly need to be more transparent and context specific. 
 
 2019-07-11 [Medium: It’s Time to Rebuild the Internet](https://medium.com/@dylsteck/its-time-to-rebuild-the-internet-f0790f9966ec)
+* metions Tim Berners-Lee 
+* mentions Facebook/ Google/ Microsoft/ big tech
+* For example, both Blockstack and Solid(which was founded by the creator of the Internet, Sir Tim Berners-Lee) are working towards creating frameworks that empower developers to build decentralized apps. 
 
 2019-07-02 [Programmable Web: Self-Hosted Personal Data is Key to Four Promising Facebook Alternatives](https://www.programmableweb.com/news/self-hosted-personal-data-key-to-four-promising-facebook-alternatives/analysis/2019/07/02)
+* metions Tim Berners-Lee 
+* mentions Facebook/ Google/ Microsoft/ big tech
+* The open project called Solid, by Inrupt and Sir Tim Berners-Lee, creator of the World Wide Web, takes a similar approach: users can create what's called a "Solid POD" hosted on a server of their choosing (in essence, is their personal cloud) and plug it into an ecosystem of apps that access only the data they have permissions for. 
+* The primary client/server protocol within those efforts is called ActivityPub, and it is accompanied by a number of other protocols for notification delivery, social data vocabulary, etc. Solid is using these protocols, and new products are emerging that also use them in their attempts to provide online social network experiences that are similar to existing platforms such as Twitter and YouTube.
+* Personal data clouds like Solid PODs or Cozy aren't intended to provide a social networking product similar to Facebook or Twitter; instead, their goal is to provide a central, user-managed location for all of one's data, which can then be plugged into social products or platforms. 
+* Solid
+Kicked off by Sir Tim Berners-Lee and MIT in 2015, Solid is newer than Cozy. Its feature set is still nascent, and the UI leaves a lot to be desired, especially compared to Cozy. To be honest, in its current state, the UI is almost unusable. The Solid user guide on Github doesn't help much, and, at the time of publication, not all of the features covered in the guide were functional when you run a Solid server locally or with a Docker image in the cloud.
+* However, whereas Cozy is user-focused, Solid is technology-focused. Solid's vision is that every person has a personal API on top of their personal cloud (called a POD in Solid parlance), and that API uses linked data and open standards for data exchange.
+* While full functionality and standards adoption is far out, Solid is on the path to interoperability and decentralization by making linked data and RDF (both of which are integral to the Semantic Web) its foundation. Solid is still very much under development. But it has the most potential to be the de facto personal data cloud provider for a decentralized web.
 
 2019-06-25 [Mercola: Google buries Mercola in their latest search engine update, Part 2 of 2]( https://articles.mercola.com/sites/articles/archive/2019/06/25/google-broad-core-algorithm-update-buries-mercola.aspx)
+* metions Tim Berners-Lee 
+* mentions Facebook/ Google/ Microsoft/ big tech
+* Berners-Lee is building a platform called Solid, designed to give people control over their own data.
 
 2019-06-21 [The Record: Reinventing the World Wide Web](https://www.therecord.com/news-story/9447408-reinventing-the-world-wide-web/) 
+* metions Tim Berners-Lee 
+* mentions Facebook/ Google/ Microsoft/ big tech
+* And over the past few years he's been working on a project called Solid, an open-source program that gives people more control over their own personal data.
 
 2019-06-14 [Faro de Vigo: Miitzi László: "No hay inteligencia artificial, solo es una extensión de la humana"](https://www.farodevigo.es/sociedad/2019/06/14/miitzi-laszlo-hay-inteligencia-artificial/2123354.html)
-
-2019-06-13 [Computing: Blockchain latest news: Zilliqa's smart contracts and Facebook's crypto tease](https://www.computing.co.uk/ctg/news/3033006/blockchain-ico-not-dead-changing-diacle)
+* metions Tim Berners-Lee 
+* La neurobióloga holandesa Mitzi László ha sido reclutada por Tim Berners-Lee, el padre de internet, para su proyecto Solid, con el que se propone devolver a los ciudadanos el control de sus datos con una internet segura.
+* -Solid empezó en el MIT (Instituto Tecnológico de Massachusetts) en 2014 como proyecto académico y el año pasado cogió impulso con la empresa que fundó Tim Berners-Lee, Inrupt, con John Bruce. 
 
 2019-06-12 [Next Billion Seconds Podcast: Episode 3.09 The Future of the Web with Sean White](https://nextbillionseconds.com/2019/06/12/episode-3-09-the-future-of-the-web-with-sean-white/) 
+* metions Tim Berners-Lee 
+* Some of the answer lies with new Web technologies, like Sir Tim Berners-Lee’s Solid project.
 
 2019-06-10 [Medium: Here’s what NNG got wrong about Privacy (+ Lessons learned from Game of Thrones Season 8)](https://medium.com/greater-than-experience-design/heres-what-nng-group-got-wrong-about-privacy-lessons-learned-from-game-of-thrones-season-8-de6daef19ea2)
+* metions Tim Berners-Lee 
+* “Solid changes the current model where users have to hand over personal data to digital giants in exchange for perceived value. As we’ve all discovered, this hasn’t been in our best interests. Solid is how we evolve the web in order to restore balance — by giving every one of us complete control over data, personal or not, in a revolutionary way.”
+— Tim Berners-Lee in his blog announcing Solid
+It’s worth noting that Solid is a platform built using the existing web. The SAFE Network is a different story. This might well be ‘a’ version of the new internet we’ve been envisaging. Check it out!
 
 2019-06-10 [La Nueva Española: Entrega del premio "Solid" entre los estudiantes de Informática](https://www.lne.es/economia/2019/06/11/entrega-premio-solid-estudiantes-informatica/2486251.html)
+* metions Tim Berners-Lee 
+* "Solid" es un proyecto de código abierto promovido por Berners-Lee para desarrollar tecnologías básicas para un futuro en el que los usuarios tengan el control de sus datos. En base a los principios de "Solid", los estudiantes de Arquitectura de Software de Oviedo han desarrollado aplicaciones que compiten por la distinción que se entrega mañana.
 
 2019-06-07 [Medium: DID: The Future of Identity](https://medium.com/clean-integration/did-the-future-of-identity-becaedd842c1)
+* metions Tim Berners-Lee 
+* And, that is just what he is doing with Solid, Inrupt’s first product.
+Solid is a technology, nearly 15-years in the making, that strives to give users control of their identity and data.
+But to understand Solid you have to go back to the original prototype for the web browser, Mosaic. (I was tinkering with this new exciting tool in the CS undergraduate labs at Cornell. Uh-oh! I just dated myself.)
+* Solid does not use a decentralized blockchain for its identity system. Solid uses what are called PODs.
+* This Solid POD can be in your house or workplace, or with an online Solid POD provider of your choice. Since you own your data, you’re free to move it at any time, without interruption of service. You give people and your apps permission to read or write to parts of your Solid POD. 
 
 2019-06-06 [Technology Things: Revolt on the horizon? How young people really feel about digital technology](http://technology-things.com/revolt-on-the-horizon-how-young-people-really-feel-about-digital-technology/)
+* metions Tim Berners-Lee 
+* Mentions big tech 
+* Sir Tim Berners Lee, the creator of the world wide web, has also been working on a way to shift the power from organizations and institutions back to citizens and consumers. The platform, Solid, offers users the opportunity to be in charge of where they store their data and who can access it. It is a form of re-decentralization. The Solid POD (Personal Online Data storage) is a secure place on a hosted server or the individual’s own server. Users can grant apps access to their POD as a person’s data is stored centrally and not by an app developer or on an organization’s server. We see this as potentially being a way to let people take back control from technology and other companies.
 
 2019-06-06 [Ethan Zuckerman's Blog: Sir Tim versus Black Mirror](http://www.ethanzuckerman.com/blog/2019/06/06/sir-tim-versus-black-mirror/)
 
