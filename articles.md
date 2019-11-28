@@ -373,8 +373,13 @@ Apple joins Google, Facebook, and Twitter in data-sharing project](https://myjoy
 2019-03-05 [Yahoo News: 30 years later, Berners-Lee sees mission to fix internet's ills](https://news.yahoo.com/30-years-later-berners-lee-sees-mission-fix-171158879.html)
 
 2019-03-01 [Medium: What Would More Democratic A.I. Look Like?](https://onezero.medium.com/what-would-more-democratic-a-i-look-like-ea729f5f7b0a) 
+* mentions TimBL
+* mentions Tech Giants as e.g. Amazon
+* mentions Charlie, an 'alternative Alexa' from **Solid**
+The Article emphasizes the future of A.I. should be in the hands of democratic organized structures. Amounts of money invested are evaluated (although that might be an estimated variable) and Tims **Vision** is explained in a paragraph. The introduction is made by the example of http://www.elementsofai.com, which is a Finnish iniative to bring the understanding of A.I. into the common ground. Further details of Solid or Inrupt are not provided.
 
-2019-02-26 [Communications of ACM:cience in Europe: Beyond Boundaries]](https://cacm.acm.org/magazines/2019/4/235597-web-science-in-europe/fulltext)
+2019-02-26 [Communications of ACM:Science in Europe: Beyond Boundaries]](https://cacm.acm.org/magazines/2019/4/235597-web-science-in-europe/fulltext)
+* **Engineering** solutions, as developed in the SoLiD project, may be part of the response, but how can we be sure that people even want let alone will have the capacity to use these solutions? What new challenges might these solutions pose? How would this impact on the underlying business model for the Web?
 
 2019-03-30 [How a chess app interacts with Solid](https://pieterheyvaert.com/blog/2019/03/30/solid-chess-interaction)
 * mentions Tim BL 
@@ -421,6 +426,8 @@ Mark Zuckerberg: We’ll get there.
 Jonathan Zittrain: We’ll get there. But Solid says if you did that, people would then– or their helpful proxies– be able to say, “All right, Facebook is coming along.
 
 2019-02-20 [Online Tech Tips: Highlights & transcript from Zuckerberg’s 20K-word ethics talk](https://online-techtips.blogspot.com/2019/02/highlights-transcript-from-zuckerbergs.html)
+* mentioned TimBL
+* But Solid says if you did that, people would then– or their helpful **proxies**– be able to say, “All right, Facebook is coming along. It wants the following data from me and including that data that it has generated about me as I use it, but stored back in my locker and it kind of has to come back to my well to draw water each time.
 
 2019-02-21 [LearninPub: Highlights & transcript from Zuckerberg’s 20K-word ethics talk – TechCrunch](http://learninpub.blogspot.com/2019/02/highlights-transcript-from-zuckerbergs.html)
 * mentions Tim BL 
@@ -457,6 +464,8 @@ Jonathan Zittrain: We’ll get there. But Solid says if you did that, people wou
 * "Web creator Tim Berners-Lee has set up a project called Solid in partnership with the Massachusetts Institute of Technology, which is **a way of giving users "the freedom to choose where their data resides and who is allowed to access it".**"
 
 2019-01-29 [Techristic: Digital Trends 2019: Every Single Stat You Need To Know About The Internet](https://www.techristic.com/digital-trends-2019-every-single-stat-you-need-to-know-about-the-internet/)
+* TimBL mentioned
+* SOLID. This would fundamentally change the very fabric of business on the internet though, so expect to see plenty of resistance from the ‘Four Horsemen’.
 
 2019-01-29 [Dundee Messenger: Facebook and Google: The data guardians fight back](https://dundeemessenger.co.uk/technology/facebook-and-google-the-data-guardians-fight-back/)
 * Mentions Tim
@@ -471,6 +480,7 @@ Jonathan Zittrain: We’ll get there. But Solid says if you did that, people wou
 * The father of the Internet, Tim Berners-Lee, has been trying to do the same with his Solid project
 
 2019-01-21 [MIT Technology Review](http://www.mittrchina.com/news/3453)
+* article couldn' t be reviewed because in chinese language
 
 2019-01-19 [Security Boulevard: Client Applications: A Hacker’s Easiest Target?](https://securityboulevard.com/2019/01/client-applications-a-hackers-easiest-target/)
 * "The Solid project backed by Sir Tim Berners-Lee is another promising **technology** in this area." 
@@ -512,3 +522,4 @@ Jonathan Zittrain: We’ll get there. But Solid says if you did that, people wou
 * "Tim Berners-Lee is working on something called Solid which would **let people keep their data cached in more secure capsules.** "
 
 2018-12-31 [NRC - Herstelwerk aan het kapotte internet](https://www.nrc.nl/nieuws/2018/12/31/herstelwerk-aan-het-kapotte-internet-a3127480)
+* article couldn' t be reviewed because it' s behind a paywall (only for subscribers)
