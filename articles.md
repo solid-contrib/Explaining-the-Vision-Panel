@@ -284,30 +284,47 @@ But to understand Solid you have to go back to the original prototype for the we
 * Sir Tim Berners Lee, the creator of the world wide web, has also been working on a way to shift the power from organizations and institutions back to citizens and consumers. The platform, Solid, offers users the opportunity to be in charge of where they store their data and who can access it. It is a form of re-decentralization. The Solid POD (Personal Online Data storage) is a secure place on a hosted server or the individual’s own server. Users can grant apps access to their POD as a person’s data is stored centrally and not by an app developer or on an organization’s server. We see this as potentially being a way to let people take back control from technology and other companies.
 
 2019-06-06 [Ethan Zuckerman's Blog: Sir Tim versus Black Mirror](http://www.ethanzuckerman.com/blog/2019/06/06/sir-tim-versus-black-mirror/)
+* Sir Tim’s current idea is a protocol – Solid – and a company – Inrupt – which want to make the Web as it is now significantly better. Just what are Solid and Inrupt? That’s what a smattering of us are here to find.
+* Sir Tim pushes up the blackboard featuring the web as a meteor crashing back to earth. On the board below it, he starts drawing a set of cylinders. Solid is based around the idea of pods, personal data stores that could live in the cloud or which you could control directly. “Solid is web technology reapplied,” Sir Tim explains. “You use apps and web apps, but they don’t store your data at all.”Returning to his photo sharing scenario, Sir Tim imagines uploading photos taken from a digital camera. The camera asks where you want to store the data. “You have a Solid pod at home, and one at work – you decide where to put them based on what context you want to use them in. Solid is a protocol, like the web. Pods are Solid-compatible personal clouds. Apps can talk to your pod.” So sharing photos is no longer about making LinkedIn and Flickr talk to each other – it’s simply about both of them talking to your pod, which you control.
 
 2019-06-05 [Singulariy Hub: Revolt on the horizon? How young people really feel about digital technology](https://singularityhub.com/2019/06/05/revolt-on-the-horizon-how-young-people-really-feel-about-digital-technology/)
+* The platform, Solid, offers users the opportunity to be in charge of where they store their data and who can access it. It is a form of re-decentralization. The Solid POD (Personal Online Data storage) is a secure place on a hosted server or the individual’s own server. 
 
 2019-06-03 [Media Post:Can Dweb Save The Internet?](https://www.mediapost.com/publications/article/336540/can-dweb-save-the-internet.html)
+* Berners-Lee is building a platform called Solid, designed to give people control over their own data. 
 
 2019-05-29 [Information Age: Post GDPR and the ownership of data](https://www.information-age.com/citizens-custodians-of-their-own-data-ownership-of-data-123482878/)
+* Tim Berners-Lee is on this one, with Solid, which “empowers users and organisations to separate their data from the applications that use it.”
 
 2019-05-28 [Asia Time: Revolt on the horizon? How young people really feel about digital technology](https://www.asiatimes.com/2019/05/article/the-data-revolt-on-the-digital-horizon/)
+*  The platform Solid offers users the opportunity to be in charge of where they store their data and who can access it. It is a form of re-decentralization.
+* The Solid POD (Personal Online Data storage) is a secure place on a hosted server or the individual’s own server.
 
 2019-05-28 [Stuff: Revolt on the horizon? How young people really feel about digital technology](https://stuff.co.za/2019/05/28/revolt-on-the-horizon-how-young-people-really-feel-about-digital-technology/)
+* The platform, Solid, offers users the opportunity to be in charge of where they store their data and who can access it. It is a form of re-decentralisation. The Solid POD (Personal Online Data storage) is a secure place on a hosted server or the individual’s own server.
 
 2019-05-26 [News Central: Revolt on the horizon? How young people really feel about digital technology](https://newscentral24x7.com/revolt-horizon-young-people-digital-technology/)
+* The platform, Solid, offers users the opportunity to be in charge of where they store their data and who can access it. It is a form of re-decentralisation. The Solid POD (Personal Online Data storage) is a secure place on a hosted server or the individual’s own server. 
 
 2019-05-24 [Times of Malta: GenTechs are getting frustrated and disillusioned with digital technology](https://timesofmalta.com/articles/view/gentechs-are-getting-frustrated-and-disillusioned-with-digital.710784)
+* The platform, Solid, offers users the opportunity to be in charge of where they store their data and who can access it. It is a form of re-decentralisation. The Solid POD (Personal Online Data storage) is a secure place on a hosted server or the individual’s own server.
 
 2019-05-22 [The Conversation:Revolt on the horizon? How young people really feel about digital technology](http://theconversation.com/revolt-on-the-horizon-how-young-people-really-feel-about-digital-technology-117209)
+* The platform, Solid, offers users the opportunity to be in charge of where they store their data and who can access it. It is a form of re-decentralisation. The Solid POD (Personal Online Data storage) is a secure place on a hosted server or the individual’s own server.
 
 2019-05-22 [Phys: Revolt on the horizon? How young people really feel about digital technology](https://phys.org/news/2019-05-revolt-horizon-young-people-digital.html)
+* The platform, Solid, offers users the opportunity to be in charge of where they store their data and who can access it. It is a form of re-decentralisation. The Solid POD (Personal Online Data storage) is a secure place on a hosted server or the individual's own server. Users can grant apps access to their POD as a person's data is stored centrally and not by an app developer or on an organisation's server. 
 
 2019-05-20 [PYMNTS: Tim Berners-Lee On Building A New Web](https://www.pymnts.com/news/merchant-innovation/2019/tim-berners-lee-world-wide-web/)
-
-2019-05-19 [Computing: Blockchain latest news: By ignoring crypto Berners-Lee's Solid is missing a trick, says Web 3 investor](https://www.computing.co.uk/ctg/news/3033006/blockchain-ico-not-dead-changing-diacle)
+* Interoperability is the raison d’etre of Solid, Berners-Lee’s effort to create V.2 of the World Wide Web.Think of Solid as a series of digital data pods that do two things for consumers: store all of their relevant data and a launch pad from which all of that data can be easily shared, in a permission-based fashion, with other users.That data can be any type of data. It can be payment and banking data, medical data, photos, calendars, documents — the list goes on and on and varies in specific composition from consumer to consumer.The Solid protocol, Berners-Lee explained to Webster, is “indifferent” to what type of data one wants to store there — it creates the common digital home where it can all live.
 
 2019-05-19 [ZDNet: Breaking up Facebook? Try data literacy, social engineering, personal knowledge graphs, and developer advocacy](https://www.zdnet.com/article/breaking-up-facebook-try-data-literacy-social-engineering-personal-knowledge-graphs-and-developer-advocacy/)
+* Data sovereignty is precisely the vision behind Solid, the application development framework championed by Tim Berners Lee. Berners Lee, credited as the inventor of the web, is working on Solid with the help of startup Inrupt, and contributors from the open source and research community. 
+* Solid is working on developing so-called pods. You can think of pods as personal data vaults, keeping all your data in one place. From there, you can authorize applications to use the data, giving read or write access to your pod. And pods could be hosted on your own machine, or in the cloud. 
+* But Solid has an ace up its sleeve there: knowledge graphs. 
+* Solid is based on this technology, effectively aiming to build a personal knowledge graph for each of its users. Needless to say, this is quite ambitious, which may help explain why there is still no production-ready software for Solid. 
+* It looks like the Solid team has the mindset and the people to make it work, while the tech is work in progress. Ruben Verborgh, Semantic Web professor, researcher, and Inrupt technology advocate, together with his team have been working on enriching the Linked Data stack with tools to address modern developers. 
+* Their tools are based on JavaScript and frameworks such as React, and aim to make programming Solid a seamless experience. Verborgh and team are trying to meet developers where they are. Rather than expecting developers to switch to the Linked Data stack, they are giving them tools to build applications on Solid. This is smart, pragmatic, and a bit ironic, considering React's origins in Facebook. But will it work? 
 
 2019-05-16 [Know Stuff: Breaking up Facebook? Try data literacy, social engineering, personal knowledge graphs, and developer advocacy]( https://www.knowstuff.org/2019/05/breaking-up-facebook-try-data-literacy-social-engineering-personal-knowledge-graphs-and-developer-advocacy/)
 * Data sovereignty is precisely the vision behind Solid, the application development framework championed by Tim Berners Lee. Berners Lee, credited as the inventor of the web, is working on Solid with the help of startup Inrupt, and contributors from the open source and research community.
