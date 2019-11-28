@@ -422,36 +422,85 @@ But to understand Solid you have to go back to the original prototype for the we
 * *He then presented his plans to re-decentralise the Web with the Solid project for improved privacy and **full data ownership**, and also the Contract for the Web, targeted at governments, companies and citizens to ensure that the Web will serve humanity.*
 
 2019-03-12 [The Sun: WORLD WIDE WOW Who is Sir Tim Berners-Lee and when did he invent the World Wide Web?](https://www.thesun.co.uk/news/8612472/sir-tim-berners-lee-world-wide-web/)
+* Not least is the initiative on which Tim Berners-Lee, the inventor we are celebrating today, spends his time: Solid, a way for each of us to have our own ‘pod’ which contains and allows us to manage all of our own personal data.
 
 2019-03-12 [World Economic Forum: 4 ways the web has changed our lives – and will shape our future](https://www.weforum.org/agenda/2019/03/four-ways-the-web-has-changed-our-lives-and-will-shape-our-future/)
+* mentions Tim BL
+* Not least is the initiative on which Tim Berners-Lee, the inventor we are celebrating today, spends his time: Solid, a way for each of us to have our own ‘pod’ which contains and allows us to manage all of our own personal data.
 
 2019-03-12 [Verdict: 30 years after Tim Berners-Lee created the web, is it too late to fix it?](https://www.verdict.co.uk/world-wide-web-inventor/)
+* mentions Tim BL
+* Mentions tech giants 
+* Since 2015, he has been working on a new web infrastructure called Solid, or SOcial LInked Data, which rethinks how websites treat personal data. This is just one of a number of decentralised platforms that have emerged as a reaction to the internet’s current data-handling methods, but the backing of the founder of the web certainly makes Solid stand out from the crowd.
+* Rather than companies such as Facebook and Google having the ability to store and share user data, Solid proposes separating websites from the data generated when users interact with them. A website running using Solid would allow users to decide where their data is stored instead of companies owning it. 
+* Believing that it is “defeatist and unimaginative to assume that the web as we know it can’t be changed for the better in the next 30 [years]”, Berners-Lee is optimistic that Solid could change the web for the better. But is this too good to be true?
+* The introduction of GDPR last year demonstrated that legislative change can go some way to limiting the data practices of organisations, if building web apps on decentralised platforms such as Solid became law, then Berners-Lee’s vision for a “re-decentralised” web has a chance of taking off. 
 
 2019-03-12 [Japan Times: Web inventor Tim Berners-Lee urges users to seek 'complete control' of data](https://www.japantimes.co.jp/news/2019/03/12/business/tech/web-inventor-urges-users-seek-complete-control-data/#.Xdw5HS2ZOTd)
+* Berners-Lee told a Washington Post event last week that he launched the Solid project in response to concerns about personal data being bought and sold without the consent of users.
+* Berners-Lee, who last year launched a development platform called “Solid” aimed at giving users control of their data, described a frightening future if we do not rise to the challenge of privacy protection.
 
 2019-03-12 [Engadget: The World Wide Web at 30](https://www.engadget.com/2019/03/12/world-wide-web-30-birthday-tim-berners-lee/)
+* Mentions Tim BL 
+* In September of last year, Berners-Lee announced he would be taking a sabbatical from MIT to launch a new online platform, dubbed Solid, which could drastically reorient the current power structure of the internet and return control of user data to the users themselves.
+* "Solid changes the current model where users have to hand over personal data to digital giants in exchange for perceived value," he explained. "As we've all discovered, this hasn't been in our best interests." Rather than have all of your online data concentrated in the hands of a few massive firms, Solid would effectively decentralize the way data is shared over the internet.
+* To help drive adoption of Solid, Berners-Lee also announced the launch of Inrupt, his first commercial venture leveraging the new platform. As he explained to Fast Company, Solid would function like "a mashup of Google Drive, Microsoft Outlook, Slack, Spotify, and WhatsApp." But since any data generated on or imported to Solid would be stored in the user's secure personal online data (POD) locker, rather than being shunted across the internet, people would be able to entrust their most sensitive information (such as medical or financial records) to their apps, knowing that the data won't be misused.
 
 2019-03-11 [Financial Times: Tim Berners-Lee on reshaping the web](https://www.ft.com/content/17cb93d1-a00b-4ce4-a74d-184befa5c141)
 
 2019-03-11 [Financial Times: The web has fallen under the influence of a bad crowd](https://www.ft.com/content/333501f2-43d4-11e9-a965-23d669740bfb)
 
 2019-03-10 [Techonomy; Why Banks Could Be Your Ally for Managing Identity](https://techonomy.com/2019/03/banks-ally-managing-identity/)
+* mentions Tim BL 
+* Right now, all kinds of ideas are emerging for how ordinary individuals might regain control of their information. Tim Berners-Lee, the inventor of the World Wide Web, is putting his efforts into a project called Solid, which he calls a “seriously needed course correction” for the web he invented. Solid aims to put people, not companies, at the center of control online, and is, Berners-Lee said at the Techonomy conference last November, “driven by the belief that you should control your data.” 
 
 2019-03-06 [RTL Today; 30 years later, Berners-Lee sees mission to fix internet's ills](https://today.rtl.lu/news/business-and-tech/a/1315897.html)
+* The British computer scientist said his efforts focus on two areas -- the so-called "Contract for the Web" to ensure integrity of online information, and his platform in development called "Solid" to give users control of their data.
+* Berners-Lee said he launched the Solid projet in response to concerns about personal data being bought and sold without the consent of users.
 
 2019-03-05 [CNET: Tim Berners-Lee still believes the web can be fixed, even today](https://www.cnet.com/news/tim-berners-lee-still-believes-the-web-can-be-fixed-even-today/?ftag=COS-05-10aaa0b&linkId=64391961)
+* The Solid project, which he's developing with researchers at the Massachusetts Institute of Technology, is meant to give people more control over their personal data, which today is being bought and sold without their permission. 
+* The other is a new platform called Solid, which gives users control over their data.
 
 2019-03-05 [Daily Mail: 30 years later, Berners-Lee sees mission to fix internet's ills](https://www.dailymail.co.uk/wires/afp/article-6774129/30-years-later-Berners-Lee-sees-mission-fix-internets-ills.html)
+* mentions TimBL
+* mentions Tech Giants
+* The British computer scientist said his efforts focus on two areas -- the so-called "Contract for the Web" to ensure integrity of online information, and his platform in development called "Solid" to give users control of their data.
+* Berners-Lee said he launched the Solid projet in response to concerns about personal data being bought and sold without the consent of users. He said the platform aims "to separate the apps from the data storage" so users can decide where and how they would share their personal information."Solid is going to be a ubiquitous data storage system that will give people control of their data," he said.
 
 2019-03-05 [France 24: 30 years later, Berners-Lee sees mission to fix internet's ills](https://www.france24.com/en/20190305-30-years-later-berners-lee-sees-mission-fix-internets-ills)
+* mentions TimBL
+* mentions Tech Giants
+* Berners-Lee said he launched the Solid projet in response to concerns about personal data being bought and sold without the consent of users.
+* The British computer scientist said his efforts focus on two areas -- the so-called "Contract for the Web" to ensure integrity of online information, and his platform in development called "Solid" to give users control of their data.
+"Solid is going to be a ubiquitous data storage system that will give people control of their data," he said.
 
 2019-03-05 [Phys.org: 30 years later, Berners-Lee sees mission to fix internet's ills](https://phys.org/news/2019-03-years-berners-lee-mission-internet-ills.html)
+* mentions TimBL
+* mentions Tech Giants
+* The British computer scientist said his efforts focus on two areas—the so-called "Contract for the Web" to ensure integrity of online information, and his platform in development called "Solid" to give users control of their data.
+* Berners-Lee said he launched the Solid projet in response to concerns about personal data being bought and sold without the consent of users.
+* "Solid is going to be a ubiquitous data storage system that will give people control of their data," he said.
 
 2019-03-05 [L'Echo: 30 years later, Berners-Lee sees mission to fix internet's ills](https://www.lecho.be/culture/general/30-ans-du-web-quand-la-toile-se-referme-sur-son-concepteur/10103551.html)
+* mentions TimBL
+* mentions Tech Giants
+* Il se dit "dévasté" par les événements. "Nous avons démontré que le web a déçu l’humanité au lieu de la servir, comme il était censé le faire." En octobre dernier, il a présenté un projet, Solid, une plateforme en accès libre capable de stocker nos données personnelles.
 
 2019-03-05 [Inquirer: 30 years later, Berners-Lee sees mission to fix internet's ills](https://usa.inquirer.net/23492/worldwide-web-inventor-seeks-to-fix-online-problems?utm_expid=.XqNwTug2W6nwDVUSgFJXed.1)
+* mentions TimBL
+* mentions Tech Giants
+* The British computer scientist said his efforts focus on two areas — the so-called “Contract for the Web” to ensure integrity of online information, and his platform in development called “Solid” to give users control of their data.
+* Berners-Lee said he launched the Solid projet in response to concerns about personal data being bought and sold without the consent of users. He said the platform aims “to separate the apps from the data storage” so users can decide where and how they would share their personal information.
+
+“Solid is going to be a ubiquitous data storage system that will give people control of their data,”
 
 2019-03-05 [Yahoo News: 30 years later, Berners-Lee sees mission to fix internet's ills](https://news.yahoo.com/30-years-later-berners-lee-sees-mission-fix-171158879.html)
+* mentions TimBL
+* mentions Tech Giants
+* The British computer scientist said his efforts focus on two areas -- the so-called "Contract for the Web" to ensure integrity of online information, and his platform in development called "Solid" to give users control of their data.
+* Berners-Lee said he launched the Solid projet in response to concerns about personal data being bought and sold without the consent of users.
+* "Solid is going to be a ubiquitous data storage system that will give people control of their data," he said.
 
 2019-03-01 [Medium: What Would More Democratic A.I. Look Like?](https://onezero.medium.com/what-would-more-democratic-a-i-look-like-ea729f5f7b0a) 
 * mentions TimBL
@@ -561,7 +610,6 @@ Jonathan Zittrain: We’ll get there. But Solid says if you did that, people wou
 * The father of the Internet, Tim Berners-Lee, has been trying to do the same with his Solid project
 
 2019-01-21 [MIT Technology Review](http://www.mittrchina.com/news/3453)
-* article couldn' t be reviewed because in chinese language
 
 2019-01-19 [Security Boulevard: Client Applications: A Hacker’s Easiest Target?](https://securityboulevard.com/2019/01/client-applications-a-hackers-easiest-target/)
 * "The Solid project backed by Sir Tim Berners-Lee is another promising **technology** in this area." 
