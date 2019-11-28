@@ -4,7 +4,7 @@ How do articles explain Solid in 2019?
 
 | Description  | Amount |
 | ------------- | ------------- |
-| Number of Articles mentioning Solid in 2019  | ~ 200  |
+| Number of Articles mentioning Solid in 2019  | 140  |
 | Percentage mentioning Tim & tech giants  | ~ 90%  |
 
 | Way to Describe Solid  | Number of Articles | Percentage of Articles |
