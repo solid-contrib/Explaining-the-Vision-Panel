@@ -355,6 +355,9 @@ Apple joins Google, Facebook, and Twitter in data-sharing project](https://myjoy
 2019-03-11 [Financial Times: The web has fallen under the influence of a bad crowd](https://www.ft.com/content/333501f2-43d4-11e9-a965-23d669740bfb)
 
 2019-03-10 [Techonomy; Why Banks Could Be Your Ally for Managing Identity](https://techonomy.com/2019/03/banks-ally-managing-identity/)
+* TimBL mentioned
+* Banks as identity managers ?
+* Solid, which he calls a “seriously needed course correction” for the web he invented. Solid aims to put people, not companies, at the center of control online, and is, Berners-Lee said at the Techonomy conference last November, “driven by the belief that you should **control your data.**”
 
 2019-03-06 [RTL Today; 30 years later, Berners-Lee sees mission to fix internet's ills](https://today.rtl.lu/news/business-and-tech/a/1315897.html)
 * TimBL mentioned
