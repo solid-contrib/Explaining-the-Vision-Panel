@@ -359,6 +359,9 @@ Apple joins Google, Facebook, and Twitter in data-sharing project](https://myjoy
 2019-03-06 [RTL Today; 30 years later, Berners-Lee sees mission to fix internet's ills](https://today.rtl.lu/news/business-and-tech/a/1315897.html)
 
 2019-03-05 [CNET: Tim Berners-Lee still believes the web can be fixed, even today](https://www.cnet.com/news/tim-berners-lee-still-believes-the-web-can-be-fixed-even-today/?ftag=COS-05-10aaa0b&linkId=64391961)
+* TimBL mentioned
+* Contract of the Web mentioned
+* The Solid project, which he's developing with researchers at the Massachusetts Institute of Technology, is meant to give people more **control over their personal data**, which today is being bought and sold without their permission. The idea is to give people "pods" for storing data, which would let them decide where and how their information is used by **apps that are separate from the data storage.**
 
 2019-03-05 [Daily Mail: 30 years later, Berners-Lee sees mission to fix internet's ills](https://www.dailymail.co.uk/wires/afp/article-6774129/30-years-later-Berners-Lee-sees-mission-fix-internets-ills.html)
 * TimBL mentioned
