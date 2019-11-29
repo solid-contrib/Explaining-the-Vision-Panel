@@ -363,6 +363,9 @@ Apple joins Google, Facebook, and Twitter in data-sharing project](https://myjoy
 2019-03-05 [Daily Mail: 30 years later, Berners-Lee sees mission to fix internet's ills](https://www.dailymail.co.uk/wires/afp/article-6774129/30-years-later-Berners-Lee-sees-mission-fix-internets-ills.html)
 
 2019-03-05 [France 24: 30 years later, Berners-Lee sees mission to fix internet's ills](https://www.france24.com/en/20190305-30-years-later-berners-lee-sees-mission-fix-internets-ills)
+* TimBL mentioned
+* Contract for the Web mentioned
+* ...expressed concerns that his creation has been "hijacked by crooks" that may spell its destruction...
 
 2019-03-05 [Phys.org: 30 years later, Berners-Lee sees mission to fix internet's ills](https://phys.org/news/2019-03-years-berners-lee-mission-internet-ills.html)
 * TimBL mentioned
