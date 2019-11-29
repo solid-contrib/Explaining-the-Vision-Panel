@@ -369,6 +369,8 @@ Apple joins Google, Facebook, and Twitter in data-sharing project](https://myjoy
 2019-03-05 [L'Echo: 30 years later, Berners-Lee sees mission to fix internet's ills](https://www.lecho.be/culture/general/30-ans-du-web-quand-la-toile-se-referme-sur-son-concepteur/10103551.html)
 
 2019-03-05 [Inquirer: 30 years later, Berners-Lee sees mission to fix internet's ills](https://usa.inquirer.net/23492/worldwide-web-inventor-seeks-to-fix-online-problems?utm_expid=.XqNwTug2W6nwDVUSgFJXed.1)
+* TimBL mentioned
+* The British computer scientist said his efforts focus on two areas — the so-called “Contract for the Web” to ensure **integrity** of online information, and his platform in development called “Solid” to give users **control of their data.** His comments come amid events marking the 30th anniversary of the web and growing fears that it has been hijacked for nefarious purposes. Berners-Lee said he launched the Solid projet in response to concerns about **personal data** being bought and sold without the consent of users. He said the platform aims **“to separate the apps from the data storage”** so users can decide where and how they would share their personal information.
 
 2019-03-05 [Yahoo News: 30 years later, Berners-Lee sees mission to fix internet's ills](https://news.yahoo.com/30-years-later-berners-lee-sees-mission-fix-171158879.html)
 * TimBL mentioned
