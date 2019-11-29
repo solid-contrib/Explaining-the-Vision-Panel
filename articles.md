@@ -367,6 +367,8 @@ Apple joins Google, Facebook, and Twitter in data-sharing project](https://myjoy
 2019-03-05 [Phys.org: 30 years later, Berners-Lee sees mission to fix internet's ills](https://phys.org/news/2019-03-years-berners-lee-mission-internet-ills.html)
 
 2019-03-05 [L'Echo: 30 years later, Berners-Lee sees mission to fix internet's ills](https://www.lecho.be/culture/general/30-ans-du-web-quand-la-toile-se-referme-sur-son-concepteur/10103551.html)
+* TimBL mentioned
+* "Nous avons démontré que le web a déçu l’humanité au lieu de la servir, comme il était censé le faire." En octobre dernier, il a présenté un projet, Solid, une plateforme en accès libre capable de stocker nos données personnelles. **Platform** with **personal data**
 
 2019-03-05 [Inquirer: 30 years later, Berners-Lee sees mission to fix internet's ills](https://usa.inquirer.net/23492/worldwide-web-inventor-seeks-to-fix-online-problems?utm_expid=.XqNwTug2W6nwDVUSgFJXed.1)
 * TimBL mentioned
