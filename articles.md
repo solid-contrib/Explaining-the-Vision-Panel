@@ -365,6 +365,8 @@ Apple joins Google, Facebook, and Twitter in data-sharing project](https://myjoy
 2019-03-05 [France 24: 30 years later, Berners-Lee sees mission to fix internet's ills](https://www.france24.com/en/20190305-30-years-later-berners-lee-sees-mission-fix-internets-ills)
 
 2019-03-05 [Phys.org: 30 years later, Berners-Lee sees mission to fix internet's ills](https://phys.org/news/2019-03-years-berners-lee-mission-internet-ills.html)
+* TimBL mentioned
+* He said the platform aims "to **separate the apps from the data storage**" so users can decide where and how they would share their personal information. "Solid is going to be a ubiquitous data storage system that will give people **control of their data**," he said.
 
 2019-03-05 [L'Echo: 30 years later, Berners-Lee sees mission to fix internet's ills](https://www.lecho.be/culture/general/30-ans-du-web-quand-la-toile-se-referme-sur-son-concepteur/10103551.html)
 * TimBL mentioned
