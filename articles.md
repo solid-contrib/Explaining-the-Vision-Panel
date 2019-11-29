@@ -357,6 +357,9 @@ Apple joins Google, Facebook, and Twitter in data-sharing project](https://myjoy
 2019-03-10 [Techonomy; Why Banks Could Be Your Ally for Managing Identity](https://techonomy.com/2019/03/banks-ally-managing-identity/)
 
 2019-03-06 [RTL Today; 30 years later, Berners-Lee sees mission to fix internet's ills](https://today.rtl.lu/news/business-and-tech/a/1315897.html)
+* TimBL mentioned
+* Contract of the Web mentioned
+* Berners-Lee said he launched the Solid projet in response to concerns about **personal data** being bought and sold without the consent of users.
 
 2019-03-05 [CNET: Tim Berners-Lee still believes the web can be fixed, even today](https://www.cnet.com/news/tim-berners-lee-still-believes-the-web-can-be-fixed-even-today/?ftag=COS-05-10aaa0b&linkId=64391961)
 * TimBL mentioned
