@@ -328,6 +328,9 @@ Apple joins Google, Facebook, and Twitter in data-sharing project](https://myjoy
 2019-03-14 [Financial Times: Sustainable businesses should be ‘long-term greedy’](https://www.ft.com/content/bd30c5ec-20a9-11e9-a46f-08f9738d6b2b)
 
 2019-03-14 [Financial Times: Boldness in Business person of the year: Sir Tim Berners-Lee](https://www.ft.com/content/9d3205a8-15af-11e9-a168-d45595ad076d)
+* TimBL mentioned
+* Pods mentioned
+*	Thousands of developers across 26 countries are experimenting with 50,000 **Solid** personal online data stores (**PODs**). The company is also collaborating with some bigger partners, including an Indian telecoms company and the UK’s National Health Service, to explore how Solid could be configured at scale. To that end, Inrupt is aiming to complete a multimillion-dollar fundraising by the end of March, enabling it to launch a user product by the end of the year. In tech jargon, Solid is aiming to “re-decentralise” the web, returning ownership of data to the users who generate it and empowering them to give consent to others to access it. “Solid solves a few problems at once because it is a paradigm shift,” says Sir Tim. “But if you had to pick one it would be: giving people complete **control of their data.**”
 
 2019-03-14 [Hiltop Monitor: World Wide Web Celebrates 30th Anniversary](http://hilltopmonitor.com/2019/03/world-wide-web-celebrates-30th-anniversary/)
 * TimBL mentioned
