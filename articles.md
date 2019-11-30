@@ -335,6 +335,9 @@ Apple joins Google, Facebook, and Twitter in data-sharing project](https://myjoy
 2019-03-13 [PYMNTS: The World Wide Web Turns 30](https://www.pymnts.com/innovation/2019/world-wide-web-anniversary/)
 
 2019-03-12 [Inverse: World Wide Web: 3 Other Acts by Tim Berners-Lee That Shaped the Internet](https://www.inverse.com/article/54000-world-wide-web-google-doodle-tim-berners-lee)
+* TimBL mentioned
+* Inrupt mentioned
+* “The project aims to radically change the way Web applications work today, resulting in true data ownership as well as improved privacy,” explains Solid’s web page. Berners-Lee also launched Inrupt a commercial ecosystem for applications that allows other developers to build upon Solid. Its vision is to create an internet where users have **full control over their data**, and then companies pay users to access their information. 
 
 2019-03-12 [CERN: Web@30: reliving history and rethinking the future](https://home.cern/news/news/computing/web30-reliving-history-and-rethinking-future)
 * metions Tim Berners-Lee 
