@@ -316,6 +316,10 @@ Apple joins Google, Facebook, and Twitter in data-sharing project](https://myjoy
 2019-03-19 [BostInno: The Beat, Tuesday, March 19, 2019](https://www.americaninno.com/boston/newsletters/exclusive-flybridge-launches-second-graduate-syndicate-fund-swedish-cybersec-startup-heads-to-boston/)
 
 2019-03-29 [DZone: The Year of the Graph Newsletter: March 2019](https://dzone.com/articles/a-gravitational-wave-moment-for-graph-the-year-of)
+* TimBL mentioned
+* Ruben Verborgh mentioned
+* JSON and Linked Data mentioned
+* More Linked Data: Ruben Verborgh from Ghent University/MIT/Inrupt talks about Solid at FOSDEM. Solid is the technology Sir Tim Berners-Lee is pioneering to re-orient the Web to its original vision. Linked Data is a key element of Solid, and Verborgh is a key contributor to Linked Data research and implementation.
 
 2019-03-18 [MIT News: Tim Berners-Lee named FT “Boldness in Business” Person of the Year](http://news.mit.edu/2019/tim-berners-lee-named-ft-boldness-in-business-person-of-the-year-0318)
 * TimBL mentioned
