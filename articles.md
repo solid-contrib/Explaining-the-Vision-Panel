@@ -312,6 +312,9 @@ Apple joins Google, Facebook, and Twitter in data-sharing project](https://myjoy
 2019-03-22 [Little Black Book: Gain Back Your Privacy with a Decentralised Internet](https://lbbonline.com/news/gain-back-your-privacy-with-a-decentralised-internet/)
 
 2019-03-21 [GDN Online: Internet died in 2014...](http://www.gdnonline.com/Details/510604/Internet-died-in-2014)
+* TimBL mentioned
+* Tech Giants mentioned
+* Today over 70 per cent of traffic is dominated by just two platforms, Facebook and Google.
 
 2019-03-19 [BostInno: The Beat, Tuesday, March 19, 2019](https://www.americaninno.com/boston/newsletters/exclusive-flybridge-launches-second-graduate-syndicate-fund-swedish-cybersec-startup-heads-to-boston/)
 * Crap page
