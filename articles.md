@@ -334,6 +334,9 @@ Apple joins Google, Facebook, and Twitter in data-sharing project](https://myjoy
 2019-03-14 [DisrupTec: Privacy – remember John Lennon?](https://disruptec.co/2019/03/14/privacy-remember-john-lennon/)
 
 2019-03-13 [PYMNTS: The World Wide Web Turns 30](https://www.pymnts.com/innovation/2019/world-wide-web-anniversary/)
+* TimBL mentioned
+* Inrupt mentioned
+* Quote: “Solid … gives every user a choice about where data is stored, which specific people and groups can access select elements, and which apps you use,” according to the Inrupt site. “It allows you, your family and colleagues to link and share data with anyone. It allows people to look at the same data with different apps at the same time.”
 
 2019-03-12 [Inverse: World Wide Web: 3 Other Acts by Tim Berners-Lee That Shaped the Internet](https://www.inverse.com/article/54000-world-wide-web-google-doodle-tim-berners-lee)
 * TimBL mentioned
