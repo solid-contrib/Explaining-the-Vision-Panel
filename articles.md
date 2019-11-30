@@ -347,6 +347,10 @@ Apple joins Google, Facebook, and Twitter in data-sharing project](https://myjoy
 2019-03-12 [Verdict: 30 years after Tim Berners-Lee created the web, is it too late to fix it?](https://www.verdict.co.uk/world-wide-web-inventor/)
 
 2019-03-12 [Japan Times: Web inventor Tim Berners-Lee urges users to seek 'complete control' of data](https://www.japantimes.co.jp/news/2019/03/12/business/tech/web-inventor-urges-users-seek-complete-control-data/#.Xdw5HS2ZOTd)
+* TimBL mentioned
+* Berners-Lee told a Washington Post event last week that he launched the Solid project in response to concerns about **personal data** being bought and sold without the consent of users.
+
+The platform aimed “to separate the apps from the data storage” so users could decide where and how they would share their personal information, he said.
 
 2019-03-12 [Engadget: The World Wide Web at 30](https://www.engadget.com/2019/03/12/world-wide-web-30-birthday-tim-berners-lee/)
 * TimBL mentioned
