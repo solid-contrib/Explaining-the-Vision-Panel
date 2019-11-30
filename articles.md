@@ -318,6 +318,9 @@ Apple joins Google, Facebook, and Twitter in data-sharing project](https://myjoy
 2019-03-29 [DZone: The Year of the Graph Newsletter: March 2019](https://dzone.com/articles/a-gravitational-wave-moment-for-graph-the-year-of)
 
 2019-03-18 [MIT News: Tim Berners-Lee named FT “Boldness in Business” Person of the Year](http://news.mit.edu/2019/tim-berners-lee-named-ft-boldness-in-business-person-of-the-year-0318)
+* TimBL mentioned
+* Pod mentioned
+* Solid has produced some 50,000 so-called personal **online data stores** (PODs) that are being experimented on by thousands of developers across more than 25 countries. His company is also collaborating with partners like UK’s National Health Service to explore growing the scale of Solid, and intends to launch a user product by the end of the year.
 
 2019-03-17 [The Times: Tim Berners-Lee calls for a fight for ‘the kind of web we want’](https://www.thetimes.co.uk/edition/news-review/tim-berners-lee-calls-for-a-fight-for-the-kind-of-web-we-want-wk95rjxls)
 * Article couldn' t be reviewed because behind a paywall (only for subscribers)
