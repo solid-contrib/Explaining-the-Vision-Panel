@@ -324,6 +324,8 @@ Apple joins Google, Facebook, and Twitter in data-sharing project](https://myjoy
 2019-03-15 [API Best in Class: What is Solid? Decentralized Web? Tim Berners-Lee is up to something again.](https://apibestinclass.com/what-is-solid-decentralized-web-tim-berners-lee-is-up-to-something-again/)
 
 2019-03-14 [Fast Company: T Bone Burnett rips Big Tech “surveillance capitalists” in blistering SXSW keynote](https://www.fastcompany.com/90320480/full-text-t-bone-burnett-rips-big-tech-surveillance-capitalists-in-blistering-sxsw-keynote)
+* TimBL mentioned
+* Berners-Lee has said he is “devastated” by what his creation has become, and he is working to “**re-decentralize**” the web with a new project he calls Solid. I sincerely wish him the best of luck, but from where I stand, we would do well to scrap this first internet project- we should break up these advertising platform monopolies, and we should start from scratch to build an electronic communications system founded on hard and fast ethics rather than utopian fantasies.
 
 2019-03-14 [Financial Times: Sustainable businesses should be ‘long-term greedy’](https://www.ft.com/content/bd30c5ec-20a9-11e9-a46f-08f9738d6b2b)
 * TimBL mentioned
