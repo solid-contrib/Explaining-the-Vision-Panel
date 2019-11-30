@@ -341,6 +341,8 @@ Apple joins Google, Facebook, and Twitter in data-sharing project](https://myjoy
 * *He then presented his plans to re-decentralise the Web with the Solid project for improved privacy and **full data ownership**, and also the Contract for the Web, targeted at governments, companies and citizens to ensure that the Web will serve humanity.*
 
 2019-03-12 [The Sun: WORLD WIDE WOW Who is Sir Tim Berners-Lee and when did he invent the World Wide Web?](https://www.thesun.co.uk/news/8612472/sir-tim-berners-lee-world-wide-web/)
+* TimBL mentioned
+* In September 2018, Berners-Lee announced a new application made by open-source startup Inrupt called Solid, which aims to give users more control over their personal data and lets users choose where the data goes, who's allowed to see certain elements and which apps are allowed to see that data.
 
 2019-03-12 [World Economic Forum: 4 ways the web has changed our lives – and will shape our future](https://www.weforum.org/agenda/2019/03/four-ways-the-web-has-changed-our-lives-and-will-shape-our-future/)
 * TimBL mentioned
