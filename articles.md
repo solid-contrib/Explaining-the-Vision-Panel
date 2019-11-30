@@ -310,6 +310,8 @@ Apple joins Google, Facebook, and Twitter in data-sharing project](https://myjoy
 2019-03-22 [Medium: The Academics of Investing in AI ](https://medium.com/glasswingvc/the-academics-of-investing-in-ai-8259c62a370b)
 
 2019-03-22 [Little Black Book: Gain Back Your Privacy with a Decentralised Internet](https://lbbonline.com/news/gain-back-your-privacy-with-a-decentralised-internet/)
+* Pods mentioned
+* With Solid and Pods, all services, from your favourite taxi company to your insurance company, would communicate through one API with your personal data. Each having separate read and write access to different parts of that data whilst reading and writing simultaneously. To cater to this, Inrupt started working with Janeiro Digital to create an open standard that all applications can work with. The beauty of this is that applications only need to learn one standard and only need to integrate with the Pod to provide a data-driven service. Integrations between different services are no longer required.
 
 2019-03-21 [GDN Online: Internet died in 2014...](http://www.gdnonline.com/Details/510604/Internet-died-in-2014)
 * TimBL mentioned
