@@ -349,6 +349,10 @@ Apple joins Google, Facebook, and Twitter in data-sharing project](https://myjoy
 2019-03-12 [Japan Times: Web inventor Tim Berners-Lee urges users to seek 'complete control' of data](https://www.japantimes.co.jp/news/2019/03/12/business/tech/web-inventor-urges-users-seek-complete-control-data/#.Xdw5HS2ZOTd)
 
 2019-03-12 [Engadget: The World Wide Web at 30](https://www.engadget.com/2019/03/12/world-wide-web-30-birthday-tim-berners-lee/)
+* TimBL mentioned
+* Tech Giants mentioned
+* ...he reiterated his commitment "to making sure the web is a free, open, creative space -- for everyone."
+"It [Solid] gives every user a choice about where data is stored, which specific people and groups can access select elements, and which apps you use," he continued. "It allows you, your family and colleagues, to link and share data with anyone. It allows people to look at the same data with different apps at the same time."
 
 2019-03-11 [Financial Times: Tim Berners-Lee on reshaping the web](https://www.ft.com/content/17cb93d1-a00b-4ce4-a74d-184befa5c141)
 * Article could' t be reviewed because behind a paywall (only for subscribers)
