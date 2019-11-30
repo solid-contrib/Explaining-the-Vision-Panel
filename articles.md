@@ -343,6 +343,9 @@ Apple joins Google, Facebook, and Twitter in data-sharing project](https://myjoy
 2019-03-12 [The Sun: WORLD WIDE WOW Who is Sir Tim Berners-Lee and when did he invent the World Wide Web?](https://www.thesun.co.uk/news/8612472/sir-tim-berners-lee-world-wide-web/)
 
 2019-03-12 [World Economic Forum: 4 ways the web has changed our lives – and will shape our future](https://www.weforum.org/agenda/2019/03/four-ways-the-web-has-changed-our-lives-and-will-shape-our-future/)
+* TimBL mentioned
+* Pod mentioned
+* Not least is the initiative on which Tim Berners-Lee, the inventor we are celebrating today, spends his time: Solid, a way for each of us to have our own ‘pod’ which contains and allows us to manage all of our own personal data.
 
 2019-03-12 [Verdict: 30 years after Tim Berners-Lee created the web, is it too late to fix it?](https://www.verdict.co.uk/world-wide-web-inventor/)
 * TimBL mentioned
