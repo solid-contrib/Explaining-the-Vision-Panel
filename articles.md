@@ -332,6 +332,9 @@ Apple joins Google, Facebook, and Twitter in data-sharing project](https://myjoy
 2019-03-14 [Hiltop Monitor: World Wide Web Celebrates 30th Anniversary](http://hilltopmonitor.com/2019/03/world-wide-web-celebrates-30th-anniversary/)
 
 2019-03-14 [DisrupTec: Privacy – remember John Lennon?](https://disruptec.co/2019/03/14/privacy-remember-john-lennon/)
+* TimBL mentioned
+* Pod mentioned
+* Next worth to watch is SOLID and its POD concept, initiated by Sir Tim Berners-Lee himself, the famous WWW creator. POD stands for Personal Online Data Store, promising users to be and stay the masters of their data, enabling them to share through apps, but never losing control.
 
 2019-03-13 [PYMNTS: The World Wide Web Turns 30](https://www.pymnts.com/innovation/2019/world-wide-web-anniversary/)
 * TimBL mentioned
