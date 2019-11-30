@@ -345,6 +345,11 @@ Apple joins Google, Facebook, and Twitter in data-sharing project](https://myjoy
 2019-03-12 [World Economic Forum: 4 ways the web has changed our lives – and will shape our future](https://www.weforum.org/agenda/2019/03/four-ways-the-web-has-changed-our-lives-and-will-shape-our-future/)
 
 2019-03-12 [Verdict: 30 years after Tim Berners-Lee created the web, is it too late to fix it?](https://www.verdict.co.uk/world-wide-web-inventor/)
+* TimBL mentioned
+* Tech Giants mentioned
+* Contract of the Web mentioned
+* Pod mentioned
+* A website running using Solid would allow users to decide where their data is stored instead of companies owning it. This means that users have the ability to decide which companies have access to it. In other words, it would be up to users, not companies, to store their own data on their own **servers known as Personal Online Data Stores, or PODs.** 
 
 2019-03-12 [Japan Times: Web inventor Tim Berners-Lee urges users to seek 'complete control' of data](https://www.japantimes.co.jp/news/2019/03/12/business/tech/web-inventor-urges-users-seek-complete-control-data/#.Xdw5HS2ZOTd)
 * TimBL mentioned
