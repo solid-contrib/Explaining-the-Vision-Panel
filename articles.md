@@ -330,6 +330,9 @@ Apple joins Google, Facebook, and Twitter in data-sharing project](https://myjoy
 2019-03-14 [Financial Times: Boldness in Business person of the year: Sir Tim Berners-Lee](https://www.ft.com/content/9d3205a8-15af-11e9-a168-d45595ad076d)
 
 2019-03-14 [Hiltop Monitor: World Wide Web Celebrates 30th Anniversary](http://hilltopmonitor.com/2019/03/world-wide-web-celebrates-30th-anniversary/)
+* TimBL mentioned
+* Contract of the Web mentioned
+* Driven by the same spark that led him to create the world wide web, Berners-Lee launched a platform called Solid in 2015, which he says will allow users to maintain **full control of their data.**
 
 2019-03-14 [DisrupTec: Privacy – remember John Lennon?](https://disruptec.co/2019/03/14/privacy-remember-john-lennon/)
 * TimBL mentioned
