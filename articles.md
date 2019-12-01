@@ -331,6 +331,7 @@ But to understand Solid you have to go back to the original prototype for the we
 2019-04-05 [Dev.to: How a chess app interacts with Solid](https://dev.to/phadventure/how-a-chess-app-interacts-with-solid-409a)
 
 2019-04-05 [ZDNet: Solid, l'idée de Tim Berners-Lee pour reprendre le contrôle des données](https://www.zdnet.fr/actualites/solid-l-idee-de-tim-berners-lee-pour-reprendre-le-controle-des-donnees-39882941.htm)
+* perhaps Nicolas ?
 
 2019-04-05 [Medium: Why Internet failed and how we can fix it](https://medium.com/blockchangers/why-internet-failed-and-how-we-can-fix-it-c786254ca71f)
 * TimBL mentioned
