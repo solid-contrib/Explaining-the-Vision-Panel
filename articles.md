@@ -2,7 +2,7 @@
 
 How do articles explain Solid in 2019? 
 
-Total Number of Articles mentioning Solid in 2019 =  ~ 140 
+Total Number of Articles mentioning Solid in 2019 = 148 
 
 | Article | Tim Berners Lee | Tech Giants |  inrupt | Operating System | Software | Standard | Protocol |  Platform | Open Source | Proprietary | Ownership | Control | Split | Pods | Locker | Wallet | Container |
 | ------------- | ------------- | ------------- |  ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |  ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
