@@ -329,6 +329,8 @@ But to understand Solid you have to go back to the original prototype for the we
 2019-04-04 [Capita Customer Management: 8 ways data will change and impact business in the next three years](https://www.capitacustomermanagement.co.uk/news-and-blog/8-ways-data-will-change-impact-business-next-three-years)
 
 2019-04-05 [Dev.to: How a chess app interacts with Solid](https://dev.to/phadventure/how-a-chess-app-interacts-with-solid-409a)
+* Pods mentioned
+* The main concept of the Solid platform is the use of Solid PODs, which provide personal online data storage. The idea of Solid is that a user has one or more PODs to store their data and different apps are able to interact with these PODs, but these apps can only read and write the data to which the user has granted them access. So, instead of having to store all data of all users on a single server per app, users now **store and control** (!) their own data, leading to a decentralized approach. The focus of this blog post is on the interaction between the app and the Solid PODs.
 
 2019-04-05 [ZDNet: Solid, l'idée de Tim Berners-Lee pour reprendre le contrôle des données](https://www.zdnet.fr/actualites/solid-l-idee-de-tim-berners-lee-pour-reprendre-le-controle-des-donnees-39882941.htm)
 * perhaps Nicolas ?
