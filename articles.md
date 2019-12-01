@@ -405,6 +405,9 @@ Solid has produced some 50,000 so-called personal online data stores (PODs) that
 * Berners-Lee has said he is “devastated” by what his creation has become, and he is working to “re-decentralize” the web with a new project he calls Solid. 
 
 2019-03-14 [Financial Times: Sustainable businesses should be ‘long-term greedy’](https://www.ft.com/content/bd30c5ec-20a9-11e9-a46f-08f9738d6b2b)
+* TimBL mentioned
+* Inrupt mentioned
+** Sir Tim Berners-Lee, our person of the year, saw how the internet, which he did so much to bring to life, was put to use for the exploitation of individuals rather than their liberation. His latest endeavour, Inrupt, is trying to redesign the web to change this, putting individuals back in charge of their own information.
 
 2019-03-14 [Financial Times: Boldness in Business person of the year: Sir Tim Berners-Lee](https://www.ft.com/content/9d3205a8-15af-11e9-a168-d45595ad076d)
 *  " By designing the world wide web three decades ago, Sir Tim cemented himself as one of the most influential people of the modern era: his creation has had an incalculable impact on our everyday lives. But having grown increasingly concerned at how large interests were exploiting the web’s openness — including for electoral manipulation and cyber crime — the British computer scientist designed a data platform called Solid aimed at returning ownership of data to the users who generate it. In 2018, Sir Tim launched Inrupt, a for-profit company intended to put Solid into operation, maximising the upsides of the web while minimising its downsides. The goal, in Sir Tim’s words, is to “give people complete control of their data”."
