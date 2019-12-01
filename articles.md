@@ -352,6 +352,7 @@ But to understand Solid you have to go back to the original prototype for the we
 2019-04-12 [Open Democracy: Digital Citizenship in the 21st Century](https://www.opendemocracy.net/en/democraciaabierta/digital-citizenship-21st-century/)
 
 2019-04-12 [Amadeus: Sir Tim Berners-Lee’s Solid approach to rescuing the web from algorithms](https://amadeus.com/en/insights/blog/sir-tim-berners-lee-s-solid-approach-to-rescuing-the-web-from-al)
+* language barriere
 
 2019-04-19 [GeekWire: GeekWire Calendar Picks: Open source project led by Sir Tim Berners-Lee; mastering startup pitches; and more](https://www.geekwire.com/2019/geekwire-calendar-picks-open-source-project-led-sir-tim-berners-lee-mastering-startup-pitches/)
 * TimBL mentioned
