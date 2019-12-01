@@ -291,10 +291,12 @@ Apple joins Google, Facebook, and Twitter in data-sharing project](https://myjoy
 2019-04-23 [Future Scot: The small company from Troon which has got the attention of Sir Tim Berners-Lee and Hollywood. And Scotland? Not so much.](https://futurescot.com/the-small-company-from-troon-which-has-got-the-attention-of-sir-tim-berners-lee-and-hollywood-and-scotland-not-so-much/)
 
 2019-04-24 [Forbes: The Best Way to Avoid Data Leaks and Privacy Scandals: Don't Own Consumer Data](https://www.forbes.com/sites/joetoscano1/2019/04/24/the-best-way-to-avoid-data-leaks-and-privacy-scandals-dont-own-consumer-data/#c6178f525643)
+* TimBL mentioned
+* For example, Solid.io, an initiative backed by Sir Tim Berners-Lee, is working to build a world in which consumers **own their data** on their own personal server and operate in a more **secure environment** where all operations occur on the device and can easily be controlled.
 
 2019-03-27 [Phocus Wire: Tim Berners-Lee laments state of the web but offers hope for travel brands](https://www.phocuswire.com/Tim-Berners-Lee-redecentralization)
 * TimBL mentioned
-* Pods metioned
+* Pods mentioned
 * He describes it as ”re-decentralization,” where consumers get back **control of their data**, can store it securely in a Personal Online Data store (POD) or in other places, such as Dropbox, and then decide who has access to it.
 
 2019-03-27 [BostInno: Exclusive: Meet the Nominees of This Year’s NEVY Awards](https://www.americaninno.com/boston/inno-news-boston/exclusive-meet-the-nominees-of-this-years-nevy-awards/)
