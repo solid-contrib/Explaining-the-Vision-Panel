@@ -319,6 +319,8 @@ But to understand Solid you have to go back to the original prototype for the we
 2019-05-04 [Seattle Star: Thinking About Regulating the Online Space? Focus on Decentralizing Power](http://www.seattlestar.net/2019/05/thinking-about-regulating-the-online-space-focus-on-decentralizing-power/)
 
 2019-05-02 [ICT Works: Democratizing Access to Data is the Next Frontier in International Development](https://www.ictworks.org/democratizing-access-data-frontier/#.Xdwg9S2ZOTe)
+* Inrupt mentioned
+* John Bruce described Sir Tim Berners-Lee’s Solid architecture, which aims to “decentralize” the internet, and Inrupt, its consumer-facing interface.
 
 2019-04-01 [BTC Wires: What Does Article 13 Mean For Crypto Industry?](https://www.btcwires.com/round-the-block/what-does-article-13-mean-for-crypto-industry/)
 * Opponents of the copyright law include Tim Berners Lee, who is directing a decentralized social application called ‘Solid’ that will empower users to own and control their information. Content shared “for reasons for citation, analysis, survey, parody, and pastiche,” will be rejected from Article 13, so memes ought to be sheltered at least. That is as perceiving how Article 13 itself has enlivened plenty of images.
