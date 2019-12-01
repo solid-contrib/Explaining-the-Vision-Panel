@@ -365,6 +365,8 @@ But to understand Solid you have to go back to the original prototype for the we
 2019-03-27 [BostInno: Exclusive: Meet the Nominees of This Year’s NEVY Awards](https://www.americaninno.com/boston/inno-news-boston/exclusive-meet-the-nominees-of-this-years-nevy-awards/)
 
 2019-03-26 [Computer Weekly: Web inventor wants a web built on solid data principles](https://www.computerweekly.com/news/252460250/Web-inventor-wants-to-build-a-web-built-on-solid-data-principals)
+* TimBL mentioned
+* At the Massachusetts Institute of Technology (MIT), Berners-Lee said he was collaborating on a project dubbed Solid, which aims to shift the power of the web back to users by giving them **control of their personal data**. Describing how the system being explored at MIT would work, he said: “Suppose you had a world where you control all your data. All of the places you want to store your data speak the same language.” The idea behind Solid is that all of these data stores provide read and write access and authorisation. Apps authorised by users to access these data stores also interoperate, to achieve something useful for the user.
 
 201903-26 [The Register: FAANGs for the memories: Breaking up big tech's biggest isn't a matter of if, but of when](https://www.theregister.co.uk/2019/03/26/facebook_apple_amazon_netflix_google/)
 * Mentions Tim BL
