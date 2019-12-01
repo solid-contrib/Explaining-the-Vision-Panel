@@ -323,6 +323,8 @@ But to understand Solid you have to go back to the original prototype for the we
 2019-04-01 [BTC Wires: What Does Article 13 Mean For Crypto Industry?](https://www.btcwires.com/round-the-block/what-does-article-13-mean-for-crypto-industry/)
 
 2019-04-02 [CNET: Web inventor Tim Berners-Lee wants to give you your data back](https://www.cnet.com/news/web-inventor-tim-berners-lee-wants-to-give-you-your-data-back/)
+* TimBL mentioned
+* He's backing open-source technology called Solid -- and a startup called Inrupt that hopes to commercialize it -- that's designed to pry your data out of the hands of those who'd strip-mine it for targeted ads and political manipulation schemes. By storing that data in online repositories called Solid pods that you control, you could share it with those you wish and keep everybody else from prying.
 
 2019-04-03 [Information Age: Tim Berners-Lee on the World Wide Web: "it seemed like a good idea at the time"](https://www.information-age.com/tim-berners-lee-world-wide-web-123481411/)
 * “We can change things around now,” confidently stated Berners-Lee. The Solid project, based out of MIT, is an exciting project focused on separating the apps from the data. From the website: it aims to radically change the way web applications work today, resulting in true data ownership as well as improved privacy. “It could turn the internet on its head,” he said. With Solid, “you can choose to share your data, to your doctor, for example. It’s about absolute control breaking down boundaries.”
