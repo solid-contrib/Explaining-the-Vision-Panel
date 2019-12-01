@@ -453,8 +453,10 @@ Berners-Lee also launched Inrupt a commercial ecosystem for applications that al
 * To help drive adoption of Solid, Berners-Lee also announced the launch of Inrupt, his first commercial venture leveraging the new platform. As he explained to Fast Company, Solid would function like "a mashup of Google Drive, Microsoft Outlook, Slack, Spotify, and WhatsApp." But since any data generated on or imported to Solid would be stored in the user's secure personal online data (POD) locker, rather than being shunted across the internet, people would be able to entrust their most sensitive information (such as medical or financial records) to their apps, knowing that the data won't be misused.
 
 2019-03-11 [Financial Times: Tim Berners-Lee on reshaping the web](https://www.ft.com/content/17cb93d1-a00b-4ce4-a74d-184befa5c141)
+* Article couldn' t be reviewed because behind a paywall (only for subscribers)
 
 2019-03-11 [Financial Times: The web has fallen under the influence of a bad crowd](https://www.ft.com/content/333501f2-43d4-11e9-a965-23d669740bfb)
+* Article couldn' t be reviewed because behind a paywall (only for subscribers)
 
 2019-03-10 [Techonomy; Why Banks Could Be Your Ally for Managing Identity](https://techonomy.com/2019/03/banks-ally-managing-identity/)
 * mentions Tim BL 
