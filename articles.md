@@ -348,6 +348,9 @@ But to understand Solid you have to go back to the original prototype for the we
 2019-04-05 [LifeHacker AU: Tim Berners-Lee Says We've Messed Up The Internet But It Can Be Fixed](https://www.lifehacker.com.au/2019/04/berners-lee-says-weve-messed-up-the-internet-but-it-can-be-fixed/)
 
 2019-04-07 [Venture Beat: A Pod world: How you’d trade your data for services over a decentralized internet](https://venturebeat.com/2019/04/07/a-pod-world-how-youd-trade-your-data-for-services-over-a-decentralized-internet/)
+* TimBL mentioned
+* Pod mentioned
+* That’s why Berners-Lee started the Solid project, which defines standards for a **decentralized internet**. Personal data is kept by the individual user and not stored centrally with each service supplier. Late last year, open source startup Inrupt built an application based on the Solid standards that enables a more peer-to-peer internet with Personal Online Data Stores (Pods) for everyone. The Solid network is fully conceptualized around these Pods that contain all the data of one person, whether it be your bank account or latest social posts. In this case, the data referring to you is fully owned by you. Both Inrupt and people within the Solid Community provide Pods that run on their respective servers, but you can also create your own Pod on your own server for ultimate privacy. There is **no central owner** of these Pods since this would undermine the Solid principal.
 
 2019-04-12 [Open Democracy: Digital Citizenship in the 21st Century](https://www.opendemocracy.net/en/democraciaabierta/digital-citizenship-21st-century/)
 * “There is a potential for the digital to replace a structure similar to colonial times, a system in which technology exercises inevitable control over behavior, over the lives of the most dispossessed, without their consent and without their ability to choose to escape that control.”
