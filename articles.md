@@ -356,6 +356,8 @@ But to understand Solid you have to go back to the original prototype for the we
 2019-04-19 [GeekWire: GeekWire Calendar Picks: Open source project led by Sir Tim Berners-Lee; mastering startup pitches; and more](https://www.geekwire.com/2019/geekwire-calendar-picks-open-source-project-led-sir-tim-berners-lee-mastering-startup-pitches/)
 
 2019-04-19 [Uphindia: 30 yrs later, Berners-Lee sees mission to fix internet](https://uphindia.com/2019/04/19/30-yrs-later-berners-lee-sees-mission-to-fix-internet/)
+* TimBL mentioned
+* Berners-Lee said he launched the Solid projet in response to concerns about personal data being bought and sold without the consent of users. He said the platform aims “to **separate the apps from the data storage**” so users can decide where and how they would share their personal information. “Solid is going to be a ubiquitous data storage system that will give people control of their data,” he said.
 
 2019-04-23 [Future Scot: The small company from Troon which has got the attention of Sir Tim Berners-Lee and Hollywood. And Scotland? Not so much.](https://futurescot.com/the-small-company-from-troon-which-has-got-the-attention-of-sir-tim-berners-lee-and-hollywood-and-scotland-not-so-much/)
 * TimBL mentioned
