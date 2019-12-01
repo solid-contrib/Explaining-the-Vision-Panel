@@ -357,6 +357,8 @@ But to understand Solid you have to go back to the original prototype for the we
 2019-04-19 [Uphindia: 30 yrs later, Berners-Lee sees mission to fix internet](https://uphindia.com/2019/04/19/30-yrs-later-berners-lee-sees-mission-to-fix-internet/)
 
 2019-04-23 [Future Scot: The small company from Troon which has got the attention of Sir Tim Berners-Lee and Hollywood. And Scotland? Not so much.](https://futurescot.com/the-small-company-from-troon-which-has-got-the-attention-of-sir-tim-berners-lee-and-hollywood-and-scotland-not-so-much/)
+* TimBL mentioned
+* Solid is Sir Tim’s activist and technical response to correct what he perceives as a ‘monopolistic’ takeover of his orginal design. With Solid he wants to give users more say over what data they send to the likes of Facebook and Google; and the SAFE Network is the community name given to Maidsafe’s project, which is led by Irvine from an office in Ayr (the company has relocated from its former, slightly decaying, office building in Troon).
 
 2019-04-24 [Forbes: The Best Way to Avoid Data Leaks and Privacy Scandals: Don't Own Consumer Data](https://www.forbes.com/sites/joetoscano1/2019/04/24/the-best-way-to-avoid-data-leaks-and-privacy-scandals-dont-own-consumer-data/#c6178f525643)
 * TimBL mentioned
