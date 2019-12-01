@@ -333,6 +333,9 @@ But to understand Solid you have to go back to the original prototype for the we
 2019-04-05 [ZDNet: Solid, l'idée de Tim Berners-Lee pour reprendre le contrôle des données](https://www.zdnet.fr/actualites/solid-l-idee-de-tim-berners-lee-pour-reprendre-le-controle-des-donnees-39882941.htm)
 
 2019-04-05 [Medium: Why Internet failed and how we can fix it](https://medium.com/blockchangers/why-internet-failed-and-how-we-can-fix-it-c786254ca71f)
+* TimBL mentioned
+* Inrupt mentioned
+* The father of World Wide Web, Tim Berners Lee, has spoken. According to him there are three big problems with Internet the way it is todayWe don' t have any control over our personal data anymore. Personal data today is sold without the consent of users. It is has become too easy to spread misinformation and fake news. Marketing for political purposes has to be transparent and accessible. To solve this TBL has started a new project — Solid. It is an open-source project to restore the power and agency of individuals on the web. Its mission is to reshape the web as we know it. Solid will foster a new breed of applications with capabilities above and beyond anything that exists today.
 
 2019-04-05 [Bitcoin News: What Article 13 Means for the Cryptocurrency Industry](https://news.bitcoin.com/what-article-13-means-for-the-cryptocurrency-industry/)
 * TimBL mentioned
