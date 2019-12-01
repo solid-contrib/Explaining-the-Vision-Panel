@@ -361,6 +361,9 @@ But to understand Solid you have to go back to the original prototype for the we
 2019-04-24 [Forbes: The Best Way to Avoid Data Leaks and Privacy Scandals: Don't Own Consumer Data](https://www.forbes.com/sites/joetoscano1/2019/04/24/the-best-way-to-avoid-data-leaks-and-privacy-scandals-dont-own-consumer-data/#c6178f525643)
 
 2019-03-27 [Phocus Wire: Tim Berners-Lee laments state of the web but offers hope for travel brands](https://www.phocuswire.com/Tim-Berners-Lee-redecentralization)
+* TimBL mentioned
+* Pod mentioned
+* He describes it as ”re-decentralization,” where consumers get back control of their data, can store it securely in a Personal Online Data store (POD) or in other places, such as Dropbox, and then decide who has access to it.
 
 2019-03-27 [BostInno: Exclusive: Meet the Nominees of This Year’s NEVY Awards](https://www.americaninno.com/boston/inno-news-boston/exclusive-meet-the-nominees-of-this-years-nevy-awards/)
 * Article off-topic
