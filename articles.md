@@ -374,6 +374,7 @@ But to understand Solid you have to go back to the original prototype for the we
 2019-03-25 [Tech Cabal: At 30, the Web is Attempting to Find its Way Back Home  ](https://techcabal.com/2019/03/25/at-30-the-web-is-attempting-to-find-its-way-back-home/)
 
 2019-03-23 [Forbes: Sir Tim Berners-Lee At Forefront Of New Movement To Takeback Ownership Of Our Data](https://www.forbes.com/sites/maciejduraj/2019/03/23/sir-tim-berners-lee-at-forefront-of-new-movement-to-takeback-ownership-of-our-data/#4b5cc72434e1)
+* code 404
 
 2019-03-22 [Medium: The Academics of Investing in AI ](https://medium.com/glasswingvc/the-academics-of-investing-in-ai-8259c62a370b)
 * Berners- Lee’s vision for his open infrastructure platform, Solid, is massively bold, proposing no less than to decentralize the web and to give users and businesses the power to control their own data. 
