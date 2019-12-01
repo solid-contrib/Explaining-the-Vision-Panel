@@ -335,6 +335,8 @@ But to understand Solid you have to go back to the original prototype for the we
 2019-04-05 [Medium: Why Internet failed and how we can fix it](https://medium.com/blockchangers/why-internet-failed-and-how-we-can-fix-it-c786254ca71f)
 
 2019-04-05 [Bitcoin News: What Article 13 Means for the Cryptocurrency Industry](https://news.bitcoin.com/what-article-13-means-for-the-cryptocurrency-industry/)
+* TimBL mentioned
+* Opponents of the copyright law include Tim Berners Lee, who is overseeing a decentralized social app called Solid that will enable users to own and control their data. Content shared “for purposes of quotation, criticism, review, caricature, parody, and pastiche,” will be excluded from Article 13, so memes should be safe at least. That’s just as well seeing how Article 13 itself has inspired a plethora of memes.
 
 2019-04-05 [MSN: Tim Berners-Lee Says We've Messed Up The Internet But It Can Be Fixed](https://www.msn.com/en-au/news/techandscience/tim-berners-lee-says-weve-messed-up-the-internet-but-it-can-be-fixed/ar-BBVCXbX)
 * Mentions Tim BL
