@@ -327,6 +327,7 @@ But to understand Solid you have to go back to the original prototype for the we
 2019-04-03 [Information Age: Tim Berners-Lee on the World Wide Web: "it seemed like a good idea at the time"](https://www.information-age.com/tim-berners-lee-world-wide-web-123481411/)
 
 2019-04-04 [Capita Customer Management: 8 ways data will change and impact business in the next three years](https://www.capitacustomermanagement.co.uk/news-and-blog/8-ways-data-will-change-impact-business-next-three-years)
+* Over the next three years people’s perceptions of the importance of their data – how it represents the ‘crown jewels’ of their life as a consumer – will begin to mature. We will start to see data becoming more locked down. One example of how that might happen is Tim Berners-Lee’s web decentralisation project Solid – a browser platform that makes it possible for you to click ‘approve’ to get full functionality, but still keep your data inaccessible and remaining **fully under your control**.
 
 2019-04-05 [Dev.to: How a chess app interacts with Solid](https://dev.to/phadventure/how-a-chess-app-interacts-with-solid-409a)
 * Pods mentioned
