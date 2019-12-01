@@ -314,6 +314,7 @@ But to understand Solid you have to go back to the original prototype for the we
 * Imagine having the right to control your data. Social media giants will not get to run algorithms on it,” explained the scientist, adding that in principle this is what the GDPR is all about, but SOLID offers the technology to do this.
 
 2019-05-11 [De Tijd](https://www.tijd.be/dossiers/nieuwe-inzichten/we-moeten-weer-baas-worden-over-onze-data/10125717.html)
+* perhaps Michiel ? or Vincent ?
 
 2019-05-04 [Seattle Star: Thinking About Regulating the Online Space? Focus on Decentralizing Power](http://www.seattlestar.net/2019/05/thinking-about-regulating-the-online-space-focus-on-decentralizing-power/)
 
