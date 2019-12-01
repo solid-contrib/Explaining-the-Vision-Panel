@@ -354,6 +354,8 @@ But to understand Solid you have to go back to the original prototype for the we
 2019-04-12 [Amadeus: Sir Tim Berners-Lee’s Solid approach to rescuing the web from algorithms](https://amadeus.com/en/insights/blog/sir-tim-berners-lee-s-solid-approach-to-rescuing-the-web-from-al)
 
 2019-04-19 [GeekWire: GeekWire Calendar Picks: Open source project led by Sir Tim Berners-Lee; mastering startup pitches; and more](https://www.geekwire.com/2019/geekwire-calendar-picks-open-source-project-led-sir-tim-berners-lee-mastering-startup-pitches/)
+* TimBL mentioned
+* When he invented the World Wide Web, Sir Tim Berners-Lee had a specific vision for how it would evolve, and things haven’t gone exactly as he planned. At its inception, the web was supposed to be a place to create as much as receive information. But web browsers quickly eliminated the ability to edit pages, essentially cutting out half of Berners-Lee’s vision. While things have been moving in the right direction, Berners-Lee, working with MIT, is looking to continue the trend with a new open-source technology called Solid. The Solid community is hosting a free event May 2 where developers and anyone interested in the new technology can learn what it’s all about.
 
 2019-04-19 [Uphindia: 30 yrs later, Berners-Lee sees mission to fix internet](https://uphindia.com/2019/04/19/30-yrs-later-berners-lee-sees-mission-to-fix-internet/)
 * TimBL mentioned
