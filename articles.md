@@ -346,6 +346,8 @@ But to understand Solid you have to go back to the original prototype for the we
 * But imagine if those apps kept their data in repositories - Pods in Solid-speak - that you control. That's what Solid promises.
 
 2019-04-05 [LifeHacker AU: Tim Berners-Lee Says We've Messed Up The Internet But It Can Be Fixed](https://www.lifehacker.com.au/2019/04/berners-lee-says-weve-messed-up-the-internet-but-it-can-be-fixed/)
+* TimBL mentioned
+* Today, Berners-Lee champions a new platform called Solid (which we've written about before) which aims to give us back control of our personal data. "The Solid program at MIT is about turning the way the web works upside-down," said Berners-Lee. "It's about **separating the apps from the data**. So, when you go to an app the app says to you 'Where do you want to save your data?'". You can then create your own clouds and decide where the data goes. You can have various work and personal clouds, called Pods, that can be isolated from each other or can share data based on rules you, or an application developer, defines. 
 
 2019-04-07 [Venture Beat: A Pod world: How you’d trade your data for services over a decentralized internet](https://venturebeat.com/2019/04/07/a-pod-world-how-youd-trade-your-data-for-services-over-a-decentralized-internet/)
 * TimBL mentioned
