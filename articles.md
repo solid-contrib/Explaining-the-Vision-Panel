@@ -350,6 +350,7 @@ But to understand Solid you have to go back to the original prototype for the we
 2019-04-07 [Venture Beat: A Pod world: How you’d trade your data for services over a decentralized internet](https://venturebeat.com/2019/04/07/a-pod-world-how-youd-trade-your-data-for-services-over-a-decentralized-internet/)
 
 2019-04-12 [Open Democracy: Digital Citizenship in the 21st Century](https://www.opendemocracy.net/en/democraciaabierta/digital-citizenship-21st-century/)
+* “There is a potential for the digital to replace a structure similar to colonial times, a system in which technology exercises inevitable control over behavior, over the lives of the most dispossessed, without their consent and without their ability to choose to escape that control.”
 
 2019-04-12 [Amadeus: Sir Tim Berners-Lee’s Solid approach to rescuing the web from algorithms](https://amadeus.com/en/insights/blog/sir-tim-berners-lee-s-solid-approach-to-rescuing-the-web-from-al)
 * language barriere
