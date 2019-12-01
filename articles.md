@@ -412,6 +412,7 @@ But to understand Solid you have to go back to the original prototype for the we
 * That wave of innovation – away from the centre, into a new generation of secure, distributed and federated **systems**, such as Tim Berners-Lee's Solid – could propel us into the next decade. Out of the rubble of these colossi, may a thousand flowers bloom. ®
 
 2019-03-25 [Tech Cabal: At 30, the Web is Attempting to Find its Way Back Home  ](https://techcabal.com/2019/03/25/at-30-the-web-is-attempting-to-find-its-way-back-home/)
+* Tim has created an open-source platform called Solid (Socially Linked Data) which he hopes will remedy this problem. Solid is designed to allow individuals and organisations store their data in PODS (personal online data stores) which can either be self-hosted or stored publicly in a cloud. Ultimately, apps only have access to a POD when an owner grants them access to it. Developers can also create apps on the platform “without harvesting massive amounts of data first”. Last year, Solid opened up its platform to developers to build apps on it through another platform, Inrupt, which he created to help fuel the growth of Solid.
 
 2019-03-23 [Forbes: Sir Tim Berners-Lee At Forefront Of New Movement To Takeback Ownership Of Our Data](https://www.forbes.com/sites/maciejduraj/2019/03/23/sir-tim-berners-lee-at-forefront-of-new-movement-to-takeback-ownership-of-our-data/#4b5cc72434e1)
 * code 404
