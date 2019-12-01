@@ -317,6 +317,8 @@ But to understand Solid you have to go back to the original prototype for the we
 * perhaps Michiel ? or Vincent ?
 
 2019-05-04 [Seattle Star: Thinking About Regulating the Online Space? Focus on Decentralizing Power](http://www.seattlestar.net/2019/05/thinking-about-regulating-the-online-space-focus-on-decentralizing-power/)
+* TimBL mentioned
+* On the other hand, Tim Berners-Lee, the inventor of the Web, is developing Solid (Social Linked Data), through which he seeks to decouple data from the applications that silo it today. If he succeeds, data will be stored and managed by the people who produce it, and applications will compete based how they visualize the data and enhance user experience, not on their data hoarding capacity. An effective implementation would make platform neutrality less of a challenge: Switching between applications would be simple, since all the data they relied on is standardized across applications, and stored by ourselves. You can plug it into another application and move on as quickly you as you switch between tabs on a browser.
 
 2019-05-02 [ICT Works: Democratizing Access to Data is the Next Frontier in International Development](https://www.ictworks.org/democratizing-access-data-frontier/#.Xdwg9S2ZOTe)
 * Inrupt mentioned
