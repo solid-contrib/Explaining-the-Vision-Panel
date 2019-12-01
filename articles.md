@@ -363,6 +363,7 @@ But to understand Solid you have to go back to the original prototype for the we
 2019-03-27 [Phocus Wire: Tim Berners-Lee laments state of the web but offers hope for travel brands](https://www.phocuswire.com/Tim-Berners-Lee-redecentralization)
 
 2019-03-27 [BostInno: Exclusive: Meet the Nominees of This Year’s NEVY Awards](https://www.americaninno.com/boston/inno-news-boston/exclusive-meet-the-nominees-of-this-years-nevy-awards/)
+* Article off-topic
 
 2019-03-26 [Computer Weekly: Web inventor wants a web built on solid data principles](https://www.computerweekly.com/news/252460250/Web-inventor-wants-to-build-a-web-built-on-solid-data-principals)
 * TimBL mentioned
