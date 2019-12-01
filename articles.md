@@ -2,34 +2,13 @@
 
 How do articles explain Solid in 2019? 
 
-| Description  | Amount |
-| ------------- | ------------- |
-| Number of Articles mentioning Solid in 2019  | 140  |
-| Percentage mentioning Tim & tech giants  | ~ 90%  |
+Total Number of Articles mentioning Solid in 2019 =  ~ 140 
 
-| Way to Describe Solid  | Number of Articles | Percentage of Articles |
-| ------------- | ------------- | ------------- |
-| Operating System  | ~   |  ~   |
-| Software  | ~   |  ~   |
-| Standard  | ~   |  ~   |
-| Open Source  | ~   |  ~   |
-| Platform  | ~   |  ~   |
-| Protocol  | ~   |  ~   |
+| Article | Tim Berners Lee | Tech Giants |  inrupt | Operating System | Software | Standard | Protocol |  Platform | Open Source | Proprietary | Ownership | Control | Split | Pods | Locker | Wallet | Contain |
+| ------------- | ------------- | ------------- |  ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |  ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |  ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |  ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 
-| Mission Description  | Number of Articles | Percentage of Articles |
-| ------------- | ------------- | ------------- |
-| control of personal data  | ~   |  ~   |
-| ownership of personal data  | ~   |  ~   |
-| splitting apps from storage  | ~   |  ~   |
-
-| Way to Describe Personal Storage  | Number of Articles | Percentage of Articles |
-| ------------- | ------------- | ------------- |
-| Mentions 'Pod'  | ~   |  ~   |
-| Locker  | ~   |  ~   |
-| Wallet  | ~   |  ~   |
-| Container | ~   |  ~   |
-
-2019-11-20 [LSE Business Review: How to turn trust into a competitive advantage](https://blogs.lse.ac.uk/businessreview/2019/11/20/how-to-turn-trust-into-a-competitive-advantage/) 
+### 1 2019-11-20 [LSE Business Review: How to turn trust into a competitive advantage](https://blogs.lse.ac.uk/businessreview/2019/11/20/how-to-turn-trust-into-a-competitive-advantage/) 
 * mentions big tech
 * "Another prominent **architectural effort** called Solid is a **platform** championed by **Tim Berners-Lee**, one of the inventors of the world wide web." 
 * "Solid specifically seeks to resolve trust deficits with regards to **data ownership**."
