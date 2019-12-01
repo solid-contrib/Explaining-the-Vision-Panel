@@ -4,7 +4,7 @@ How do articles explain Solid in 2019?
 
 Total Number of Articles mentioning Solid in 2019 =  ~ 140 
 
-| Article | Tim Berners Lee | Tech Giants |  inrupt | Operating System | Software | Standard | Protocol |  Platform | Open Source | Proprietary | Ownership | Control | Split | Pods | Locker | Wallet | Contain |
+| Article | Tim Berners Lee | Tech Giants |  inrupt | Operating System | Software | Standard | Protocol |  Platform | Open Source | Proprietary | Ownership | Control | Split | Pods | Locker | Wallet | Container |
 | ------------- | ------------- | ------------- |  ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |  ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- |  ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |  ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 
@@ -385,6 +385,7 @@ But to understand Solid you have to go back to the original prototype for the we
 * With Solid and Pods, all services, from your favourite taxi company to your insurance company, would communicate through one API with your personal data. Each having separate read and write access to different parts of that data whilst reading and writing simultaneously. 
 
 2019-03-19 [BostInno: The Beat, Tuesday, March 19, 2019](https://www.americaninno.com/boston/newsletters/exclusive-flybridge-launches-second-graduate-syndicate-fund-swedish-cybersec-startup-heads-to-boston/)
+* not enough content
 
 2019-03-29 [DZone: The Year of the Graph Newsletter: March 2019](https://dzone.com/articles/a-gravitational-wave-moment-for-graph-the-year-of)
 * More Linked Data: Ruben Verborgh from Ghent University/MIT/Inrupt talks about Solid at FOSDEM. Solid is the technology Sir Tim Berners-Lee is pioneering to re-orient the Web to its original vision. Linked Data is a key element of Solid, and Verborgh is a key contributor to Linked Data research and implementation. At the Web's 30th anniversary, this is more relevant than ever.
