@@ -47,6 +47,7 @@ Total Number of Articles mentioning Solid in 2019 =  ~ 140
 * "He is also an editor of the **Solid specification**. Bingham oversees both the technology and creative divisions at Janeiro Digital, which he co-founded with his brother Jonathan Bingham (CEO). The Binghams are working with inventor of the World Wide Web **Sir Tim Berners-Lee** and his startup Inrupt to define the commercial market, ecosystem, and **enterprise platforms for Solid**, which aims to **decentralize the business model of the Web**. "
 
 2019-10-26 [Wall Street Journal: Tech Giants Have Hijacked the Web. It’s Time for a Reboot.](https://www.wsj.com/articles/tech-giants-have-hijacked-the-web-its-time-for-a-reboot-11572062420) 
+* Article couldn' t be reviewed because behind a paywall (only for sucscribers)
 
 2019-10-23 [PC Magazine: Tim Berners-Lee: IT Leaders Must Build Values into Their Companies and Systems](https://www.pcmag.com/article/371488/tim-berners-lee-it-leaders-must-build-values-into-their-com) 
 * mentions big tech
