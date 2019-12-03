@@ -615,33 +615,46 @@ But to understand Solid you have to go back to the original prototype for the we
 [BTC Wires: What Does Article 13 Mean For Crypto Industry?](https://www.btcwires.com/round-the-block/what-does-article-13-mean-for-crypto-industry/)
 * Opponents of the copyright law include Tim Berners Lee, who is directing a decentralized social application called ‘Solid’ that will empower users to own and control their information. Content shared “for reasons for citation, analysis, survey, parody, and pastiche,” will be rejected from Article 13, so memes ought to be sheltered at least. That is as perceiving how Article 13 itself has enlivened plenty of images.
 
-2019-03-27 [Phocus Wire: Tim Berners-Lee laments state of the web but offers hope for travel brands](https://www.phocuswire.com/Tim-Berners-Lee-redecentralization)
+### 2019-03-29 
+[DZone: The Year of the Graph Newsletter: March 2019](https://dzone.com/articles/a-gravitational-wave-moment-for-graph-the-year-of)
+* More Linked Data: Ruben Verborgh from Ghent University/MIT/Inrupt talks about Solid at FOSDEM. Solid is the technology Sir Tim Berners-Lee is pioneering to re-orient the Web to its original vision. Linked Data is a key element of Solid, and Verborgh is a key contributor to Linked Data research and implementation. At the Web's 30th anniversary, this is more relevant than ever.
+* Solid is a new ecosystem for the Web, in which people store their own data instead of having to upload it to applications. This changes how we will build apps: we no longer have to harvest people's data, but ask permission to access people's data space.
+
+### 2019-03-27 (2)
+[Phocus Wire: Tim Berners-Lee laments state of the web but offers hope for travel brands](https://www.phocuswire.com/Tim-Berners-Lee-redecentralization)
 * TimBL mentioned
 * Pod mentioned
 * He describes it as ”re-decentralization,” where consumers get back control of their data, can store it securely in a Personal Online Data store (POD) or in other places, such as Dropbox, and then decide who has access to it.
 
-2019-03-27 [BostInno: Exclusive: Meet the Nominees of This Year’s NEVY Awards](https://www.americaninno.com/boston/inno-news-boston/exclusive-meet-the-nominees-of-this-years-nevy-awards/)
+### 2019-03-27 (1)
+[BostInno: Exclusive: Meet the Nominees of This Year’s NEVY Awards](https://www.americaninno.com/boston/inno-news-boston/exclusive-meet-the-nominees-of-this-years-nevy-awards/)
 * Article off-topic
 
-2019-03-26 [Computer Weekly: Web inventor wants a web built on solid data principles](https://www.computerweekly.com/news/252460250/Web-inventor-wants-to-build-a-web-built-on-solid-data-principals)
+### 2019-03-26 (2)
+[Computer Weekly: Web inventor wants a web built on solid data principles](https://www.computerweekly.com/news/252460250/Web-inventor-wants-to-build-a-web-built-on-solid-data-principals)
 * TimBL mentioned
 * At the Massachusetts Institute of Technology (MIT), Berners-Lee said he was collaborating on a project dubbed Solid, which aims to shift the power of the web back to users by giving them **control of their personal data**. Describing how the system being explored at MIT would work, he said: “Suppose you had a world where you control all your data. All of the places you want to store your data speak the same language.” The idea behind Solid is that all of these data stores provide read and write access and authorisation. Apps authorised by users to access these data stores also interoperate, to achieve something useful for the user.
 
-201903-26 [The Register: FAANGs for the memories: Breaking up big tech's biggest isn't a matter of if, but of when](https://www.theregister.co.uk/2019/03/26/facebook_apple_amazon_netflix_google/)
+### 2019-03-26 (1)
+[The Register: FAANGs for the memories: Breaking up big tech's biggest isn't a matter of if, but of when](https://www.theregister.co.uk/2019/03/26/facebook_apple_amazon_netflix_google/)
 * Mentions Tim BL
 * Mentions tech giants
 * That wave of innovation – away from the centre, into a new generation of secure, distributed and federated **systems**, such as Tim Berners-Lee's Solid – could propel us into the next decade. Out of the rubble of these colossi, may a thousand flowers bloom. ®
 
-2019-03-25 [Tech Cabal: At 30, the Web is Attempting to Find its Way Back Home  ](https://techcabal.com/2019/03/25/at-30-the-web-is-attempting-to-find-its-way-back-home/)
+### 2019-03-25 
+[Tech Cabal: At 30, the Web is Attempting to Find its Way Back Home  ](https://techcabal.com/2019/03/25/at-30-the-web-is-attempting-to-find-its-way-back-home/)
 * Tim has created an open-source platform called Solid (Socially Linked Data) which he hopes will remedy this problem. Solid is designed to allow individuals and organisations store their data in PODS (personal online data stores) which can either be self-hosted or stored publicly in a cloud. Ultimately, apps only have access to a POD when an owner grants them access to it. Developers can also create apps on the platform “without harvesting massive amounts of data first”. Last year, Solid opened up its platform to developers to build apps on it through another platform, Inrupt, which he created to help fuel the growth of Solid.
 
-2019-03-23 [Forbes: Sir Tim Berners-Lee At Forefront Of New Movement To Takeback Ownership Of Our Data](https://www.forbes.com/sites/maciejduraj/2019/03/23/sir-tim-berners-lee-at-forefront-of-new-movement-to-takeback-ownership-of-our-data/#4b5cc72434e1)
+### 2019-03-23 
+[Forbes: Sir Tim Berners-Lee At Forefront Of New Movement To Takeback Ownership Of Our Data](https://www.forbes.com/sites/maciejduraj/2019/03/23/sir-tim-berners-lee-at-forefront-of-new-movement-to-takeback-ownership-of-our-data/#4b5cc72434e1)
 * code 404
 
-2019-03-22 [Medium: The Academics of Investing in AI ](https://medium.com/glasswingvc/the-academics-of-investing-in-ai-8259c62a370b)
+### 2019-03-22 (2)
+[Medium: The Academics of Investing in AI ](https://medium.com/glasswingvc/the-academics-of-investing-in-ai-8259c62a370b)
 * Berners- Lee’s vision for his open infrastructure platform, Solid, is massively bold, proposing no less than to decentralize the web and to give users and businesses the power to control their own data. 
 
-2019-03-22 [Little Black Book: Gain Back Your Privacy with a Decentralised Internet](https://lbbonline.com/news/gain-back-your-privacy-with-a-decentralised-internet/)
+### 2019-03-22 (1) 
+[Little Black Book: Gain Back Your Privacy with a Decentralised Internet](https://lbbonline.com/news/gain-back-your-privacy-with-a-decentralised-internet/)
 * That’s why Berners-Lee started the Solid project, which re-introduces his original idea of a decentralised approach to the internet. 
 * The Solid network is fully conceptualised around these Pods that contain all the data of one person, whether it be your bank-account or latest social posts. 
 * And similarly, revoking access to the data is just as easy to accomplish. Solid might, therefore, be a possible answer to the growing need for privacy regulations within the internet. 
