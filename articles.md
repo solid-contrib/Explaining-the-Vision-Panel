@@ -837,139 +837,150 @@ The Article emphasizes the future of A.I. should be in the hands of democratic o
 * Last year I started playing around with the Solid **platform**, introduced by Tim Berners-Lee. In order to get more familiar with the different concepts and technologies used, I created a proof-of-concept app: a browser chess game.
 * The main concept of the Solid platform is the use of Solid PODs, which provide personal online data storage. The idea of Solid is that a user has one or more PODs to store their data and different apps are able to interact with these PODs, but these apps can only read and write the data to which the user has granted them access. 
 
-2019-02-05 [Financial Express: Open up to open-source](https://www.financialexpress.com/opinion/open-up-to-open-source/1476602/)
-* mentions Tim BL 
-* mentions tech giants 
-* Tim Berners Lee, the ‘creator’ of the World Wide Web, has already kicked off a venture called Project Solid, in collaboration with the Massachusetts Institute of Technology, that aims to create a “decentralised internet” that gives individuals, rather than companies, greater control.
 
-2019-02-14 [Washington Post: Washington Post Live hosts exclusive interview with Tim Berners-Lee](https://www.washingtonpost.com/pr/2019/02/14/washington-post-live-hosts-exclusive-interview-with-tim-berners-lee/)
-* metions Tim Berners-Lee 
-* "Berners-Lee will share his views on the rise of disinformation and censorship, threats to digital privacy, and his efforts through his company inrupt — and technology Solid — which empowers people to take back **ownership of their data**."
+### 2019-02-28 
+[Cryptoglobe: Facebook Reportedly Talking to Exchanges About Listing Its New Cryptocurrency](https://www.cryptoglobe.com/latest/2019/02/facebook-reportedly-talking-to-exchanges-about-listing-its-new-cryptocurrency/)
+* The issue of decentralization came up when Professor Zittrain asked Zuckerberg his thoughts on Solid, a new project led by Professor Tim Berners-Lee, the inventor of the World Wide Web, that is focused on the idea of **"true data ownership."** Under this **protocol**, user data is decoupled from apps and held in some kind of "locker" that is under the user's control, which means the user controls who can access this data and also the user is able to avoid the problem of vendor lock-in.
 
-2019-02-15 [Mac Observer: Sir Tim Berners-Lee Wants to Fix the Web with New Startup](https://www.macobserver.com/link/tim-berners-lee-inrupt/)
-* mentions Tim BL 
-* Inrupt aims to drive the development of the Solid **platform** and transform it from an innovative idea to a viable platform for businesses and consumers. My group in the CSAIL [Computer Sciences and Artifical Intelligence Laboratory] Lab at MIT had been working on Solid for some years,” Berners-Lee says. “The initial goal of Inrupt is to add the energy and resources of a startup to the open-source efforts to make the Solid movement happen.”
+### 2019-02-27 
+[ITWeb: Trends 2019: Time to clean up your data act](https://www.itweb.co.za/content/WnxpEv4D25dvV8XL)
+* He's launched Solid, a project aimed at changing the way Web applications work, resulting in **true data ownership** and improved privacy.
 
-2019-02-19 [Make Money with Google: Tomorrow's Data Heroes](https://make-money-with-googlee.blogspot.com/2019/02/tomorrows-data-heroes-strategybusiness.html)
-* mentions Tim BL 
-* mentions tech giants 
-* Founded in 2015 by Tim Berners-Lee, who developed the World Wide Web protocol in 1989, Solid is an attempt to “re-decentralize” the Web by enabling users to maintain their own data in “pods,” on their own computers or in the cloud. Users choose which apps and websites get access to their personal data.
+### 2019-02-22 (2) 
+[Cryptoglobe: Mark Zuckerberg Considering Using Blockchain to Make Facebook More Decentralized](https://www.cryptoglobe.com/latest/2019/02/mark-zuckerberg-considering-using-blockchain-to-make-facebook-more-decentralized/)
+* The issue of decentralization came up when Professor Zittrain asked Zuckerberg his thoughts on Solid, a new project led by Professor Tim Berners-Lee, the inventor of the World Wide Web, that is focused on the idea of "true data ownership." Under this protocol, user data is decoupled from apps and held in some kind of "locker" that is under the user's control, which means the user controls who can access this data and also the user is able to avoid the problem of vendor lock-in.
 
-2019-02-19 [News Broadcast Network: Highlights & transcript from Zuckerberg’s 20K-word ethics talk](https://newsbroadcastnetwork.com/highlights-transcript-from-zuckerbergs-20k-word-ethics-talk-techcrunch/)
-* mentions Tim BL 
-* mentions tech giants 
-* Jonathan Zittrain: So, just as a technical matter, a number of the students in this room had a chance to hear from Tim Berners-Lee, inventor of the World Wide Web, and he has a new idea for something called “Solid”. I don’t know if you’ve heard of Solid. It’s a protocol more than it is a product. So, there’s no car to move off the lot today. But its idea is allowing people to have the data that they generate as they motor around the web end up in their own kind of data locker. Now, for somebody like Tim, it might mean literally in a locker under his desk and he could wake up in the middle of the night and see where his data is. For others, it might mean Iraq somewhere, guarded perhaps by a fiduciary who’s looking out for them, the way that we put money in a bank and then we can sleep at night knowing the bankers are– this is maybe not the best analogy in 2019, but watching.
-
-Mark Zuckerberg: We’ll get there.
-
-Jonathan Zittrain: We’ll get there. But Solid says if you did that, people would then– or their helpful proxies– be able to say, “All right, Facebook is coming along.
-
-2019-02-20 [TechCrunch: Highlights & transcript from Zuckerberg’s 20K-word ethics talk](https://techcrunch.com/2019/02/20/zuckerberg-harvard-zittrain/)
-* mentions Tim BL 
-* mentions tech giants 
-* Jonathan Zittrain: So, just as a technical matter, a number of the students in this room had a chance to hear from Tim Berners-Lee, inventor of the World Wide Web, and he has a new idea for something called “Solid”. I don’t know if you’ve heard of Solid. It’s a protocol more than it is a product. So, there’s no car to move off the lot today. But its idea is allowing people to have the data that they generate as they motor around the web end up in their own kind of data locker. Now, for somebody like Tim, it might mean literally in a locker under his desk and he could wake up in the middle of the night and see where his data is. For others, it might mean Iraq somewhere, guarded perhaps by a fiduciary who’s looking out for them, the way that we put money in a bank and then we can sleep at night knowing the bankers are– this is maybe not the best analogy in 2019, but watching.
-
-<laughter>
-
-Mark Zuckerberg: We’ll get there.
-
-Jonathan Zittrain: We’ll get there. But Solid says if you did that, people would then– or their helpful proxies– be able to say, “All right, Facebook is coming along.
-
-2019-02-20 [Online Tech Tips: Highlights & transcript from Zuckerberg’s 20K-word ethics talk](https://online-techtips.blogspot.com/2019/02/highlights-transcript-from-zuckerbergs.html)
-* mentioned TimBL
-* But Solid says if you did that, people would then– or their helpful **proxies**– be able to say, “All right, Facebook is coming along. It wants the following data from me and including that data that it has generated about me as I use it, but stored back in my locker and it kind of has to come back to my well to draw water each time.
-
-2019-02-21 [LearninPub: Highlights & transcript from Zuckerberg’s 20K-word ethics talk – TechCrunch](http://learninpub.blogspot.com/2019/02/highlights-transcript-from-zuckerbergs.html)
-* mentions Tim BL 
-* mentions tech giants 
-* Jonathan Zittrain: So, just as a technical matter, a number of the students in this room had a chance to hear from Tim Berners-Lee, inventor of the World Wide Web, and he has a new idea for something called “Solid”. I don’t know if you’ve heard of Solid. It’s a **protocol more than it is a product**. So, there’s no car to move off the lot today. But its idea is allowing people to have the data that they generate as they motor around the web end up in their own kind of **data locker**. Now, for somebody like Tim, it might mean literally in a locker under his desk and he could wake up in the middle of the night and see where his data is. For others, it might mean Iraq somewhere, guarded perhaps by a fiduciary who’s looking out for them, the way that we put money in a bank and then we can sleep at night knowing the bankers are– this is maybe not the best analogy in 2019, but watching.
-
-<laughter>
-
-Mark Zuckerberg: We’ll get there.
-
-Jonathan Zittrain: We’ll get there. But Solid says if you did that, people would then– or their helpful proxies– be able to say, “All right, Facebook is coming along.
-
-2019-02-22 [Forbes: Becoming The Masters Of Our Own Digital Destinies](https://www.forbes.com/sites/jessicabaron/2019/02/22/becoming-the-masters-of-our-own-digital-destinies/#434b73c96f18)
+### 2019-02-22 (1) 
+[Forbes: Becoming The Masters Of Our Own Digital Destinies](https://www.forbes.com/sites/jessicabaron/2019/02/22/becoming-the-masters-of-our-own-digital-destinies/#434b73c96f18)
 * metions Tim Berners-Lee 
 * mentions Facebook/ Google/ Microsoft/ big tech
 * "In Facebook CEO Mark Zuckerberg’s recent conversation with Harvard Law School's Jonathan Zittrain, the two briefly touched on a fascinating idea by Tim Berners-Lee, inventor of the World Wide Web, to build **a protocol called Solid**.Solid would act as a kind of data locker that would allow web users complete control over their data and what websites, companies, and apps they shared it with. In a September 2018 Medium post, Berners-Lee explained:It gives every user a choice about where data is stored, which specific people and groups can access select elements, and which apps you use. It allows you, your family and colleagues, to link and share data with anyone. It allows people to look at the same data with different apps at the same time. Solid would allow users constant access to the data they share as well as the ability to pick and choose what which apps can access certain information."
 * "If Solid could find a way to keep data secure from hackers and ensure that no one would ever be forced to hand over their data, we’d would likely have a good start to a new era of keeping our data safe on the Internet."
 
-2019-02-22 [Cryptoglobe: Mark Zuckerberg Considering Using Blockchain to Make Facebook More Decentralized](https://www.cryptoglobe.com/latest/2019/02/mark-zuckerberg-considering-using-blockchain-to-make-facebook-more-decentralized/)
-* The issue of decentralization came up when Professor Zittrain asked Zuckerberg his thoughts on Solid, a new project led by Professor Tim Berners-Lee, the inventor of the World Wide Web, that is focused on the idea of "true data ownership." Under this protocol, user data is decoupled from apps and held in some kind of "locker" that is under the user's control, which means the user controls who can access this data and also the user is able to avoid the problem of vendor lock-in.
+### 2019-02-21 
+[LearninPub: Highlights & transcript from Zuckerberg’s 20K-word ethics talk – TechCrunch](http://learninpub.blogspot.com/2019/02/highlights-transcript-from-zuckerbergs.html)
+* mentions Tim BL 
+* mentions tech giants 
+* Jonathan Zittrain: So, just as a technical matter, a number of the students in this room had a chance to hear from Tim Berners-Lee, inventor of the World Wide Web, and he has a new idea for something called “Solid”. I don’t know if you’ve heard of Solid. It’s a **protocol more than it is a product**. So, there’s no car to move off the lot today. But its idea is allowing people to have the data that they generate as they motor around the web end up in their own kind of **data locker**. Now, for somebody like Tim, it might mean literally in a locker under his desk and he could wake up in the middle of the night and see where his data is. For others, it might mean Iraq somewhere, guarded perhaps by a fiduciary who’s looking out for them, the way that we put money in a bank and then we can sleep at night knowing the bankers are– this is maybe not the best analogy in 2019, but watching.<laughter> Mark Zuckerberg: We’ll get there.Jonathan Zittrain: We’ll get there. But Solid says if you did that, people would then– or their helpful proxies– be able to say, “All right, Facebook is coming along.
 
-2019-02-27 [ITWeb: Trends 2019: Time to clean up your data act](https://www.itweb.co.za/content/WnxpEv4D25dvV8XL)
-* He's launched Solid, a project aimed at changing the way Web applications work, resulting in **true data ownership** and improved privacy.
+### 2019-02-20 (2)
+[TechCrunch: Highlights & transcript from Zuckerberg’s 20K-word ethics talk](https://techcrunch.com/2019/02/20/zuckerberg-harvard-zittrain/)
+* mentions Tim BL 
+* mentions tech giants 
+* Jonathan Zittrain: So, just as a technical matter, a number of the students in this room had a chance to hear from Tim Berners-Lee, inventor of the World Wide Web, and he has a new idea for something called “Solid”. I don’t know if you’ve heard of Solid. It’s a protocol more than it is a product. So, there’s no car to move off the lot today. But its idea is allowing people to have the data that they generate as they motor around the web end up in their own kind of data locker. Now, for somebody like Tim, it might mean literally in a locker under his desk and he could wake up in the middle of the night and see where his data is. For others, it might mean Iraq somewhere, guarded perhaps by a fiduciary who’s looking out for them, the way that we put money in a bank and then we can sleep at night knowing the bankers are– this is maybe not the best analogy in 2019, but watching. <laughter> Mark Zuckerberg: We’ll get there. Jonathan Zittrain: We’ll get there. But Solid says if you did that, people would then– or their helpful proxies– be able to say, “All right, Facebook is coming along.
 
-2019-02-28 [Cryptoglobe: Facebook Reportedly Talking to Exchanges About Listing Its New Cryptocurrency](https://www.cryptoglobe.com/latest/2019/02/facebook-reportedly-talking-to-exchanges-about-listing-its-new-cryptocurrency/)
-* The issue of decentralization came up when Professor Zittrain asked Zuckerberg his thoughts on Solid, a new project led by Professor Tim Berners-Lee, the inventor of the World Wide Web, that is focused on the idea of **"true data ownership."** Under this **protocol**, user data is decoupled from apps and held in some kind of "locker" that is under the user's control, which means the user controls who can access this data and also the user is able to avoid the problem of vendor lock-in.
+### 2019-02-20 (1)
+[Online Tech Tips: Highlights & transcript from Zuckerberg’s 20K-word ethics talk](https://online-techtips.blogspot.com/2019/02/highlights-transcript-from-zuckerbergs.html)
+* mentioned TimBL
+* But Solid says if you did that, people would then– or their helpful **proxies**– be able to say, “All right, Facebook is coming along. It wants the following data from me and including that data that it has generated about me as I use it, but stored back in my locker and it kind of has to come back to my well to draw water each time.
 
-2019-01-29 [The Next Web: Digital trends 2019: Every single stat you need to know about the internet](https://thenextweb.com/contributors/2019/01/30/digital-trends-2019-every-single-stat-you-need-to-know-about-the-internet/)
+### 2019-02-19 (2) 
+[News Broadcast Network: Highlights & transcript from Zuckerberg’s 20K-word ethics talk](https://newsbroadcastnetwork.com/highlights-transcript-from-zuckerbergs-20k-word-ethics-talk-techcrunch/)
+* mentions Tim BL 
+* mentions tech giants 
+* Jonathan Zittrain: So, just as a technical matter, a number of the students in this room had a chance to hear from Tim Berners-Lee, inventor of the World Wide Web, and he has a new idea for something called “Solid”. I don’t know if you’ve heard of Solid. It’s a protocol more than it is a product. So, there’s no car to move off the lot today. But its idea is allowing people to have the data that they generate as they motor around the web end up in their own kind of data locker. Now, for somebody like Tim, it might mean literally in a locker under his desk and he could wake up in the middle of the night and see where his data is. For others, it might mean Iraq somewhere, guarded perhaps by a fiduciary who’s looking out for them, the way that we put money in a bank and then we can sleep at night knowing the bankers are– this is maybe not the best analogy in 2019, but watching.Mark Zuckerberg: We’ll get there. Jonathan Zittrain: We’ll get there. But Solid says if you did that, people would then– or their helpful proxies– be able to say, “All right, Facebook is coming along.
+
+### 2019-02-19 (1)
+[Make Money with Google: Tomorrow's Data Heroes](https://make-money-with-googlee.blogspot.com/2019/02/tomorrows-data-heroes-strategybusiness.html)
+* mentions Tim BL 
+* mentions tech giants 
+* Founded in 2015 by Tim Berners-Lee, who developed the World Wide Web protocol in 1989, Solid is an attempt to “re-decentralize” the Web by enabling users to maintain their own data in “pods,” on their own computers or in the cloud. Users choose which apps and websites get access to their personal data.
+
+### 2019-02-15 
+[Mac Observer: Sir Tim Berners-Lee Wants to Fix the Web with New Startup](https://www.macobserver.com/link/tim-berners-lee-inrupt/)
+* mentions Tim BL 
+* Inrupt aims to drive the development of the Solid **platform** and transform it from an innovative idea to a viable platform for businesses and consumers. My group in the CSAIL [Computer Sciences and Artifical Intelligence Laboratory] Lab at MIT had been working on Solid for some years,” Berners-Lee says. “The initial goal of Inrupt is to add the energy and resources of a startup to the open-source efforts to make the Solid movement happen.”
+
+### 2019-02-14 
+[Washington Post: Washington Post Live hosts exclusive interview with Tim Berners-Lee](https://www.washingtonpost.com/pr/2019/02/14/washington-post-live-hosts-exclusive-interview-with-tim-berners-lee/)
+* metions Tim Berners-Lee 
+* "Berners-Lee will share his views on the rise of disinformation and censorship, threats to digital privacy, and his efforts through his company inrupt — and technology Solid — which empowers people to take back **ownership of their data**."
+
+
+### 2019-02-05 
+[Financial Express: Open up to open-source](https://www.financialexpress.com/opinion/open-up-to-open-source/1476602/)
+* mentions Tim BL 
+* mentions tech giants 
+* Tim Berners Lee, the ‘creator’ of the World Wide Web, has already kicked off a venture called Project Solid, in collaboration with the Massachusetts Institute of Technology, that aims to create a “decentralised internet” that gives individuals, rather than companies, greater control.
+
+### 2019-01-29 (4) 
+[The Next Web: Digital trends 2019: Every single stat you need to know about the internet](https://thenextweb.com/contributors/2019/01/30/digital-trends-2019-every-single-stat-you-need-to-know-about-the-internet/)
 * Rather, my sense is that privacy concerns, changes in people’s social media preferences and behaviors, and broader fatigue with existing platforms will all combine to inspire a series of new social platforms in 2019, perhaps making use of new innovations like Tim Berners-Lee’s SOLID. 
 
-2019-01-29 [BBC: Meet the data guardians taking on the tech giants](https://www.bbc.com/news/business-47027072)
+### 2019-01-29 (3) 
+[BBC: Meet the data guardians taking on the tech giants](https://www.bbc.com/news/business-47027072)
 * metions Tim Berners-Lee 
 * mentions Facebook/ Google/ Microsoft/ big tech
 * "Web creator Tim Berners-Lee has set up a project called Solid in partnership with the Massachusetts Institute of Technology, which is **a way of giving users "the freedom to choose where their data resides and who is allowed to access it".**"
 
-2019-01-29 [Techristic: Digital Trends 2019: Every Single Stat You Need To Know About The Internet](https://www.techristic.com/digital-trends-2019-every-single-stat-you-need-to-know-about-the-internet/)
+### 2019-01-29 (2) 
+[Techristic: Digital Trends 2019: Every Single Stat You Need To Know About The Internet](https://www.techristic.com/digital-trends-2019-every-single-stat-you-need-to-know-about-the-internet/)
 * TimBL mentioned
 * SOLID. This would fundamentally change the very fabric of business on the internet though, so expect to see plenty of resistance from the ‘Four Horsemen’.
 
-2019-01-29 [Dundee Messenger: Facebook and Google: The data guardians fight back](https://dundeemessenger.co.uk/technology/facebook-and-google-the-data-guardians-fight-back/)
+### 2019-01-29 (1) 
+[Dundee Messenger: Facebook and Google: The data guardians fight back](https://dundeemessenger.co.uk/technology/facebook-and-google-the-data-guardians-fight-back/)
 * Mentions Tim
 * Mentions tech giants 
 * Web creator Tim Berners-Lee has set up a project called Solid in partnership with the Massachusetts Institute of Technology, which is a way of giving users “the freedom to choose where their data resides and who is allowed to access it”.
 * This is an **open-source platform** that separates the app program from the data it generates, enabling users to create their own “personal online data store” (POD) they control.
 
-2019-01-26 [Maximus and Me: Wisdom Of The Week](http://maximusandme.blogspot.com/2019/01/wisdom-of-week_26.html)
+### 2019-01-26 
+[Maximus and Me: Wisdom Of The Week](http://maximusandme.blogspot.com/2019/01/wisdom-of-week_26.html)
  * That is why I am closely tracking what Tim Berners-Lee is doing with Solid. 
 
-2019-01-25 [My Mac: Essential Apple Podcast 120: The Bob is back in town](http://www.mymac.com/2019/01/essential-apple-podcast-120-the-bob-is-back-in-town/)
+### 2019-01-25 
+[My Mac: Essential Apple Podcast 120: The Bob is back in town](http://www.mymac.com/2019/01/essential-apple-podcast-120-the-bob-is-back-in-town/)
 * The father of the Internet, Tim Berners-Lee, has been trying to do the same with his Solid project
 
-2019-01-21 [MIT Technology Review](http://www.mittrchina.com/news/3453)
-* assigned to baoli@bo-zhi.com
+### 2019-01-21 
+[MIT Technology Review](http://www.mittrchina.com/news/3453)
 
-2019-01-19 [Security Boulevard: Client Applications: A Hacker’s Easiest Target?](https://securityboulevard.com/2019/01/client-applications-a-hackers-easiest-target/)
+### 2019-01-19 (2) 
+[Security Boulevard: Client Applications: A Hacker’s Easiest Target?](https://securityboulevard.com/2019/01/client-applications-a-hackers-easiest-target/)
 * "The Solid project backed by Sir Tim Berners-Lee is another promising **technology** in this area." 
 
-2019-01-10 [Medium: Building The SAFE Network in 2018](https://medium.com/safenetwork/building-the-safe-network-in-2018-598d7fa1c16f)
-* "Great progress was made in 2018 between Sir Tim Berners-Lee’s SOLID project and the SAFE Network. By building the framework to ensure that data is saved on the SAFE Network in a way that is compatible with **Solid’s semantic web approach**, we’re able to ensure that our shared visions of **total user control of data** and excision of the third party aggregators who currently control and use our data in ways that we don’t intend are able to fit snugly together."
-
-2019-01-09 [Ignitiate: A Historical Design Point - Off The Shelf Quantum Computers & Full Brain Access & Just Like Netscape in 1994](https://ignitiate.blogspot.com/2019/01/a-historical-design-turning-point-off.html)
-* With a Radical New Neural Network Design That Overcomes AI Brain Interfaces and an **operating system** like Solid, made by Interupt at MIT by Sir Tim Berners Lee @ MIT & Interupt who is going to up-end the internet as we know it and who created most of the internet & the web browser we know today, a fully connected, brain interface for designers, engineers and finance innovators is just about is real.
-
-2019-01-19 [SD Times: Solid’s data decentralization vision will change the way we interact with applications](https://sdtimes.com/webdev/solids-data-decentralization-vision-will-change-the-way-we-interact-with-applications/)
+### 2019-01-19 (1) 
+[SD Times: Solid’s data decentralization vision will change the way we interact with applications](https://sdtimes.com/webdev/solids-data-decentralization-vision-will-change-the-way-we-interact-with-applications/)
 * Mentions Tim BL
 * His new project, Solid, aims to put **control over data back into the hands of users**.
 * The **ecosystem** of Solid is based on the concept of PODs, which are spaces where an individual can keep all of their data, explained Jonathan Bingham, President and CEO of Janeiro Digital, a company that is working on the Solid **technology**. 
 * According to Solid’s website, PODs are like “secure USB sticks for the Web, that you can access from anywhere.
 
-2019-01-08 [Ask Bob Rankin: Can You Sell Your Digital Soul for Cash?](https://askbobrankin.com/can_you_sell_your_digital_soul_for_cash.html)
+### 2019-01-10
+[Medium: Building The SAFE Network in 2018](https://medium.com/safenetwork/building-the-safe-network-in-2018-598d7fa1c16f)
+* "Great progress was made in 2018 between Sir Tim Berners-Lee’s SOLID project and the SAFE Network. By building the framework to ensure that data is saved on the SAFE Network in a way that is compatible with **Solid’s semantic web approach**, we’re able to ensure that our shared visions of **total user control of data** and excision of the third party aggregators who currently control and use our data in ways that we don’t intend are able to fit snugly together."
+
+
+### 2019-01-09
+[Ignitiate: A Historical Design Point - Off The Shelf Quantum Computers & Full Brain Access & Just Like Netscape in 1994](https://ignitiate.blogspot.com/2019/01/a-historical-design-turning-point-off.html)
+* With a Radical New Neural Network Design That Overcomes AI Brain Interfaces and an **operating system** like Solid, made by Interupt at MIT by Sir Tim Berners Lee @ MIT & Interupt who is going to up-end the internet as we know it and who created most of the internet & the web browser we know today, a fully connected, brain interface for designers, engineers and finance innovators is just about is real.
+
+### 2019-01-08
+[Ask Bob Rankin: Can You Sell Your Digital Soul for Cash?](https://askbobrankin.com/can_you_sell_your_digital_soul_for_cash.html)
 * Mentions Tim BL
 * "When I first read about the Solid project, and its promise to put control of data back in the hands of individuals, I was skeptical of the notion that one could sell personal data for more than pennies. "
 * "The Web’s inventor, Sir Tim Berners-Lee (or “TBL”), is working on a thing he calls Solid, which I recently described. It will give each user a secure, portable “POD” that holds all of his digital data. The owner of that data can selectively share it with apps and companies, and revoke access at any time. "
 * "t’s a **software platform** called Solid."
 
-2019-01-06 [The Guardian: Together we can thwart the big-tech data grab. Here’s how](https://www.theguardian.com/commentisfree/2019/jan/07/big-tech-data-internet)
+### 2019-01-06
+[The Guardian: Together we can thwart the big-tech data grab. Here’s how](https://www.theguardian.com/commentisfree/2019/jan/07/big-tech-data-internet)
 * "Called Solid, it is **based around personal online data stores, or Pods, that contain the wealth of information people generate, and are their exclusive property**. This means they can allow access to particular elements of their data from particular services as they see fit, and move their data from app to app instead of surrendering it (imagine, for example, being able to move between social networks, taking your lists of friends and followers with you). Berners-Lee and his people are also working on a new kind of digital assistant they have named Charlie, the raison d’être of which is the careful use of personal information, to make individual lives easier and better, rather than the idea of using it to sell us things (“Charlie works for you; Charlie doesn’t work for Google or Amazon”)."
 
-2019-01-04 [The Telegraph: Microsoft tests project to hand people control over their online data](https://www.telegraph.co.uk/technology/2019/01/04/microsoft-tests-project-hand-people-control-online-data/)
+### 2019-01-04
+[The Telegraph: Microsoft tests project to hand people control over their online data](https://www.telegraph.co.uk/technology/2019/01/04/microsoft-tests-project-hand-people-control-online-data/)
 * Mentions Tim BL
 * Mentions tech giants
 * Tim Berners-Lee, the inventor of the world wide web, is working on a new project named Solid which will **let people store their personal information in “pods.”** Users could then allow authorised applications to access their data, but remain in control of it.
 
-2019-01-03 [Stuff.co: The web is broken. We need to fix it](https://www.stuff.co.nz/opinion/109464200/the-web-is-broken-we-need-to-fix-it)
+### 2019-01-03 (2)
+[Stuff.co: The web is broken. We need to fix it](https://www.stuff.co.nz/opinion/109464200/the-web-is-broken-we-need-to-fix-it)
 * Mentions Tim BL
 * Mentions tech giants
 * "And Berners-Lee and his team have developed SOLID, a **software freely available** to everyone to start moving from centralised to **decentralised** web applications, from giving personal data to monopolies towards taking back control of it. Web developers now have to join and build the applications end-users can use with SOLID that have the same user experience as the social media applications currently in use."
 
-2019-01-03 [AEI Ideas: The future of privacy policy: A Q&A with author David Brin](https://www.aei.org/technology-and-innovation/the-future-of-privacy-policy-a-qa-with-author-david-brin/)
+### 2019-01-03 (1)
+[AEI Ideas: The future of privacy policy: A Q&A with author David Brin](https://www.aei.org/technology-and-innovation/the-future-of-privacy-policy-a-qa-with-author-david-brin/)
 * Mentions Tim BL 
 * Mentions tech giants
 * "Tim Berners-Lee is working on something called Solid which would **let people keep their data cached in more secure capsules.** "
-
-2018-12-31 [NRC - Herstelwerk aan het kapotte internet](https://www.nrc.nl/nieuws/2018/12/31/herstelwerk-aan-het-kapotte-internet-a3127480)
-* article couldn' t be reviewed because it' s behind a paywall (only for subscribers)
